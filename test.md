@@ -4,6 +4,13 @@ Waar boeken zijn, moet ook speciaal meubilair voor boeken zijn, niet alleen boek
 
 Een voorbeeld van lessenaargebruik en het schrijven van brieven is te vinden in het portret van ==Petrus Scriverius=={Q2063138}, die het grootste deel van zijn leven in Leiden woonde. Dit is echter geen groot meubel, maar een kleine metalen lessenaar die op een tafel kan worden gezet. Het afgebeelde boek is niet identificeerbaar en staat hier meer als een visuele verwijzing naar zijn beroep: hij was een oudheidkundige en uitgever van klassieke en humanistische literatuur. Het doek is in 1561 gesigneerd door schilder ==Bartholomeus van der Helst=={Q380704}. Petrus Scriverius was het jaar daarvoor zijn zicht kwijtgeraakt en kon hierdoor niet meer werken. Hij nam toen ==Joachim Oudaen=={Q29962971} aan als zijn secretaris, die hem hielp door voor te lezen en te schrijven.
 
+.ve-media wc:Bartholomeus_van_der_Helst_-_Portrait_of_Petrus_Scriverius.jpg right
+
+[Holy SURP Hovhannes Church](https://commons.wikimedia.org/wiki/File:Holy_SURP_Hovhannes_Church.jpg)
+
+Saint John Church of Sohrol, a 5th or 6th century Armenian Catholic church in Sohrol, Iran, rebuilt by Samson Makintsev (Sam Khan) in 1840
+
+[Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) [Picture of the Year](https://commons.wikimedia.org/wiki/Commons:Picture_of_the_Year) for 2021
 
 # Hello, Juncture
 
