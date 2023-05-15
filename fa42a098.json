@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "foliant op een lessenaar",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/fa42a098b2bbb6e065b5471d65ee2e2ffbb533bb855fc611b3e6934ad44bd6b0",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:8.993215560913086,1213.6756591796875,791.4149265289307,2410.2186279296875"
+      },
+      "id": "fa42a098"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b3110493"
+  }
+]
