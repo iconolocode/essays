@@ -1,6 +1,6 @@
 # Rondleiding
 
-.ve-media wc:Dou_1614_map_of_Leiden.jpg sticky
+.ve-media wc:Dou_1614_map_of_Leiden.jpg sticky left
 
 ## Meubels voor boeken
 
