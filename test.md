@@ -1,6 +1,6 @@
 # Rondleiding
 
-.ve-media wc:Dou_1614_map_of_Leiden.jpg right sticky width=70% 
+.ve-media wc:Dou_1614_map_of_Leiden.jpg right sticky width=70% fit=cover
 
 ## Meubels voor boeken
 
