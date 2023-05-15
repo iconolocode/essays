@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "b3110493"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "schrijfgerei",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/fa42a098b2bbb6e065b5471d65ee2e2ffbb533bb855fc611b3e6934ad44bd6b0",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:494.6343994140625,1897.1702880859375,1324.27099609375,1573.8367919921875"
+      },
+      "id": "fa42a098"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "174ebb99"
   }
 ]
