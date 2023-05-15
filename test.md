@@ -1,5 +1,6 @@
 <style>
     #juncture p { padding-left:50%; }
+    #juncture div { background:none transparent; }
 </style>
 
 
