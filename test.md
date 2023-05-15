@@ -10,7 +10,9 @@
 
 ### stukjes
 
-.ve-media wc:Dou_1614_map_of_Leiden.jpg left sticky fit=cover
+.ve-map Q43631 14 left stiky 
+    - allmaps=4f925913636c0527 layer="Dou Map"
+
 
 **Meubels voor boeken**
 
@@ -63,8 +65,7 @@ Donec erat diam, lobortis id sem eget, gravida auctor lacus. Duis pharetra diam 
 
 ### kaart
 
-.ve-map Q43631 14
-    - allmaps=4f925913636c0527 layer="Dou Map"
+
 
 
 ### info
