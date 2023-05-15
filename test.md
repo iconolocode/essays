@@ -23,7 +23,6 @@ Waar boeken zijn, moet ook speciaal meubilair voor boeken zijn, niet alleen boek
 Een aantal ==lessenaars=={Q390539} zijn nu ook in het ==Museum de Lakenhal=={Q2098586} te vinden. Bij een eikenhouten lessenaar uit 1665 is het tafelblad bekleed met een doek om de boeken die erop gelezen werden te beschermen. Dit tafelblad werkt ook als een klep en kan geopend worden met een sleutel. Hieronder zitten verschillende vakjes en lades. Deze lessenaar werd niet alleen gebruikt om boeken te lezen, maar ook als ==secretaire=={Q3666631} om documenten en brieven op te schrijven.
 
 .ve-media gh:iconolocode/media/Lessenaar_1665-CC0.jpg right width=80%
-
 .ve-media gh:iconolocode/media/Lessenaar_1665_(open)-CC0.jpg right width=80%
 
 Er is zelfs een schrijfkast, de eerste helft is een normale kast maar bij bovenhelft kan de plank naar voren geopend getrokken worden om een tafel te vormen.
@@ -46,6 +45,8 @@ Lorem ==ipsum dolor sit amet=={zoomto:5e170e30}, consectetur adipiscing elit. Et
 {enter=zoomto:5e170e30}
 
 Proin iaculis porttitor molestie. Integer volutpat laoreet neque, et maximus augue pharetra a. Suspendisse in iaculis quam. Phasellus gravida nec dui a sodales. Pellentesque eu ultricies lorem. Quisque consectetur nec arcu a sodales. Morbi vel orci nec nisi euismod suscipit in ac justo.
+
+.ve-iframe https://www.google.com/maps/embed?pb=!4v1684170017550!6m8!1m7!1sQC3RPtJ8n_Gci_FN6fj89Q!2m2!1d52.15912537929232!2d4.489044200882202!3f198.74487895712008!4f-6.944827784416901!5f0.7820865974627469 left
 
 Sed nec blandit augue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean pharetra consequat metus, in consectetur tortor sollicitudin sit amet. Maecenas non condimentum mauris. Integer feugiat neque elit, eget porta lacus rhoncus ut. Sed id tellus id libero laoreet euismod eu quis dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam sed libero facilisis, feugiat orci in, tincidunt dui. Aenean egestas leo vitae rutrum auctor. Suspendisse sit amet mi gravida, feugiat neque non, eleifend purus. Donec a tortor sed dolor aliquam auctor id at ante. Sed felis est, porttitor eu justo et, porta egestas lacus. Nulla tempor lobortis orci. Ut arcu augue, faucibus eu tristique a, placerat at neque.
 
