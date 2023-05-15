@@ -20,9 +20,9 @@ Waar boeken zijn, moet ook speciaal meubilair voor boeken zijn, niet alleen boek
 
 Een aantal ==lessenaars=={Q390539} zijn nu ook in het ==Museum de Lakenhal=={Q2098586} te vinden. Bij een eikenhouten lessenaar uit 1665 is het tafelblad bekleed met een doek om de boeken die erop gelezen werden te beschermen. Dit tafelblad werkt ook als een klep en kan geopend worden met een sleutel. Hieronder zitten verschillende vakjes en lades. Deze lessenaar werd niet alleen gebruikt om boeken te lezen, maar ook als ==secretaire=={Q3666631} om documenten en brieven op te schrijven.
 
-.ve-media gh:iconolocode/media/Lessenaar_1665-CC0.jpg right
+.ve-media gh:iconolocode/media/Lessenaar_1665-CC0.jpg right width=80%
 
-.ve-media gh:iconolocode/media/Lessenaar_1665_(open)-CC0.jpg right
+.ve-media gh:iconolocode/media/Lessenaar_1665_(open)-CC0.jpg right width=80%
 
 Er is zelfs een schrijfkast, de eerste helft is een normale kast maar bij bovenhelft kan de plank naar voren geopend getrokken worden om een tafel te vormen.
 
