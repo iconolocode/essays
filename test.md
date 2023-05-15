@@ -1,15 +1,19 @@
 # Rondleiding
 
+## {.tabs}
+
+### stukjes
+
 .ve-media wc:Dou_1614_map_of_Leiden.jpg left sticky fit=cover
 
-## Meubels voor boeken
+#### Meubels voor boeken
 
 Waar boeken zijn, moet ook speciaal meubilair voor boeken zijn, niet alleen boekenkasten en boekenplanken voor het opbergen, maar ook meubels voor het lezen en schrijven. Boeken werden niet vaak plat neergelegd, maar meestal schuin op een lessenaar. Een eenvoudige voorbeeld is nu in ==Molenmuseum De Valk=={Q2776719} te zien, deze werd op een tafel geplaatst. Een aantal ==lessenaars=={Q390539} zijn nu ook in het ==Museum de Lakenhal=={Q2098586} te vinden. Bij een eikenhouten lessenaar uit 1665 is het tafelblad bekleed met een doek om de boeken die erop gelezen werden te beschermen. Dit tafelblad werkt ook als een klep en kan geopend worden met een sleutel. Hieronder zitten verschillende vakjes en lades. Deze lessenaar werd niet alleen gebruikt om boeken te lezen, maar ook als ==secretaire=={Q3666631} om documenten en brieven op te schrijven. Er is zelfs een schrijfkast, de eerste helft is een normale kast maar bij bovenhelft kan de plank naar voren geopend getrokken worden om een tafel te vormen.
 
 .ve-media wc:Bartholomeus_van_der_Helst_-_Portrait_of_Petrus_Scriverius.jpg right width=40%
 Een voorbeeld van lessenaargebruik en het ==schrijven van brieven=={zoomto:174ebb99} is te vinden in het portret van ==Petrus Scriverius=={Q2063138}, die het grootste deel van zijn leven in Leiden woonde. Dit is echter geen groot meubel, maar een ==kleine metalen lessenaar=={zoomto:b3110493} die op een tafel kan worden gezet. Het afgebeelde boek is niet identificeerbaar en staat hier meer als een visuele verwijzing naar zijn beroep: hij was een oudheidkundige en uitgever van klassieke en humanistische literatuur. Het doek is in 1561 gesigneerd door schilder ==Bartholomeus van der Helst=={Q380704}. Petrus Scriverius was het jaar daarvoor zijn zicht kwijtgeraakt en kon hierdoor niet meer werken. Hij nam toen ==Joachim Oudaen=={Q29962971} aan als zijn secretaris, die hem hielp door voor te lezen en te schrijven.
 
-## nieuwe locatie
+### nieuwe locatie
 
 
 Lorem ==ipsum dolor sit amet=={zoomto:5e170e30}, consectetur adipiscing elit. Etiam facilisis feugiat rutrum. Nulla neque purus, tincidunt vitae maximus vitae, facilisis non lectus. Sed nulla ipsum, pellentesque sed mi ut, dignissim pellentesque risus. Quisque facilisis nisi at dui blandit eleifend. Cras hendrerit accumsan tincidunt. Donec condimentum erat a sollicitudin ultrices. Fusce ornare mauris non est consequat finibus ac ut nibh. Ut interdum nec sem eu mollis. Donec ut massa orci. Morbi posuere ornare dolor, mattis tempus orci varius mollis. Donec blandit dignissim erat, vitae interdum velit. Phasellus in dictum nisi. Curabitur ex eros, malesuada a nulla efficitur, sollicitudin bibendum augue. Vestibulum aliquam sit amet turpis ac lobortis. Curabitur facilisis maximus scelerisque.
@@ -33,4 +37,7 @@ Nullam condimentum sodales quam, eget euismod ante dapibus id. Maecenas non plac
 
 Donec erat diam, lobortis id sem eget, gravida auctor lacus. Duis pharetra diam sollicitudin tortor varius, sit amet eleifend ligula vulputate. In commodo egestas neque, ut placerat ante semper at. Aliquam sit amet dapibus quam. In condimentum iaculis orci at luctus. Maecenas vehicula tempor mi in mollis. Morbi non vehicula felis. Donec in lectus gravida metus cursus eleifend rhoncus dignissim urna. Proin eros neque, tincidunt eget purus vitae, finibus dignissim mi. Sed felis justo, lacinia vel enim vitae, imperdiet mattis metus. Nunc dolor neque, luctus nec massa a, cursus sollicitudin risus.
 
+### kaart
+
+### info
 
