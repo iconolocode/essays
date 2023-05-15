@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "locatie",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/a5c8ca62f2ab12253e243a59e7527e0948c0dc90672854700bf0a4fcb4929359",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1859.7911376953125,2409.9306640625,210.4188232421875,170.964111328125"
+      },
+      "id": "a5c8ca62"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5e170e30"
+  }
+]
