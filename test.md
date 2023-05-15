@@ -46,7 +46,7 @@ Lorem ==ipsum dolor sit amet=={zoomto:5e170e30}, consectetur adipiscing elit. Et
 
 Proin iaculis porttitor molestie. Integer volutpat laoreet neque, et maximus augue pharetra a. Suspendisse in iaculis quam. Phasellus gravida nec dui a sodales. Pellentesque eu ultricies lorem. Quisque consectetur nec arcu a sodales. Morbi vel orci nec nisi euismod suscipit in ac justo.
 
-.ve-iframe https://www.google.com/maps/embed?pb=!4v1684170017550!6m8!1m7!1sQC3RPtJ8n_Gci_FN6fj89Q!2m2!1d52.15912537929232!2d4.489044200882202!3f198.74487895712008!4f-6.944827784416901!5f0.7820865974627469 left
+.ve-iframe https://www.google.com/maps/embed?pb=!4v1684170017550!6m8!1m7!1sQC3RPtJ8n_Gci_FN6fj89Q!2m2!1d52.15912537929232!2d4.489044200882202!3f198.74487895712008!4f-6.944827784416901!5f0.7820865974627469 left width=92%
 
 Sed nec blandit augue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean pharetra consequat metus, in consectetur tortor sollicitudin sit amet. Maecenas non condimentum mauris. Integer feugiat neque elit, eget porta lacus rhoncus ut. Sed id tellus id libero laoreet euismod eu quis dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam sed libero facilisis, feugiat orci in, tincidunt dui. Aenean egestas leo vitae rutrum auctor. Suspendisse sit amet mi gravida, feugiat neque non, eleifend purus. Donec a tortor sed dolor aliquam auctor id at ante. Sed felis est, porttitor eu justo et, porta egestas lacus. Nulla tempor lobortis orci. Ut arcu augue, faucibus eu tristique a, placerat at neque.
 
