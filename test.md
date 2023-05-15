@@ -1,6 +1,6 @@
 # Rondleiding
 
-## {.tabs}
+## {.tabs style:height=100%}
 
 ### stukjes
 
