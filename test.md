@@ -13,6 +13,7 @@ Een voorbeeld van lessenaargebruik en het ==schrijven van brieven=={zoomto:174eb
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam facilisis feugiat rutrum. Nulla neque purus, tincidunt vitae maximus vitae, facilisis non lectus. Sed nulla ipsum, pellentesque sed mi ut, dignissim pellentesque risus. Quisque facilisis nisi at dui blandit eleifend. Cras hendrerit accumsan tincidunt. Donec condimentum erat a sollicitudin ultrices. Fusce ornare mauris non est consequat finibus ac ut nibh. Ut interdum nec sem eu mollis. Donec ut massa orci. Morbi posuere ornare dolor, mattis tempus orci varius mollis. Donec blandit dignissim erat, vitae interdum velit. Phasellus in dictum nisi. Curabitur ex eros, malesuada a nulla efficitur, sollicitudin bibendum augue. Vestibulum aliquam sit amet turpis ac lobortis. Curabitur facilisis maximus scelerisque.
+{enter=zoomto:5e170e30}
 
 Proin iaculis porttitor molestie. Integer volutpat laoreet neque, et maximus augue pharetra a. Suspendisse in iaculis quam. Phasellus gravida nec dui a sodales. Pellentesque eu ultricies lorem. Quisque consectetur nec arcu a sodales. Morbi vel orci nec nisi euismod suscipit in ac justo.
 
