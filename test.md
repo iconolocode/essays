@@ -42,8 +42,8 @@ Dit is echter geen groot meubel, maar een ==kleine metalen lessenaar=={zoomto:b3
 
 **nieuwe locatie**
 
-Lorem ==ipsum dolor sit amet=={zoomto:5e170e30}, consectetur adipiscing elit. Etiam facilisis feugiat rutrum. Nulla neque purus, tincidunt vitae maximus vitae, facilisis non lectus. Sed nulla ipsum, pellentesque sed mi ut, dignissim pellentesque risus. Quisque facilisis nisi at dui blandit eleifend. Cras hendrerit accumsan tincidunt. Donec condimentum erat a sollicitudin ultrices. Fusce ornare mauris non est consequat finibus ac ut nibh. Ut interdum nec sem eu mollis. Donec ut massa orci. Morbi posuere ornare dolor, mattis tempus orci varius mollis. Donec blandit dignissim erat, vitae interdum velit. Phasellus in dictum nisi. Curabitur ex eros, malesuada a nulla efficitur, sollicitudin bibendum augue. Vestibulum aliquam sit amet turpis ac lobortis. Curabitur facilisis maximus scelerisque.
-{enter=zoomto:5e170e30}
+Lorem ==ipsum dolor sit=={flyto:Q2946957} amet, consectetur adipiscing elit. Etiam facilisis feugiat rutrum. Nulla neque purus, tincidunt vitae maximus vitae, facilisis non lectus. Sed nulla ipsum, pellentesque sed mi ut, dignissim pellentesque risus. Quisque facilisis nisi at dui blandit eleifend. Cras hendrerit accumsan tincidunt. Donec condimentum erat a sollicitudin ultrices. Fusce ornare mauris non est consequat finibus ac ut nibh. Ut interdum nec sem eu mollis. Donec ut massa orci. Morbi posuere ornare dolor, mattis tempus orci varius mollis. Donec blandit dignissim erat, vitae interdum velit. Phasellus in dictum nisi. Curabitur ex eros, malesuada a nulla efficitur, sollicitudin bibendum augue. Vestibulum aliquam sit amet turpis ac lobortis. Curabitur facilisis maximus scelerisque.
+{enter=flyto:Q2946957}
 
 Proin iaculis porttitor molestie. Integer volutpat laoreet neque, et maximus augue pharetra a. Suspendisse in iaculis quam. Phasellus gravida nec dui a sodales. Pellentesque eu ultricies lorem. Quisque consectetur nec arcu a sodales. Morbi vel orci nec nisi euismod suscipit in ac justo.
 
@@ -51,12 +51,12 @@ Proin iaculis porttitor molestie. Integer volutpat laoreet neque, et maximus aug
 
 Sed nec blandit augue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean pharetra consequat metus, in consectetur tortor sollicitudin sit amet. Maecenas non condimentum mauris. Integer feugiat neque elit, eget porta lacus rhoncus ut. Sed id tellus id libero laoreet euismod eu quis dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam sed libero facilisis, feugiat orci in, tincidunt dui. Aenean egestas leo vitae rutrum auctor. Suspendisse sit amet mi gravida, feugiat neque non, eleifend purus. Donec a tortor sed dolor aliquam auctor id at ante. Sed felis est, porttitor eu justo et, porta egestas lacus. Nulla tempor lobortis orci. Ut arcu augue, faucibus eu tristique a, placerat at neque.
 
-.ve-iframe https://uv-v4.netlify.app/uv.html#?manifest=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00093201/manifest full height=600px width=80%
+.ve-iframe https://uv-v4.netlify.app/uv.html#?manifest=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00093201/manifest full height=600px 
 
 
 Vivamus non venenatis elit. Integer sapien diam, sollicitudin eu nisi dictum, pellentesque lacinia nisi. Etiam sit amet enim at justo volutpat pharetra vel eget massa. Curabitur vehicula eget enim et sollicitudin. Ut lacus ante, lacinia vitae diam et, facilisis imperdiet enim. Ut et volutpat libero. Nullam bibendum velit ac auctor pretium. Fusce dapibus sagittis sapien. Nunc eget sapien sed mauris pulvinar faucibus. Phasellus luctus viverra nibh, in varius lectus consectetur vitae.
 
-.ve-iframe https://uv-v4.netlify.app/uv.html#?manifest=https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%253A1685390/manifest full height=600px width=80%
+.ve-iframe https://uv-v4.netlify.app/uv.html#?manifest=https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%253A1685390/manifest full height=600px
 
 Nullam quam quis quam lacinia pellentesque vel a odio. Vestibulum ut fermentum ipsum. Morbi tincidunt iaculis enim, vitae egestas dui luctus non. Nulla mollis turpis id ex luctus, sit amet sollicitudin neque elementum. Suspendisse non rhoncus metus. Sed ac elit sit amet libero lacinia ornare. Integer et fringilla sapien. Quisque tristique luctus elit ac scelerisque. Curabitur vel blandit augue. Aenean sed justo a sapien pellentesque tempus sed imperdiet quam. Praesent volutpat ex nec lectus vehicula, sit amet consectetur metus facilisis. Etiam volutpat magna tellus, eget luctus ante fermentum nec. Nam tristique ante eu venenatis ultrices. Ut sollicitudin urna vitae neque viverra vestibulum. Integer pretium, mi et molestie lobortis, ligula ex ultrices orci, eu mattis nulla orci rutrum tellus. Cras nisl tortor, efficitur eget metus vitae, mattis euismod enim.
 
@@ -70,9 +70,8 @@ Nullam condimentum sodales quam, eget euismod ante dapibus id. Maecenas non plac
 
 Donec erat diam, lobortis id sem eget, gravida auctor lacus. Duis pharetra diam sollicitudin tortor varius, sit amet eleifend ligula vulputate. In commodo egestas neque, ut placerat ante semper at. Aliquam sit amet dapibus quam. In condimentum iaculis orci at luctus. Maecenas vehicula tempor mi in mollis. Morbi non vehicula felis. Donec in lectus gravida metus cursus eleifend rhoncus dignissim urna. Proin eros neque, tincidunt eget purus vitae, finibus dignissim mi. Sed felis justo, lacinia vel enim vitae, imperdiet mattis metus. Nunc dolor neque, luctus nec massa a, cursus sollicitudin risus.
 
-### route
+### kaart
 
-.ve-iframe https://www.google.com/maps/embed?pb=!1m84!1m8!1m3!1d19583.454659470965!2d4.4749711!3d52.1537494!3m2!1i1024!2i768!4f13.1!4m73!3e2!4m3!3m2!1d52.1569842!2d4.485676799999999!4m3!3m2!1d52.157117799999995!2d4.4849177!4m5!1s0x47c5c6f1a2e77ed1%3A0xa6094185eb1dc2e4!2sUniversiteitsbibliotheek%20Leiden!3m2!1d52.157305!2d4.481427!4m5!1s0x47c5c6f3bcecf72d%3A0xc60539fa09f1a0db!2sSint%20Annahof%20Of%20Joostenpoort!3m2!1d52.155436699999996!2d4.4851662!4m5!1s0x47c5c6f366949b73%3A0xf2e2a0e631f8896e!2sErfgoed%20Leiden%20en%20omstreken!3m2!1d52.154296599999995!2d4.4873299!4m5!1s0x47c5c68ce0e72bc7%3A0x6027bb878ae253b7!2sSteenschuur%2019%2C%202311%20ES%20Leiden!3m2!1d52.1560339!2d4.4913864!4m5!1s0x47c5c68db65188df%3A0x9a7675af61a2dbbb!2sTerpen%20Tijn%204art!3m2!1d52.156701899999995!2d4.494413199999999!4m5!1s0x47c5c68d31b3ef9f%3A0x7eb694b31d0ed24d!2sKetelboetersteeg%2027%2C%202311%20TN%20Leiden!3m2!1d52.1571569!2d4.4903445!4m5!1s0x47c5c6f2a77da737%3A0xb1d279fe13a8f8cb!2sBoekhandel%20De%20Slegte%20Leiden!3m2!1d52.1590676!2d4.4890022!4m5!1s0x47c5c6ec5ec8e867%3A0xb64d67c1c6e77359!2sMuseum%20De%20Lakenhal!3m2!1d52.162897799999996!2d4.4875112999999995!4m5!1s0x47c5c6ec3be88d75%3A0x556ff3d5011af946!2sBeestenmarkt%2C%202312%20CH%20Leiden!3m2!1d52.1628213!2d4.4851369!4m5!1s0x47c5c6ee5c3fffff%3A0x8efee914cf4bebe!2sMolen%20De%20Put!3m2!1d52.1613282!2d4.4819311!4m3!3m2!1d52.1573304!2d4.4869768!5e0!3m2!1sen!2snl!4v1684222093012!5m2!1sen!2snl full
 
 
 
