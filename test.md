@@ -39,8 +39,8 @@ Er is zelfs een schrijfkast, de eerste helft is een normale kast maar bij bovenh
 <p style="color:transparent;">Lorem ipsum...</p>
 
 .ve-media wc:Bartholomeus_van_der_Helst_-_Portrait_of_Petrus_Scriverius.jpg left width=70% fit=cover 
-Een voorbeeld van lessenaargebruik en het ==schrijven van brieven=={zoomto=174ebb99} is te vinden in het portret van ==Petrus Scriverius=={Q2063138}, die het grootste deel van zijn leven in Leiden woonde.
-Dit is echter geen groot meubel, maar een ==kleine metalen lessenaar=={zoomto=b3110493} die op een tafel kan worden gezet. Het afgebeelde boek is niet identificeerbaar en staat hier meer als een visuele verwijzing naar zijn beroep: hij was een oudheidkundige en uitgever van klassieke en humanistische literatuur. Het doek is in 1561 gesigneerd door schilder ==Bartholomeus van der Helst=={Q380704}. Petrus Scriverius was het jaar daarvoor zijn zicht kwijtgeraakt en kon hierdoor niet meer werken. Hij nam toen ==Joachim Oudaen=={Q29962971} aan als zijn secretaris, die hem hielp door voor te lezen en te schrijven.
+Een voorbeeld van lessenaargebruik en het ==schrijven van brieven=={zoomto=pct:0,20,50,60,174ebb99} is te vinden in het portret van ==Petrus Scriverius=={Q2063138}, die het grootste deel van zijn leven in Leiden woonde.
+Dit is echter geen groot meubel, maar een ==kleine metalen lessenaar=={zoomto=pct:0,20,50,60,b3110493} die op een tafel kan worden gezet. Het afgebeelde boek is niet identificeerbaar en staat hier meer als een visuele verwijzing naar zijn beroep: hij was een oudheidkundige en uitgever van klassieke en humanistische literatuur. Het doek is in 1561 gesigneerd door schilder ==Bartholomeus van der Helst=={Q380704}. Petrus Scriverius was het jaar daarvoor zijn zicht kwijtgeraakt en kon hierdoor niet meer werken. Hij nam toen ==Joachim Oudaen=={Q29962971} aan als zijn secretaris, die hem hielp door voor te lezen en te schrijven.
 
 ---
 
