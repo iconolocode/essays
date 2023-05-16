@@ -3,6 +3,7 @@
     #juncture div { background-color: transparent; }
 </style>
 
+# {.show-active}
 
 # Rondleiding
 
@@ -12,11 +13,14 @@
 
 .ve-map Q43631 14 left sticky 
     - allmaps=4f925913636c0527 layer="Dou Map"
+    - Q2098586
+    - Q2946957
 
 
-**Meubels voor boeken**
+==**Meubels voor boeken**=={flyto:Q2098586,17}
 
 Waar boeken zijn, moet ook speciaal meubilair voor boeken zijn, niet alleen boekenkasten en boekenplanken voor het opbergen, maar ook meubels voor het lezen en schrijven. Boeken werden niet vaak plat neergelegd, maar meestal schuin op een lessenaar. Een eenvoudige voorbeeld is nu in ==Molenmuseum De Valk=={Q2776719} te zien, deze werd op een tafel geplaatst. 
+{enter=flyto:Q2098586,17}
 
 .ve-media gh:iconolocode/media/Oude_lessenaar-CC0.jpg right
 
@@ -35,15 +39,15 @@ Er is zelfs een schrijfkast, de eerste helft is een normale kast maar bij bovenh
 <p style="color:transparent;">Lorem ipsum...</p>
 
 .ve-media wc:Bartholomeus_van_der_Helst_-_Portrait_of_Petrus_Scriverius.jpg left width=70% fit=cover 
-Een voorbeeld van lessenaargebruik en het ==schrijven van brieven=={zoomto:174ebb99} is te vinden in het portret van ==Petrus Scriverius=={Q2063138}, die het grootste deel van zijn leven in Leiden woonde.
-Dit is echter geen groot meubel, maar een ==kleine metalen lessenaar=={zoomto:b3110493} die op een tafel kan worden gezet. Het afgebeelde boek is niet identificeerbaar en staat hier meer als een visuele verwijzing naar zijn beroep: hij was een oudheidkundige en uitgever van klassieke en humanistische literatuur. Het doek is in 1561 gesigneerd door schilder ==Bartholomeus van der Helst=={Q380704}. Petrus Scriverius was het jaar daarvoor zijn zicht kwijtgeraakt en kon hierdoor niet meer werken. Hij nam toen ==Joachim Oudaen=={Q29962971} aan als zijn secretaris, die hem hielp door voor te lezen en te schrijven.
+Een voorbeeld van lessenaargebruik en het ==schrijven van brieven=={zoomto=174ebb99} is te vinden in het portret van ==Petrus Scriverius=={Q2063138}, die het grootste deel van zijn leven in Leiden woonde.
+Dit is echter geen groot meubel, maar een ==kleine metalen lessenaar=={zoomto=b3110493} die op een tafel kan worden gezet. Het afgebeelde boek is niet identificeerbaar en staat hier meer als een visuele verwijzing naar zijn beroep: hij was een oudheidkundige en uitgever van klassieke en humanistische literatuur. Het doek is in 1561 gesigneerd door schilder ==Bartholomeus van der Helst=={Q380704}. Petrus Scriverius was het jaar daarvoor zijn zicht kwijtgeraakt en kon hierdoor niet meer werken. Hij nam toen ==Joachim Oudaen=={Q29962971} aan als zijn secretaris, die hem hielp door voor te lezen en te schrijven.
 
 ---
 
-**nieuwe locatie**
+==**nieuwe locatie**=={flyto:Q2946957,17}
 
-Lorem ==ipsum dolor sit=={flyto:Q2946957} amet, consectetur adipiscing elit. Etiam facilisis feugiat rutrum. Nulla neque purus, tincidunt vitae maximus vitae, facilisis non lectus. Sed nulla ipsum, pellentesque sed mi ut, dignissim pellentesque risus. Quisque facilisis nisi at dui blandit eleifend. Cras hendrerit accumsan tincidunt. Donec condimentum erat a sollicitudin ultrices. Fusce ornare mauris non est consequat finibus ac ut nibh. Ut interdum nec sem eu mollis. Donec ut massa orci. Morbi posuere ornare dolor, mattis tempus orci varius mollis. Donec blandit dignissim erat, vitae interdum velit. Phasellus in dictum nisi. Curabitur ex eros, malesuada a nulla efficitur, sollicitudin bibendum augue. Vestibulum aliquam sit amet turpis ac lobortis. Curabitur facilisis maximus scelerisque.
-{enter=flyto:Q2946957}
+Lorem ==ipsum dolor sit=={flyto:Q2946957,15} amet, consectetur adipiscing elit. Etiam facilisis feugiat rutrum. Nulla neque purus, tincidunt vitae maximus vitae, facilisis non lectus. Sed nulla ipsum, pellentesque sed mi ut, dignissim pellentesque risus. Quisque facilisis nisi at dui blandit eleifend. Cras hendrerit accumsan tincidunt. Donec condimentum erat a sollicitudin ultrices. Fusce ornare mauris non est consequat finibus ac ut nibh. Ut interdum nec sem eu mollis. Donec ut massa orci. Morbi posuere ornare dolor, mattis tempus orci varius mollis. Donec blandit dignissim erat, vitae interdum velit. Phasellus in dictum nisi. Curabitur ex eros, malesuada a nulla efficitur, sollicitudin bibendum augue. Vestibulum aliquam sit amet turpis ac lobortis. Curabitur facilisis maximus scelerisque.
+{enter=flyto:Q2946957,17}
 
 Proin iaculis porttitor molestie. Integer volutpat laoreet neque, et maximus augue pharetra a. Suspendisse in iaculis quam. Phasellus gravida nec dui a sodales. Pellentesque eu ultricies lorem. Quisque consectetur nec arcu a sodales. Morbi vel orci nec nisi euismod suscipit in ac justo.
 
