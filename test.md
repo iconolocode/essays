@@ -28,7 +28,7 @@ Een aantal ==lessenaars=={Q390539} zijn nu ook in het ==Museum de Lakenhal=={Q20
 
 .ve-media gh:iconolocode/media/Lessenaar_1665-CC0.jpg right width=80%
 
-.ve-media gh:iconolocode/media/Lessenaar_1665_(open)-CC0.jpg right width=80$
+.ve-media gh:iconolocode/media/Lessenaar_1665_(open)-CC0.jpg right width=80%
 
 Er is zelfs een schrijfkast, de eerste helft is een normale kast maar bij bovenhelft kan de plank naar voren geopend getrokken worden om een tafel te vormen.
 
