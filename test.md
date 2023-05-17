@@ -33,7 +33,7 @@ Een aantal ==lessenaars=={Q390539} zijn nu ook in het ==Museum de Lakenhal=={Q20
 Er is zelfs een schrijfkast, de eerste helft is een normale kast maar bij bovenhelft kan de plank naar voren geopend getrokken worden om een tafel te vormen.
 
 .ve-media right width=60% 
-    - gh:iconolocode/media/Schrijfkast-CC0.jpg 
+    - gh:iconolocode/media/Schrijfkast_(dicht)-CC0.jpg 
     - gh:iconolocode/media/Schrijfkast_(open)-CC0.jpg
 
 <p style="color:transparent;">Lorem ipsum...</p>
