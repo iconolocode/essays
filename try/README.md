@@ -1,2 +1,2 @@
 
-Een aantal ==lessenaars=={Q390539}
+Een aantal ==lessenaars=={description="Een lessenaar, lezenaar, of ook wel boekstandaard is een standaard waarop een boek of bladtekst kan worden gelegd, zodat men erachter staand kan voorlezen. Het blad van de lessenaar ligt meestal een beetje schuin."}
