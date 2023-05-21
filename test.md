@@ -22,7 +22,10 @@
 Bij boeken hoort speciaal boekenmeubilair, er zijn niet alleen boekenkasten en boekenplanken nodig voor het opbergen, maar ook tafels voor het lezen en schrijven. Boeken werden in de middeleeuwen niet vaak plat neergelegd, maar meestal schuin op een ==lessenaar=={Q390539}. Een eenvoudig voorbeeld is nu in ==Molenmuseum De Valk=={Q2776719} te zien, deze lessenaar werd op een tafel geplaatst. Het is niet bekend wanneer deze lessenaar gemaakt is.
 {enter=flyto:Q2098586,17}
 
-.ve-media wc:De_verkondiging_aan_Maria_Maria_uit_een_Annunciatie-groep,_BK-16986-B.jpg left
+.ve-media left
+- wc:De_verkondiging_aan_Maria_Maria_uit_een_Annunciatie-groep,_BK-16986-B.jpg
+- wc:De_verkondiging_aan_Maria_Maria_uit_een_Annunciatie-groep,_BK-16986-B.jpg
+
 .ve-media gh:iconolocode/media/Oude_lessenaar-CC0.jpg right
 
 Er zijn maar weinig meubels uit de middeleeuwen overgebleven, maar vanwege illustraties weten we soms wel hoe ze eruitzagen. Dit is het geval bij een Mariabeeldje uit 1485. Latere lessenaars waren vergelijkbaar in vorm, maar de stijl van versiering verschilde wel. Een aantal lessenaars is nu in ==Museum de Lakenhal=={Q2098586} te vinden.
@@ -32,9 +35,13 @@ Er zijn maar weinig meubels uit de middeleeuwen overgebleven, maar vanwege illus
 
 .ve-media gh:iconolocode/media/Lessenaar_1665_(open)-CC0.jpg right width=80%
 
-Bij een eikenhouten lessenaar uit 1665 is het tafelblad bekleed met een doek, om de boeken die erop gelezen werden te beschermen. Dit tafelblad werkt ook als een klep en kan geopend worden met een sleutel. Hieronder zitten verschillende vakjes en lades. Deze lessenaar werd niet alleen gebruikt om boeken op te lezen, maar ook als ==secretaire=={Q3666631} om documenten en brieven op te schrijven. Er is zelfs een schrijfkast: de onderste helft is een normale kast met deurtjes maar bij de bovenste helft kan de plank naar voren geopend worden om een tafel te vormen. Dit type kast bestond al eerder, en is te zien in een houtsnede uit 1494 waar de heilige Hiëronymus een boek aan het overschrijven is. 
-
 .ve-media wc:Heilige_Hieronymus_achter_een_lessenaar_Sant_Jeronimus_(titel_op_object),_RP-P-2015-26-837.jpg left
+
+Bij een eikenhouten lessenaar uit 1665 is het tafelblad bekleed met een doek, om de boeken die erop gelezen werden te beschermen. Dit tafelblad werkt ook als een klep en kan geopend worden met een sleutel. Hieronder zitten verschillende vakjes en lades. Deze lessenaar werd niet alleen gebruikt om boeken op te lezen, maar ook als ==secretaire=={Q3666631} om documenten en brieven op te schrijven. Er is zelfs een schrijfkast: de onderste helft is een normale kast met deurtjes maar bij de bovenste helft kan de plank naar voren geopend worden om een tafel te vormen. Dit type kast bestond al eerder, en is ==te zien=={zoomto=pct:0,20,50,60,f8409570} in een houtsnede uit 1494 waar de heilige Hiëronymus een boek aan het overschrijven is. 
+
+.ve-media left
+    - wc:Heilige_Hieronymus_achter_een_lessenaar_Sant_Jeronimus_(titel_op_object),_RP-P-2015-26-837.jpg
+    - wc:Heilige_Hieronymus_achter_een_lessenaar_Sant_Jeronimus_(titel_op_object),_RP-P-2015-26-837.jpg
 
 .ve-media right width=60% 
     - gh:iconolocode/media/Schrijfkast_(dicht)-CC0.jpg 
