@@ -35,11 +35,11 @@ Er zijn maar weinig meubels uit de middeleeuwen overgebleven, maar vanwege illus
 
 Bij een eikenhouten lessenaar uit 1665 is het tafelblad bekleed met een doek, om de boeken die erop gelezen werden te beschermen. Dit tafelblad werkt ook als een klep en kan geopend worden met een sleutel. Hieronder zitten verschillende vakjes en lades. Deze lessenaar werd niet alleen gebruikt om boeken op te lezen, maar ook als ==secretaire=={Q3666631} om documenten en brieven op te schrijven.
 
-.ve-media right width=50% 
+.ve-media right height=400px width=50%
     - gh:iconolocode/media/Schrijfkast_(dicht)-CC0.jpg 
     - gh:iconolocode/media/Schrijfkast_(open)-CC0.jpg
 
-.ve-media wc:Heilige_Hieronymus_achter_een_lessenaar_Sant_Jeronimus_(titel_op_object),_RP-P-2015-26-837.jpg left
+.ve-media wc:Heilige_Hieronymus_achter_een_lessenaar_Sant_Jeronimus_(titel_op_object),_RP-P-2015-26-837.jpg left height=400px
 Er is zelfs een schrijfkast: de onderste helft is een normale kast met deurtjes maar bij de bovenste helft kan de plank naar voren geopend worden om een tafel te vormen. Dit type kast bestond al eerder, en is ==te zien=={zoomto=pct:0,25,50,60,bf2a5336} in een houtsnede uit 1494 waar de heilige Hiëronymus een boek aan het overschrijven is. 
 
 .ve-media wc:Bartholomeus_van_der_Helst_-_Portrait_of_Petrus_Scriverius.jpg left width=70% fit=cover 
