@@ -19,28 +19,28 @@
 
 ==**Meubels voor boeken**=={flyto:Q2098586,17}
 
-Waar boeken zijn, moet ook speciaal meubilair voor boeken zijn, niet alleen boekenkasten en boekenplanken voor het opbergen, maar ook meubels voor het lezen en schrijven. Boeken werden niet vaak plat neergelegd, maar meestal schuin op een lessenaar. Een eenvoudige voorbeeld is nu in ==Molenmuseum De Valk=={Q2776719} te zien, deze werd op een tafel geplaatst. 
+Bij boeken hoort speciaal boekenmeubilair, er zijn niet alleen boekenkasten en boekenplanken nodig voor het opbergen, maar ook tafels voor het lezen en schrijven. Boeken werden in de middeleeuwen niet vaak plat neergelegd, maar meestal schuin op een ==lessenaar=={Q390539}. Een eenvoudig voorbeeld is nu in ==Molenmuseum De Valk=={Q2776719} te zien, deze lessenaar werd op een tafel geplaatst. Het is niet bekend wanneer deze lessenaar gemaakt is.
 {enter=flyto:Q2098586,17}
-
 .ve-media gh:iconolocode/media/Oude_lessenaar-CC0.jpg right
 
-Een aantal ==lessenaars=={Q390539} zijn nu ook in het ==Museum de Lakenhal=={Q2098586} te vinden. Bij een eikenhouten lessenaar uit 1665 is het tafelblad bekleed met een doek om de boeken die erop gelezen werden te beschermen. Dit tafelblad werkt ook als een klep en kan geopend worden met een sleutel. Hieronder zitten verschillende vakjes en lades. Deze lessenaar werd niet alleen gebruikt om boeken te lezen, maar ook als ==secretaire=={Q3666631} om documenten en brieven op te schrijven.
+Er zijn maar weinig meubels uit de middeleeuwen overgebleven, maar vanwege illustraties weten we soms wel hoe ze eruitzagen. Dit is het geval bij een Mariabeeldje uit 1485. Latere lessenaars waren vergelijkbaar in vorm, maar de stijl van versiering verschilde wel. Een aantal lessenaars is nu in ==Museum de Lakenhal=={Q2098586} te vinden.
+{enter=flyto:Q2098586,17}
 
 .ve-media gh:iconolocode/media/Lessenaar_1665-CC0.jpg right width=80%
 
 .ve-media gh:iconolocode/media/Lessenaar_1665_(open)-CC0.jpg right width=80%
 
-Er is zelfs een schrijfkast, de eerste helft is een normale kast maar bij bovenhelft kan de plank naar voren geopend getrokken worden om een tafel te vormen.
-
+Bij een eikenhouten lessenaar uit 1665 is het tafelblad bekleed met een doek, om de boeken die erop gelezen werden te beschermen. Dit tafelblad werkt ook als een klep en kan geopend worden met een sleutel. Hieronder zitten verschillende vakjes en lades. Deze lessenaar werd niet alleen gebruikt om boeken op te lezen, maar ook als ==secretaire=={Q3666631} om documenten en brieven op te schrijven. Er is zelfs een schrijfkast: de onderste helft is een normale kast met deurtjes maar bij de bovenste helft kan de plank naar voren geopend worden om een tafel te vormen. Dit type kast bestond al eerder, en is te zien in een houtsnede uit 1494 waar de heilige Hiëronymus een boek aan het overschrijven is. 
 .ve-media right width=60% 
     - gh:iconolocode/media/Schrijfkast_(dicht)-CC0.jpg 
     - gh:iconolocode/media/Schrijfkast_(open)-CC0.jpg
 
 <p style="color:transparent;">Lorem ipsum...</p>
 
+Een ander voorbeeld van lessenaargebruik en het ==schrijven van brieven=={zoomto=pct:0,20,50,60,174ebb99}  is te vinden in een portret van Petrus Scriverius, een geleerde die het grootste deel van zijn leven in Leiden woonde.
 .ve-media wc:Bartholomeus_van_der_Helst_-_Portrait_of_Petrus_Scriverius.jpg left width=70% fit=cover 
-Een voorbeeld van lessenaargebruik en het ==schrijven van brieven=={zoomto=pct:0,20,50,60,174ebb99} is te vinden in het portret van ==Petrus Scriverius=={Q2063138}, die het grootste deel van zijn leven in Leiden woonde.
-Dit is echter geen groot meubel, maar een ==kleine metalen lessenaar=={zoomto=pct:0,20,50,60,b3110493} die op een tafel kan worden gezet. Het afgebeelde boek is niet identificeerbaar en staat hier meer als een visuele verwijzing naar zijn beroep: hij was een oudheidkundige en uitgever van klassieke en humanistische literatuur. Het doek is in 1561 gesigneerd door schilder ==Bartholomeus van der Helst=={Q380704}. Petrus Scriverius was het jaar daarvoor zijn zicht kwijtgeraakt en kon hierdoor niet meer werken. Hij nam toen ==Joachim Oudaen=={Q29962971} aan als zijn secretaris, die hem hielp door voor te lezen en te schrijven.
+Deze ==metalen lessenaar=={zoomto=pct:0,20,50,60,b3110493} was echter geen groot meubelstuk, maar was klein van formaat en kon op een tafel worden gezet. Het afgebeelde boek is niet te identificeren en staat op het portret meer als een visuele verwijzing naar zijn beroep: hij was een oudheidkundige en uitgever van klassieke en humanistische literatuur. Het doek is in 1651 gesigneerd door schilder ==Bartholomeus van der Helst=={Q380704}. Petrus Scriverius was het jaar daarvoor zijn zicht kwijtgeraakt en kon hierdoor niet meer werken. Hij nam toen Joachim Oudaen aan als zijn secretaris, die hem hielp door voor te lezen en te schrijven. 
+
 
 ---
 <br>
