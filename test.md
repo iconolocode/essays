@@ -21,10 +21,15 @@
 
 Bij boeken hoort speciaal boekenmeubilair, er zijn niet alleen boekenkasten en boekenplanken nodig voor het opbergen, maar ook tafels voor het lezen en schrijven. Boeken werden in de middeleeuwen niet vaak plat neergelegd, maar meestal schuin op een ==lessenaar=={Q390539}. Een eenvoudig voorbeeld is nu in ==Molenmuseum De Valk=={Q2776719} te zien, deze lessenaar werd op een tafel geplaatst. Het is niet bekend wanneer deze lessenaar gemaakt is.
 {enter=flyto:Q2098586,17}
+
+.ve-media wc:De_verkondiging_aan_Maria_Maria_uit_een_Annunciatie-groep,_BK-16986-B.jpg left
+
 .ve-media gh:iconolocode/media/Oude_lessenaar-CC0.jpg right
 
 Er zijn maar weinig meubels uit de middeleeuwen overgebleven, maar vanwege illustraties weten we soms wel hoe ze eruitzagen. Dit is het geval bij een Mariabeeldje uit 1485. Latere lessenaars waren vergelijkbaar in vorm, maar de stijl van versiering verschilde wel. Een aantal lessenaars is nu in ==Museum de Lakenhal=={Q2098586} te vinden.
 {enter=flyto:Q2098586,17}
+
+.ve-media wc:Heilige_Hieronymus_achter_een_lessenaar_Sant_Jeronimus_(titel_op_object),_RP-P-2015-26-837.jpg left
 
 .ve-media gh:iconolocode/media/Lessenaar_1665-CC0.jpg right width=80%
 
