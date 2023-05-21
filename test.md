@@ -35,7 +35,7 @@ Er zijn maar weinig meubels uit de middeleeuwen overgebleven, maar vanwege illus
 
 Bij een eikenhouten lessenaar uit 1665 is het tafelblad bekleed met een doek, om de boeken die erop gelezen werden te beschermen. Dit tafelblad werkt ook als een klep en kan geopend worden met een sleutel. Hieronder zitten verschillende vakjes en lades. Deze lessenaar werd niet alleen gebruikt om boeken op te lezen, maar ook als ==secretaire=={Q3666631} om documenten en brieven op te schrijven.
 
-.ve-media right height=400px width=50%
+.ve-media compare right height=400px width=50%
     - gh:iconolocode/media/Schrijfkast_(dicht)-CC0.jpg 
     - gh:iconolocode/media/Schrijfkast_(open)-CC0.jpg
 
