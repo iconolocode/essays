@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "schrijfkast",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/072b2f1ecf7a9bcae831315e308e198434ddadaf0f15f7bf6c41f935758c8393",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:335.9122314453125,1095.4791259765625,1376.7410888671875,1191.4105224609375"
+      },
+      "id": "072b2f1e"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f8409570"
+  }
+]
