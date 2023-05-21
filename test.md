@@ -7,7 +7,7 @@
 
 # Rondleiding
 
-## {.tabs style=height:600px}
+## {.tabs style=height:650px}
 
 ### stukjes
 
