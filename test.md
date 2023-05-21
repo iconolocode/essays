@@ -11,7 +11,7 @@
 
 ### stukjes
 
-.ve-map Q43631 14 left sticky 
+.ve-map Q43631 14 left sticky height=800px
     - allmaps=4f925913636c0527 layer="Dou Map"
     - Q2098586
     - Q2946957
