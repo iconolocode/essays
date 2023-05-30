@@ -2,9 +2,11 @@
     - [Home](/home)
     - [About](/about)
 
-# Index
+# Index {.tabs}
 
-### Locaties {.cards}
+hj
+
+## Locaties {.cards}
 
 #### Sint Maria Magdalenaklooster
 
@@ -18,9 +20,6 @@
 
 #### Klooster Engelendaal
 ![](https://www.alvin-portal.org/alvin/attachment/record/alvin-record:14542/ATTACHMENT-0015)
-
-##
----
 
 ### Ondersteunende kennis {.cards}
 
@@ -45,9 +44,13 @@
 #### Boekverkoop
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
-#### Meubels voor boeken
-![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Lessenaar_thumbnail-CC0.jpg)
-
 #### Ondergang van de kloosters 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
+## Route
+ 
+ ghjk
+
+## Info
+
+fghj
