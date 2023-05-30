@@ -1,4 +1,4 @@
-.ve-header Example background=#5B152E search-domain=kent-maps.online
+.ve-header Coventen en Codices background=#5B152E search-domain=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices
     - [Home](/home)
     - [About](/about)
 
@@ -13,8 +13,36 @@
 ### Sint-Catharinaklooster
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Csg_135-CC-BY-NC-SA.jpg)
 
+### Klooster Lopsen
+![](https://images.memorix.nl/lei/thumb/fullsize/e5ac43e8-3b5e-8528-a82b-62fee58d0836.jpg)
+
+### Klooster Engelendaal
+![](https://images.memorix.nl/lei/thumb/fullsize/e5ac43e8-3b5e-8528-a82b-62fee58d0836.jpg)
+
+## Ondersteunende kennis {.cards}
+
 ### Orde van Augustinus
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
-### klooster Lopsen
+### Middelnederlands en Latijn
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
+
+### Perkament
+![](https://iiif.juncture-digital.org/thumbnail/wc:)
+
+### Papier
+![](https://iiif.juncture-digital.org/thumbnail/wc:)
+
+### Leids penwerk
+![](https://iiif.juncture-digital.org/thumbnail/wc:)
+
+### Boekverkoop
+![](https://iiif.juncture-digital.org/thumbnail/wc:)
+
+### Meubels voor boeken
+![](https://iiif.juncture-digital.org/thumbnail/wc:)
+
+### Ondergang van de kloosters 
+![](https://iiif.juncture-digital.org/thumbnail/wc:)
+
+
