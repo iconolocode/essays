@@ -23,7 +23,7 @@
 ### Ondersteunende kennis {.cards}
 
 #### Meubels voor boeken
-![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Lessenaar_thumbnail-CC0.jpg)
+![https://www.juncture-digital.org/iconolocode/essays/test/](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Lessenaar_thumbnail-CC0.jpg)
 
 #### Orde van Augustinus
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
