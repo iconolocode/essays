@@ -2,6 +2,7 @@
     - [Home](/home)
     - [About](/about)
 
+
 ### Locaties {.cards}
 
 #### Sint Maria Magdalenaklooster {href=#}
