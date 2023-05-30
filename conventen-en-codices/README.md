@@ -2,7 +2,7 @@
     - [Home](/home)
     - [About](/about)
 
-# Index {.tabs}
+# Index 
 
 hj
 
