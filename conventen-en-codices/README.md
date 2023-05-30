@@ -1,4 +1,4 @@
-.ve-header Coventen en Codices background=#5B152E search-domain=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices
+.ve-header "Coventen en Codices" background=#5B152E search-domain=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices
     - [Home](/home)
     - [About](/about)
 
@@ -17,7 +17,10 @@
 ![](https://images.memorix.nl/lei/thumb/fullsize/e5ac43e8-3b5e-8528-a82b-62fee58d0836.jpg)
 
 ### Klooster Engelendaal
-![](https://images.memorix.nl/lei/thumb/fullsize/e5ac43e8-3b5e-8528-a82b-62fee58d0836.jpg)
+![](https://www.alvin-portal.org/alvin/attachment/record/alvin-record:14542/ATTACHMENT-0015)
+
+#
+---
 
 ## Ondersteunende kennis {.cards}
 
@@ -40,9 +43,8 @@
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
 ### Meubels voor boeken
-![](https://iiif.juncture-digital.org/thumbnail/wc:)
+![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Lessenaar_thumbnail-CC0.jpg)
 
 ### Ondergang van de kloosters 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
-
 
