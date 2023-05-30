@@ -4,17 +4,16 @@
 
 ### Locaties {.cards}
 
-#### Sint Maria Magdalenaklooster
-
+#### Sint Maria Magdalenaklooster {href=#}
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/LTK_336-CC-BY.jpg)
 
-#### Sint-Catharinaklooster
+#### Sint-Catharinaklooster {href=#}
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Csg_135-CC-BY-NC-SA.jpg)
 
-#### Klooster Lopsen
+#### Klooster Lopsen {href=#}
 ![](https://images.memorix.nl/lei/thumb/fullsize/e5ac43e8-3b5e-8528-a82b-62fee58d0836.jpg)
 
-#### Klooster Engelendaal
+#### Klooster Engelendaal {href=#}
 ![](https://www.alvin-portal.org/alvin/attachment/record/alvin-record:14542/ATTACHMENT-0015)
 
 ##
@@ -22,27 +21,27 @@
 
 ### Ondersteunende kennis {.cards}
 
-#### Meubels voor boeken
+#### Meubels voor boeken {href=https://www.juncture-digital.org/iconolocode/essays/test/}
 ![https://www.juncture-digital.org/iconolocode/essays/test/](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Lessenaar_thumbnail-CC0.jpg)
 
-#### Orde van Augustinus
+#### Orde van Augustinus {href=#}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
-#### Middelnederlands en Latijn
+#### Middelnederlands en Latijn {href=#}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
-#### Perkament
+#### Perkament {href=#}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
-#### Papier
+#### Papier {href=#}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
-#### Leids penwerk
+#### Leids penwerk {href=#}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
-#### Boekverkoop
+#### Boekverkoop {href=#}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
-#### Ondergang van de kloosters 
+#### Ondergang van de kloosters {href=#}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
