@@ -1,4 +1,4 @@
-.ve-header "Coventen en Codices" search-domain=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices wc:Dou_1614_map_of_Leiden.jpg "Een literaire loop door Leiden" position=top sticky
+.ve-header "Conventen en Codices" wc:Dou_1614_map_of_Leiden.jpg "Een literaire loop door Leiden" position=top sticky search-domain=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices 
     - [Home](/home)
     - [About](/about)
 
