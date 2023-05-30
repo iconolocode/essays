@@ -6,7 +6,7 @@
 
 hj
 
-## Locaties {.cards}
+### Locaties {.cards}
 
 #### Sint Maria Magdalenaklooster
 
