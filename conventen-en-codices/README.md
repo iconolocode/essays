@@ -2,6 +2,7 @@
     - [Home](/home)
     - [About](/about)
 
+## Index
 
 ### Locaties {.cards}
 
