@@ -2,9 +2,6 @@
     - [Home](/home)
     - [About](/about)
 
-# Index 
-
-hj
 
 ### Locaties {.cards}
 
@@ -46,11 +43,3 @@ hj
 
 #### Ondergang van de kloosters 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
-
-## Route
- 
- ghjk
-
-## Info
-
-fghj
