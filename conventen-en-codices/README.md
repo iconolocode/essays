@@ -4,47 +4,50 @@
 
 # Index
 
-## Locaties {.cards}
+### Locaties {.cards}
 
-### Sint Maria Magdalenaklooster
+#### Sint Maria Magdalenaklooster
 
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/LTK_336-CC-BY.jpg)
 
-### Sint-Catharinaklooster
+#### Sint-Catharinaklooster
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Csg_135-CC-BY-NC-SA.jpg)
 
-### Klooster Lopsen
+#### Klooster Lopsen
 ![](https://images.memorix.nl/lei/thumb/fullsize/e5ac43e8-3b5e-8528-a82b-62fee58d0836.jpg)
 
-### Klooster Engelendaal
+#### Klooster Engelendaal
 ![](https://www.alvin-portal.org/alvin/attachment/record/alvin-record:14542/ATTACHMENT-0015)
 
-#
+##
 ---
 
-## Ondersteunende kennis {.cards}
+### Ondersteunende kennis {.cards}
 
-### Orde van Augustinus
-![](https://iiif.juncture-digital.org/thumbnail/wc:)
-
-### Middelnederlands en Latijn
-![](https://iiif.juncture-digital.org/thumbnail/wc:)
-
-### Perkament
-![](https://iiif.juncture-digital.org/thumbnail/wc:)
-
-### Papier
-![](https://iiif.juncture-digital.org/thumbnail/wc:)
-
-### Leids penwerk
-![](https://iiif.juncture-digital.org/thumbnail/wc:)
-
-### Boekverkoop
-![](https://iiif.juncture-digital.org/thumbnail/wc:)
-
-### Meubels voor boeken
+#### Meubels voor boeken
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Lessenaar_thumbnail-CC0.jpg)
 
-### Ondergang van de kloosters 
+#### Orde van Augustinus
+![](https://iiif.juncture-digital.org/thumbnail/wc:)
+
+#### Middelnederlands en Latijn
+![](https://iiif.juncture-digital.org/thumbnail/wc:)
+
+#### Perkament
+![](https://iiif.juncture-digital.org/thumbnail/wc:)
+
+#### Papier
+![](https://iiif.juncture-digital.org/thumbnail/wc:)
+
+#### Leids penwerk
+![](https://iiif.juncture-digital.org/thumbnail/wc:)
+
+#### Boekverkoop
+![](https://iiif.juncture-digital.org/thumbnail/wc:)
+
+#### Meubels voor boeken
+![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Lessenaar_thumbnail-CC0.jpg)
+
+#### Ondergang van de kloosters 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
