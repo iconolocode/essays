@@ -2,9 +2,7 @@
     - [Home](/home)
     - [About](/about)
 
-## Index
-
-### Locaties {.cards}
+### Kloosters {.cards}
 
 #### Sint Maria Magdalenaklooster {href=#}
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/LTK_336-CC-BY.jpg)
@@ -23,8 +21,17 @@
 
 ### Ondersteunende kennis {.cards}
 
+#### Route {href=#}
+![](https://iiif.juncture-digital.org/thumbnail/wc:)
+
+#### Kloosters in de middeleeuwen {href=#}
+![](https://iiif.juncture-digital.org/thumbnail/wc:)
+
 #### Meubels voor boeken {href=https://www.juncture-digital.org/iconolocode/essays/test/}
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Lessenaar_thumbnail-CC0.jpg)
+
+#### Boeken in kunst {href=#}
+![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
 #### Orde van Augustinus {href=#}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
@@ -45,5 +52,8 @@
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
 #### Ondergang van de kloosters {href=#}
+![](https://iiif.juncture-digital.org/thumbnail/wc:)
+
+#### Glossarium {href=#}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
