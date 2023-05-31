@@ -19,6 +19,8 @@ Van het Sint Maria Magdalenaklooster zijn helaas niet veel boeken bekend. Net zo
 
 Gelukkig zijn er nog twee boeken uit dit klooster over, beide bedoeld voor publiek gebruik. Het eerste (Gent, UB: 469) is een boek met regels (constituties) die de nonnen moesten naleven en een lijst om de doden te gedenken (een obituarium). Dit boek ligt nu in de Universiteitsbibliotheek van Gent. Door dit boek weten we relatief veel over de nonnen en over het klooster waarin ze woonden. Het tweede boek (LTK 336) is nog altijd in Leiden te vinden en bevat preken van allerlei belangrijke katholieken, bijvoorbeeld van de monnik ==Beda Venerabilis=={description="Angelsaksische monnik en vader van de Engelse geschiedschrijving, die leefde tussen 672 en 735 en voornamelijk bekend stond als bijbelgeleerde, geschiedschrijver en heilige."}. Het is handgeschreven en van papier gemaakt. De versiering is niet zo uitbundig als in veel andere middeleeuwse boeken, maar er staat wel eenvoudig penwerk in. We weten zeker dat het boek in dit klooster gemaakt is, omdat dat vermeld staat in het colofon. Er staat dat het boek in 1533 en 1534 in het Sint Maria Magdalenaklooster geschreven is. 
 
+.ve-iframe https://uv-v4.netlify.app/uv.html#?manifest=https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%253A1685390/manifest full height=600px width=90%
+
 ## Bronnen
 
 ‘Academiegebouw (Leiden)’, Wikipedia, 								<https://nl.wikipedia.org/wiki/Academiegebouw_(Leiden)> (21 april 2023).
