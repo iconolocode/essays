@@ -1,10 +1,15 @@
 .ve-header "Conventen en Codices" wc:Dou_1614_map_of_Leiden.jpg "Een literaire loop door Leiden" position=top sticky search-domain=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices 
-    - [Home](/home)
-    - [About](/about)
+    - [Index](/)
+    - [Route](/)
+    - [Sint Maria Magdalenaklooster](/maria-magdalenaklooster)
+    - [Sint-Catharinaklooster](/catharinaklooster)
+    - [Klooster Lopsen](/)
+    - [Klooster Engelendaal](/klooster-engelendaal)
+    - [Ondersteunende kennis](/)
 
 ### Kloosters {.cards}
 
-#### Sint Maria Magdalenaklooster {href=#}
+#### Sint Maria Magdalenaklooster {href=/maria-magdalenaklooster}
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/LTK_336-CC-BY.jpg)
 
 #### Sint-Catharinaklooster {href=#}
