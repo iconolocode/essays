@@ -28,6 +28,9 @@
 #### Route {href=/conventen-en-codices/route}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Dou_1614_map_of_Leiden.jpg)
 
+#### Glossarium {href=/conventen-en-codices/glossarium}
+![](https://iiif.juncture-digital.org/thumbnail/wc:Glossary_from_%27Poems%27_by_David_Sillar_1789.jpg)
+
 #### Kloosters in de middeleeuwen {href=#}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
@@ -58,6 +61,4 @@
 #### Ondergang van de kloosters {href=#}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
-#### Glossarium {href=/conventen-en-codices/glossarium}
-![](https://iiif.juncture-digital.org/thumbnail/wc:Glossary_from_%27Poems%27_by_David_Sillar_1789.jpg)
 
