@@ -27,6 +27,16 @@ In het volgende hoofdstuk is de looproute van de rondleiding te vinden. Bij het 
 *Door Annelise Marck*
 <br><br>
 
+    #juncture p { padding-left: 50%; }
+    #juncture div { background-color: transparent; }
+
+.ve-map Q43631 14 left sticky
+    - allmaps=4f925913636c0527 layer="Dou Map"
+    - Q2098586
+    - Q2946957
+
+# {.show-active}
+
 ### Locatie 1: Academiegebouw, Rapenburg 73
 
 We staan aan het Rapenburg, bij het Academiegebouw van de Universiteit Leiden. Op deze plek stond vroeger een klooster. Hier zullen we het zo nog uitgebreider over hebben. Laten we beginnen met: wat is nu precies een klooster?
