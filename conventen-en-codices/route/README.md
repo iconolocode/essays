@@ -110,8 +110,11 @@ Nu volgt een langer stuk lopen. Steek de Breestraat over en volg die verder voor
 
 Informatie over middeleeuwse boeken en het gebruik ervan kun je niet alleen uit de boeken zelf afleiden, maar ook uit allerlei voorwerpen en kunstwerken die een museum als de Lakenhal in haar collectie heeft. Het is niet noodzakelijk om dit museum in te gaan, maar bij extra tijd is het wel de moeite waard.
 
+### {.cards}
 A) Meubels voor boeken
-
+#### Meubels voor boeken {href=https://www.juncture-digital.org/iconolocode/essays/test/}
+![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Lessenaar_thumbnail-CC0.jpg)
+###
 B) Boeken verbeeld in kunst
 
 Loop verder over de Oude Singel en ga op het kruispunt rechtdoor de Beestenmarkt op.
