@@ -1,3 +1,12 @@
+.ve-header "Conventen en Codices" logo=https://upload.wikimedia.org/wikipedia/commons/5/50/Home_icon_brown.png url=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices wc:Dou_1614_map_of_Leiden.jpg "Een literaire loop door Leiden" position=top sticky search-domain=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices 
+    - [Index](/conventen-en-codices/)
+    - [Route](/conventen-en-codices/route)
+    - [Sint Maria Magdalenaklooster](/conventen-en-codices/maria-magdalenaklooster)
+    - [Sint-Catharinaklooster](/conventen-en-codices/catharinaklooster)
+    - [Klooster Lopsen](/conventen-en-codices/klooster-lopsen)
+    - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
+
+
 # Route
 
 De rondleiding door Leiden is 4,1 kilometer lang en begint bij het Academiegebouw aan het Rapenburg. De rondleiding zal je langs dertien plekken leiden die in de middeleeuwen te maken hadden met boekproductie en -verspreiding in Leiden. Een plattegrond van de route is op de afbeelding hieronder te zien (afbeelding 1). De route is ook terug te vinden en te gebruiken via Google Maps: https://goo.gl/maps/ZTwSG6Jpr1ru1QuRA. In dit document staan ook routeaanwijzingen, dus het is ook mogelijk om dit document te printen en zonder Google Maps op pad te gaan.
@@ -23,15 +32,18 @@ In het volgende hoofdstuk is de looproute van de rondleiding te vinden. Bij het 
 We staan aan het Rapenburg, bij het Academiegebouw van de Universiteit Leiden. Op deze plek stond vroeger een klooster. Hier zullen we het zo nog uitgebreider over hebben. Laten we beginnen met: wat is nu precies een klooster?
 
 A) Kloosters in de middeleeuwen
-B) Sint Maria Magdalenaklooster, de Witte Nonnen: algemene informatie
-C) Boekproductie door de Witte Nonnen
+
+[B) Sint Maria Magdalenaklooster, de Witte Nonnen: algemene informatie](/conventen-en-codices/maria-magdalenaklooster)
+
+[C) Boekproductie door de Witte Nonnen](/conventen-en-codices/maria-magdalenaklooster)
     
 Loop het grote hek naast de oude kloosterkapel door en ga tussen de twee gebouwen door naar de Hortus Botanicus van de Universiteit Leiden. Het is voor deze rondleiding niet relevant om een kaartje te kopen, maar bij voldoende tijd is het wel een mooi uitstapje.
 
 ### Locatie 2: Hortus Botanicus, Rapenburg 73
 
-A) Sint-Catharinaklooster aan het Rapenburg: algemene informatie
-B) Boekproductie door het Sint-Catharinaklooster
+[A) Sint-Catharinaklooster aan het Rapenburg: algemene informatie](/conventen-en-codices/catharinaklooster)
+
+[B) Boekproductie door het Sint-Catharinaklooster](/conventen-en-codices/catharinaklooster)
 
 Sla bij het houten hek van de botanische tuin linksaf en volg de weg langs het P.J. Vethgebouw mee naar links. Je loopt onder het gebouw door en komt daarna op de 5e Binnenwestgracht langs het water uit. Sla na ongeveer 150 meter linksaf de Zegersteeg in. De locatie bevindt zich op nummer 14.
 
@@ -45,7 +57,7 @@ Loop verder door de Zegersteeg en sla aan het einde, bij de Kaiserstraat, rechts
 
 ### Locatie 4: Erfgoed Leiden en Omstreken, Boisotkade 2A
 
-A) De catalogus van klooster Lopsen
+[A) De catalogus van klooster Lopsen](/conventen-en-codices/klooster-lopsen)
 
 Wandel een klein stukje door en sla vóór de brug en de gracht linksaf. Loop over het Vliet tot je weer aan het Rapenburg uitkomt en sla rechtsaf. Ga de eerste brug naar links over. Je staat nu bij het Kamerlingh Onnesgebouw. Sla rechtsaf en volg de Steenschuur tot je op nummer 19 bent.
 
@@ -87,14 +99,16 @@ Nu volgt een langer stuk lopen. Steek de Breestraat over en volg die verder voor
 Informatie over middeleeuwse boeken en het gebruik ervan kun je niet alleen uit de boeken zelf afleiden, maar ook uit allerlei voorwerpen en kunstwerken die een museum als de Lakenhal in haar collectie heeft. Het is niet noodzakelijk om dit museum in te gaan, maar bij extra tijd is het wel de moeite waard.
 
 A) Meubels voor boeken
+
 B) Boeken verbeeld in kunst
 
 Loop verder over de Oude Singel en ga op het kruispunt rechtdoor de Beestenmarkt op.
 
 ### Locatie 10: Beestenmarkt
 
-A) Klooster Lopsen: algemene informatie
-B) Boekproductie door klooster Lopsen
+[A) Klooster Lopsen: algemene informatie](/conventen-en-codices/klooster-lopsen)
+
+[B) Boekproductie door klooster Lopsen](/conventen-en-codices/klooster-lopsen)
 
 Ga aan de overkant van de Beestenmarkt de Narmstraat in en volg die tot het einde. Sla daarna linksaf naar de 1e Binnenvestgracht. Loop voorbij het speeltuintje en sta stil bij de molen.
 
@@ -108,8 +122,9 @@ Ga de Rembrandtbrug over de Rijn over en sla direct daarna rechtsaf. Loop door h
 
 ### Locatie 12: Universiteitsbibliotheek Leiden, Witte Singel 27
 
-A) Klooster Engelendaal: Algemene informatie
-B) Boekproductie door klooster Engelendaal
+[A) Klooster Engelendaal: Algemene informatie](/conventen-en-codices/klooster-engelendaal)
+
+[B) Boekproductie door klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
 
 Ga de gracht over via een van de twee bruggetjes en loop naar het Rapenburg. Je hebt twee opties:
 
