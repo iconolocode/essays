@@ -31,19 +31,27 @@ In het volgende hoofdstuk is de looproute van de rondleiding te vinden. Bij het 
 
 We staan aan het Rapenburg, bij het Academiegebouw van de Universiteit Leiden. Op deze plek stond vroeger een klooster. Hier zullen we het zo nog uitgebreider over hebben. Laten we beginnen met: wat is nu precies een klooster?
 
+### {.cards}
 A) Kloosters in de middeleeuwen
 
 [B) Sint Maria Magdalenaklooster, de Witte Nonnen: algemene informatie](/conventen-en-codices/maria-magdalenaklooster)
 
 [C) Boekproductie door de Witte Nonnen](/conventen-en-codices/maria-magdalenaklooster)
-    
+#### Sint Maria Magdalenaklooster {href=/conventen-en-codices/maria-magdalenaklooster}
+![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/LTK_336-CC-BY.jpg)
+### 
+
 Loop het grote hek naast de oude kloosterkapel door en ga tussen de twee gebouwen door naar de Hortus Botanicus van de Universiteit Leiden. Het is voor deze rondleiding niet relevant om een kaartje te kopen, maar bij voldoende tijd is het wel een mooi uitstapje.
 
 ### Locatie 2: Hortus Botanicus, Rapenburg 73
 
+### {.cards}
 [A) Sint-Catharinaklooster aan het Rapenburg: algemene informatie](/conventen-en-codices/catharinaklooster)
 
 [B) Boekproductie door het Sint-Catharinaklooster](/conventen-en-codices/catharinaklooster)
+#### Sint-Catharinaklooster {href=/conventen-en-codices/catharinaklooster}
+![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Csg_135-CC-BY-NC-SA.jpg)
+###
 
 Sla bij het houten hek van de botanische tuin linksaf en volg de weg langs het P.J. Vethgebouw mee naar links. Je loopt onder het gebouw door en komt daarna op de 5e Binnenwestgracht langs het water uit. Sla na ongeveer 150 meter linksaf de Zegersteeg in. De locatie bevindt zich op nummer 14.
 
@@ -57,7 +65,11 @@ Loop verder door de Zegersteeg en sla aan het einde, bij de Kaiserstraat, rechts
 
 ### Locatie 4: Erfgoed Leiden en Omstreken, Boisotkade 2A
 
+### {.cards}
 [A) De catalogus van klooster Lopsen](/conventen-en-codices/klooster-lopsen)
+#### Klooster Lopsen {href=/conventen-en-codices/klooster-lopsen}
+![](https://images.memorix.nl/lei/thumb/fullsize/e5ac43e8-3b5e-8528-a82b-62fee58d0836.jpg)
+###
 
 Wandel een klein stukje door en sla vóór de brug en de gracht linksaf. Loop over het Vliet tot je weer aan het Rapenburg uitkomt en sla rechtsaf. Ga de eerste brug naar links over. Je staat nu bij het Kamerlingh Onnesgebouw. Sla rechtsaf en volg de Steenschuur tot je op nummer 19 bent.
 
@@ -106,9 +118,14 @@ Loop verder over de Oude Singel en ga op het kruispunt rechtdoor de Beestenmarkt
 
 ### Locatie 10: Beestenmarkt
 
+### {.cards}
+
 [A) Klooster Lopsen: algemene informatie](/conventen-en-codices/klooster-lopsen)
 
 [B) Boekproductie door klooster Lopsen](/conventen-en-codices/klooster-lopsen)
+#### Klooster Lopsen {href=/conventen-en-codices/klooster-lopsen}
+![](https://images.memorix.nl/lei/thumb/fullsize/e5ac43e8-3b5e-8528-a82b-62fee58d0836.jpg)
+###
 
 Ga aan de overkant van de Beestenmarkt de Narmstraat in en volg die tot het einde. Sla daarna linksaf naar de 1e Binnenvestgracht. Loop voorbij het speeltuintje en sta stil bij de molen.
 
@@ -122,9 +139,13 @@ Ga de Rembrandtbrug over de Rijn over en sla direct daarna rechtsaf. Loop door h
 
 ### Locatie 12: Universiteitsbibliotheek Leiden, Witte Singel 27
 
+### {.cards}
 [A) Klooster Engelendaal: Algemene informatie](/conventen-en-codices/klooster-engelendaal)
 
 [B) Boekproductie door klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
+#### Klooster Engelendaal {href=/conventen-en-codices/klooster-engelendaal}
+![](https://www.alvin-portal.org/alvin/attachment/record/alvin-record:14542/ATTACHMENT-0015)
+###
 
 Ga de gracht over via een van de twee bruggetjes en loop naar het Rapenburg. Je hebt twee opties:
 
