@@ -24,7 +24,7 @@ De tekst, die in het Latijn is geschreven, wordt versierd met rode lombarden (in
     
 Hoewel Engelendaal ook boeken voor verkoop produceerde, was Brevier (Zomerdeel) bestemd voor gebruik in het klooster. Het boek wisselde echter al snel van hand, waardoor deze uiteindelijk aan de Universiteitsbibliotheek van Lund werd gedoneerd.
 
-.ve-iframe https://www.alvin-portal.org/alvin/imageViewer.jsf?dsId=ATTACHMENT-0015&pid=alvin-record:14542 full height=600px width=90%
+.ve-iframe https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:14542full height=600px width=90%
 
 
 ## Bronnen
