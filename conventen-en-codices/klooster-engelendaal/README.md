@@ -32,7 +32,7 @@ De tekst, die in het Latijn is geschreven, wordt versierd met rode lombarden (in
     
 Hoewel Engelendaal ook boeken voor verkoop produceerde, was Brevier (Zomerdeel) bestemd voor gebruik in het klooster. Het boek wisselde echter al snel van hand, waardoor deze uiteindelijk aan de Universiteitsbibliotheek van Lund werd gedoneerd.
 
-.ve-iframe https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A14542 height=600px width=90%
+.ve-iframe https://www.alvin-portal.org/alvin/attachment/document/alvin-record:14542/ATTACHMENT-0392.pdf height=600px width=90%
 
 
 ## Bronnen
@@ -40,8 +40,7 @@ Hoewel Engelendaal ook boeken voor verkoop produceerde, was Brevier (Zomerdeel) 
 ‘Caerte van lant gelegen in den Ambacht van Leiderdorp’, Leiderdorps Weekblad, 9 april 2017, <https://www.leiderdorpsweekblad.nl/nieuws/historie/23232/caerte-van-lant-gelegen-in-den-ambacht-van-leiderdorp> (16 mei 2023).
 
 ‘Klooster Engelendaal’, Canon van Nederland,
-<https://www.canonvannederland.nl/nl/page/193330/klooster-engelendaal> (16 mei
-2023).
+<https://www.canonvannederland.nl/nl/page/193330/klooster-engelendaal> (16 mei 2023).
 
 ‘Leiderdorp’, Erfgoedcentrum Nederlands Kloosterleven,
 <https://www.erfgoedkloosterleven.nl/zoeken/collecties-zoeken.php?mivast=1212&mizig=212&miadt=1212&miaet=14&micode=DOC-MON-ME&minr=1117232&milang=nl&misort=klo%7Cdesc&miview=ldt> (16 mei 2023).
