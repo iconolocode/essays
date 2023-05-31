@@ -1,10 +1,10 @@
-.ve-header "[Conventen en Codices](https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices)" wc:Dou_1614_map_of_Leiden.jpg "Een literaire loop door Leiden" position=top sticky search-domain=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices 
+.ve-header "Conventen en Codices" logo=https://upload.wikimedia.org/wikipedia/commons/5/50/Home_icon_brown.png wc:Dou_1614_map_of_Leiden.jpg "Een literaire loop door Leiden" position=top sticky search-domain=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices 
     - [Index](/)
-    - [Route](/)
+    - [Route](/conventen-en-codices/route)
     - [Sint Maria Magdalenaklooster](/conventen-en-codices/maria-magdalenaklooster)
     - [Sint-Catharinaklooster](/conventen-en-codices/catharinaklooster)
     - [Klooster Lopsen](/conventen-en-codices/klooster-lopsen)
-    - [Klooster Engelendaal](/conventen-en-codices//klooster-engelendaal)
+    - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
     - [Ondersteunende kennis](/)
 
 ### Kloosters {.cards}
@@ -18,7 +18,7 @@
 #### Klooster Lopsen {href=/conventen-en-codices/klooster-lopsen}
 ![](https://images.memorix.nl/lei/thumb/fullsize/e5ac43e8-3b5e-8528-a82b-62fee58d0836.jpg)
 
-#### Klooster Engelendaal {href=/conventen-en-codices//klooster-engelendaal}
+#### Klooster Engelendaal {href=/conventen-en-codices/klooster-engelendaal}
 ![](https://www.alvin-portal.org/alvin/attachment/record/alvin-record:14542/ATTACHMENT-0015)
 
 ##
