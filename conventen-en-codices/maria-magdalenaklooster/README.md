@@ -1,2 +1,21 @@
-# Maria Magdalenaklooster
+# Sint Maria Magdalenaklooster
+
+## De Witte Nonnen: algemene informatie
+*Door Annelise Marck*
+<br><br>
+
+Hier aan het ==Rapenburg=={Q2597656} stond vroeger het vrouwenklooster van Sint Maria Magdalena. Dit klooster werd gesticht rond 1447 en bood onderdak aan volgers van de Orde van Dominicus en de Tweede Orde van Augustinus. Deze zusters werden ook wel de ‘Witte Nonnen’ genoemd, omdat ze witte kleding droegen. De meeste zusters waren niet van adel en het klooster was dan ook eerder arm dan rijk. Dat betekende waarschijnlijk ook dat sommige van hen niet konden lezen en schrijven, zeker niet in het Latijn, dat destijds de meest gebruikte taal voor boeken was. 
+
+.ve-media wc:Leiden_-_Academiegebouw_met_op_de_voorgrond_Nonnenbrug.jpg right
+
+Het klooster bevatte een eetzaal, een gezamenlijke werkkamer, kelders, een gang rondom het binnenplein, een slaapzaal, cellen voor individuele studie en een kloosterkapel. De kloosterkapel werd in 1516 voltooid. Helaas is deze door een brand in 1619, en misschien ook al door een brand in 1569, ernstig beschadigd geraakt. Een latere versie van de kloosterkapel is nu nog overduidelijk te zien als je voor dit gebouw staat. Dat is namelijk het ==Academiegebouw=={Q2515805} dat nu eigendom is van de Universiteit Leiden en vooral voor belangrijke gebeurtenissen gebruikt wordt, zoals zaken rondom afstuderen, promoties, lezingen en oraties. Van de rest van het klooster is niets meer terug te zien, maar de Nonnensteeg en de Nonnenbrug die, vanaf het Rapenburg gezien links van het Academiegebouw liggen, herinneren er nog wel aan.
+
+
+## Boekproductie door de Witte Nonnen
+*Door Annelise Marck*
+<br><br>
+
+Van het Sint Maria Magdalenaklooster zijn helaas niet veel boeken bekend. Net zoals bijvoorbeeld de monniken in het klooster van Lopsen zullen ook de Witte Nonnen boeken geproduceerd, gebruikt of verkocht hebben, maar helaas zijn er hiervan weinig overgebleven. Met boeken kunnen allerlei dingen gebeuren. Misschien zijn ze verloren gegaan bij een brand, kwijtgeraakt of zijn ze simpelweg zo vaak gebruikt dat ze het niet meer waard waren om nog te bewaren.
+
+Gelukkig zijn er nog twee boeken uit dit klooster over, beide bedoeld voor publiek gebruik. Het eerste (Gent, UB: 469) is een boek met regels (constituties) die de nonnen moesten naleven en een lijst om de doden te gedenken (een obituarium). Dit boek ligt nu in de Universiteitsbibliotheek van Gent. Door dit boek weten we relatief veel over de nonnen en over het klooster waarin ze woonden. Het tweede boek (LTK 336) is nog altijd in Leiden te vinden en bevat preken van allerlei belangrijke katholieken, bijvoorbeeld van de monnik ==Beda Venerabilis=={description="Angelsaksische monnik en vader van de Engelse geschiedschrijving, die leefde tussen 672 en 735 en voornamelijk bekend stond als bijbelgeleerde, geschiedschrijver en heilige."}. Het is handgeschreven en van papier gemaakt. De versiering is niet zo uitbundig als in veel andere middeleeuwse boeken, maar er staat wel eenvoudig penwerk in. We weten zeker dat het boek in dit klooster gemaakt is, omdat dat vermeld staat in het colofon. Er staat dat het boek in 1533 en 1534 in het Sint Maria Magdalenaklooster geschreven is. 
 
