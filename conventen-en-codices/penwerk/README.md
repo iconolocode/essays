@@ -6,7 +6,7 @@ Veel van de manuscripten waar je in deze rondleiding naar kijkt, zijn prachtig v
 
 .ve-media gh:iconolocode/media/penwerk-Korteweg-p68-InC.png width=30%
 
-.ve-media gh:iconolocode/media/penwerk-Korteweg-p69-InC.png right width=40%
+.ve-media gh:iconolocode/media/penwerk-Korteweg-p69-InC.png left width=40% fit=cover
 
 In de middeleeuwen bestonden er verschillende vormen van verluchting. De simpelste vorm van verluchting was het veranderen van de inktkleur van het standaard zwart naar rood of zelfs groen of blauw. Een andere vorm van verluchting was het toevoegen van natuurlijke motieven of afbeeldingen aan de tekst. Deze gestileerde afbeeldingen werden vaak toegevoegd aan een initiaal of lombarde. De kleur van dit penwerk contrasteerde bijna altijd met de inktkleur van het initiaal. Zo kreeg een rood initiaal blauw penwerk en vice versa. In de loop van de dertiende eeuw werden manuscripten niet alleen verlucht, maar ook geïllustreerd. Dit betekende dat manuscripten niet alleen maar gestileerde afbeeldingen bevatten, maar ook illustraties. Deze illustraties werden vaak verwerkt in het initiaal, een zogenoemd gehistorieerd initiaal, of werden in het midden van de tekst gepositioneerd. In sommige gevallen werden volledige pagina’s geïllustreerd. Dit wordt een miniatuur genoemd.
 
