@@ -10,9 +10,8 @@ In de middeleeuwen bestonden er verschillende vormen van verluchting. De simpels
 
 Het penwerk van middeleeuwse manuscripten is een ontzettend interessant onderwerp voor boekhistorici. Wanneer een boek gedateerd is, kunnen zij namelijk aan de hand van het penwerk de plek van productie lokaliseren. Zo waren de zogenoemde ‘radijsjes’ en ‘aubergines’ typisch Zuid-Hollandse vormen van penwerk (zie afbeeldingen 1 en 2). Deze vormen van penwerk zijn gelokaliseerd rondom Leiden en zijn teruggevonden in manuscripten uit de regio tussen Dordrecht en Gouda. Het is vaak lastig om precies onderscheid te maken tussen verschillende soorten penwerk. Zo komen verschillende stijlen tegelijkertijd voor en is een bepaalde stijl vaak niet een compleet nieuwe stijl, maar een evolutie van een al geïdentificeerde stijl. 
 
-.ve-media gh:iconolocode/media/penwerk-Korteweg-p69-InC.png right width=40%
-
 ## Bronnen:
+.ve-media gh:iconolocode/media/penwerk-Korteweg-p69-InC.png right width=30%
 
 ‘Boekverluchting’, in *Algemeen Letterkundig Lexicon,* DBNL,			<https://www.dbnl.org/tekst/dela012alge01_01/dela012alge01_01_00271.php> (14 mei 2023).
 
