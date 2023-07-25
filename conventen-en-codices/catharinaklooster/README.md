@@ -31,18 +31,22 @@ De andere overgebleven tekst is een preek uit het klooster. Deze is halverwege d
 
 ## Bronnen
 
-‘Hortus botanicus Leiden’, Wikipedia, 								<https://nl.wikipedia.org/wiki/Hortus_botanicus_Leiden> (28 april 2023).
+‘Academiegebouw (Leiden)’, *Wikipedia*, 								<https://nl.wikipedia.org/wiki/Academiegebouw_(Leiden)> (21 april 2023).
 
-‘Kloosterlijst’, Geoplaza, <https://geoplaza.vu.nl/projects/kloosterlijst/nl/index.php> (31 		maart 2023).
+DeGregorio, S., ed., *The Cambridge Companion to Bede* (Cambridge: University Press, 		2010) <http://dx.doi.org.ezproxy.leidenuniv.nl:2048/10.1017/CCOL9780521514958>. 
 
-‘Leiden, Augustinessen S. Catharina / bij het Rapenburg’, BNM-I.					<https://bnm-i.huygens.knaw.nl/lexicontermen/LEXI000000005365> (6 mei 2023).
+Gent, Universiteitsbibliotheek, UB 469, te vinden op BNM-I, ‘Gent, UB: 469’, 			<https://bnm-i.huygens.knaw.nl/tekstdragers /TDRA000000000115>.
 
-‘Leiden Map 1614’, Map warper. <http://warper.erfgoedleiden.nl/maps/1765#Preview_tab> 	(28 april 2023).
+‘Geschiedenis van het Nederlandse kloosterleven’, *Erfgoedcentrum Nederlands Kloosterleven. *<https://www.erfgoedkloosterleven.nl/kloosterleven/geschiedenis.html> (13 mei 2023). 
 
-Luijk, M. van, ‘‘Want ledicheit een vyant der zielen is’. Handenarbeid in laatmiddeleeuwse vrouwengemeenschappen’, Madoc, 17-1 (2003), pp. 114-122, via DBNL, <https://www.dbnl.org/tekst/_mad001200301_01/_mad001200301_01_0021.php> (29 maart 2023).
+‘Klooster’, *Kunstbus*, 20 maart 2022. <https://www.kunstbus.nl/cultuur/klooster.html> (13 	mei 2023). 
 
-Mieris, F. van, Beschryving der stad Leyden, (Leiden: De weduwe Abraham Honkoop, 	1762), Vol. I. (Den Haag, KW, 193 B 13).
+‘Klooster (gebouw)’, *Wikipedia*, <https://nl.wikipedia.org/wiki/Klooster_(gebouw)> (13 mei 	2023). 
 
-‘MÜNCHEN, BSB : Cgm 135’, BNM-I. <https://bnm-i.huygens.knaw.nl/tekstdragers/TDRA000000005374> (6 mei 2023). Te vinden op Biblisima, <https://iiif.biblissima.fr/collections/manifest/9c759de9d3443ccd3c4b29889bd9e8e4204a8a6f>
+‘Kloostergeloften’, *Wikipedia*, <https://nl.wikipedia.org/wiki/Kloostergeloften> (13 mei 		2023).
 
-Oerle, H.A. van, Leiden binnen en buiten de stadsvesten: de geschiedenis van de 			stedebouwkundige ontwikkeling binnen het Leidse rechtsgebied tot aan het einde van 	de Gouden Eeuw (Leiden: E.J. Brill, 1975) deel I.
+Leiden, Universitaire Bibliotheken Leiden (UBL), LTK 336, digitaal te raadplegen op BNM-I, ‘Leiden, UB: LTK 336’,		<http://hdl.handle.net/11240/f6ae7196-6d47-42af-ab22-dd9c7884e49f> en oop ‘The White Nuns of Leiden’, *Digital Manuscripts in the Classroom*, <https://digmanclass.universiteitleiden.nl/manuscripts/ltk-336/>.
+
+Obreen, H.G.A., ‘Bijdragen tot de geschiedenis van het Witte-Nonnen-klooster der orde van 	St. Dominicus’, in *Leidsch Jaarboekje, *red. J.E. Heeres et al. (Leiden: A.W. Sijthoff, 	1905), pp. 1-13.
+
+Visit Leiden, ‘Academiegebouw’, <https://www.visitleiden.nl/nl/locaties/4116710871/academiegebouw> (28 april 		2023).
