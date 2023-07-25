@@ -1,10 +1,27 @@
-.ve-header "Conventen en Codices" logo=https://upload.wikimedia.org/wikipedia/commons/5/50/Home_icon_brown.png url=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices wc:Dou_1614_map_of_Leiden.jpg "Een literaire loop door Leiden" position=top sticky search-domain=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices 
+.ve-header "Conventen en Codices" logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Font_Awesome_5_solid_home_white.svg/270px-Font_Awesome_5_solid_home_white.svg.png url=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices wc:Dou_1614_map_of_Leiden.jpg "Een literaire loop door Leiden" position=top sticky search-domain=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices 
     - [Index](/conventen-en-codices/)
     - [Route](/conventen-en-codices/route)
     - [Sint Maria Magdalenaklooster](/conventen-en-codices/maria-magdalenaklooster)
     - [Sint-Catharinaklooster](/conventen-en-codices/catharinaklooster)
     - [Klooster Lopsen](/conventen-en-codices/klooster-lopsen)
     - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
+
+### {.cards}
+
+#### Route {href=/conventen-en-codices/route}
+![](https://iiif.juncture-digital.org/thumbnail/wc:Dou_1614_map_of_Leiden.jpg)
+
+#### Kloosters in de middeleeuwen {href=#}
+![](https://iiif.juncture-digital.org/thumbnail/wc:)
+
+#### Glossarium {href=/conventen-en-codices/glossarium}
+![](https://iiif.juncture-digital.org/thumbnail/wc:Glossary_from_%27Poems%27_by_David_Sillar_1789.jpg)
+
+#### Over ons {href=/conventen-en-codices/glossarium}
+![]()
+
+##
+---
 
 ### Kloosters {.cards}
 
@@ -25,14 +42,6 @@
 
 ### Ondersteunende kennis {.cards}
 
-#### Route {href=/conventen-en-codices/route}
-![](https://iiif.juncture-digital.org/thumbnail/wc:Dou_1614_map_of_Leiden.jpg)
-
-#### Glossarium {href=/conventen-en-codices/glossarium}
-![](https://iiif.juncture-digital.org/thumbnail/wc:Glossary_from_%27Poems%27_by_David_Sillar_1789.jpg)
-
-#### Kloosters in de middeleeuwen {href=#}
-![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
 #### Meubels voor boeken {href=https://www.juncture-digital.org/iconolocode/essays/test/}
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Lessenaar_thumbnail-CC0.jpg)
