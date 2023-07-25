@@ -1,5 +1,6 @@
 # Het einde van een tijdperk: de ondergang van de kloosters 
 *Door Ghislaine Bros, Boudewijn van Kaam, Annelise Marck en Anneruth van Oostveen. Samengevoegd door Ghislaine Bros.*
+<br><br>
 
 De kloosters waar tijdens deze stadswandeling over is verteld zijn helaas niet meer in levende lijve te bezoeken. In de meeste gevallen werd hun ondergang veroorzaakt door de verandering van het primaire geloof en alles wat dat met zich meebracht, zoals verwoesting. Ook technologische vooruitgang speelt een rol in het einde van de kloosters. De kloosters waar je vandaag over geleerd hebt, hebben de tand des tijds niet weten te doorstaan.
 
