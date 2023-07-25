@@ -17,10 +17,10 @@ Doorgaans waren conventen erg arm, omdat de kloosterlingen het meestal zelf niet
 
 ## Bronnen
 
-‘Geschiedenis van het Nederlandse kloosterleven’, Erfgoedcentrum Nederlands Kloosterleven.  (13 mei 2023). 
+‘Geschiedenis van het Nederlandse kloosterleven’, *Erfgoedcentrum Nederlands Kloosterleven*.  (13 mei 2023). 
 
-‘Klooster’, Kunstbus, 20 maart 2022.  (13 	mei 2023). 
+‘Klooster’, *Kunstbus*, 20 maart 2022.  (13 	mei 2023). 
 
-‘Klooster (gebouw)’, Wikipedia,  (13 mei 	2023). 
+‘Klooster (gebouw)’, *Wikipedia*,  (13 mei 	2023). 
 
-‘Kloostergeloften’, Wikipedia,  (13 mei 		2023).
+‘Kloostergeloften’, *Wikipedia*,  (13 mei 		2023).
