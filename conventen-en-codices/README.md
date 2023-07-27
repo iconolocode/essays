@@ -11,8 +11,8 @@
 #### Route {href=/conventen-en-codices/route}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Dou_1614_map_of_Leiden.jpg)
 
-#### Kloosters in de middeleeuwen {href=#}
-![](https://iiif.juncture-digital.org/thumbnail/wc:)
+#### Kloosters in de middeleeuwen {href=/conventen-en-codices/kloosters-middeleeuwen}
+![](https://iiif.juncture-digital.org/thumbnail/wc:Barthe_Klostergrundriss_msu.jpg)
 
 #### Glossarium {href=/conventen-en-codices/glossarium}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Glossary_from_%27Poems%27_by_David_Sillar_1789.jpg)
@@ -46,28 +46,28 @@
 #### Meubels voor boeken {href=https://www.juncture-digital.org/iconolocode/essays/test/}
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Lessenaar_thumbnail-CC0.jpg)
 
-#### Boeken in kunst {href=#}
+#### Boeken in kunst {href=/conventen-en-codices/}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
-#### Orde van Augustinus {href=#}
+#### Orde van Augustinus {href=/conventen-en-codices/orde-augustinus}
+![](https://iiif.juncture-digital.org/thumbnail/wc:Nuremberg_chronicles_-Augustine(CXXXVIr).jpg )
+
+#### Middelnederlands en Latijn {href=/conventen-en-codices/middelnederlands-latijn}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
-#### Middelnederlands en Latijn {href=#}
-![](https://iiif.juncture-digital.org/thumbnail/wc:)
+#### Perkament {href=/conventen-en-codices/perkament}
+![](https://iiif.juncture-digital.org/thumbnail/wc:Mendel_I_034_v.jpg)
 
-#### Perkament {href=#}
-![](https://iiif.juncture-digital.org/thumbnail/wc:)
+#### Papier {href=/conventen-en-codices/papier}
+![](https://iiif.juncture-digital.org/thumbnail/wc:Paper_production.jpg)
 
-#### Papier {href=#}
-![](https://iiif.juncture-digital.org/thumbnail/wc:)
+#### Leids penwerk {href=/conventen-en-codices/penwerk}
+![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/penwerk-Korteweg-p68-InC.png )
 
-#### Leids penwerk {href=#}
-![](https://iiif.juncture-digital.org/thumbnail/wc:)
+#### Boekverkoop {href=/conventen-en-codices/boekverkoop}
+![](https://iiif.juncture-digital.org/thumbnail/wc:Mensen_en_twee_honden_in_een_boekenwinkel,_RP-T-1884-A-290.jpg)
 
-#### Boekverkoop {href=#}
-![](https://iiif.juncture-digital.org/thumbnail/wc:)
-
-#### Ondergang van de kloosters {href=#}
-![](https://iiif.juncture-digital.org/thumbnail/wc:)
+#### Ondergang van de kloosters {href=/conventen-en-codices/einde}
+![](https://iiif.juncture-digital.org/thumbnail/wc:Beeldenstorm,1566_De_Beeldestormery_in_den_Jaare_1568_in_Vlaenderen_en_Braband_begonnen_en_in_wynig_Tyds_door_gans_Nederland_verspreit(titel_op_object),_RP-P-1896-A-19368-50.jpg )
 
 
