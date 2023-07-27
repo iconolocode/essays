@@ -67,6 +67,6 @@
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
 #### Ondergang van de kloosters {href=/conventen-en-codices/einde}
-![](https://iiif.juncture-digital.org/thumbnail/wc:Beeldenstorm%2C_1566_De_Beeldestormery_in_den_Jaare_1568_in_Vlaenderen_en_Braband_begonnen_en_in_wynig_Tyds_door_gans_Nederland_verspreit_%28titel_op_object%29%2C_RP-P-1896-A-19368-50.jpg/)
+![](https://iiif.juncture-digital.org/thumbnail/wc:Uitval_op_de_Boshuyser_schans_-_Beleg_van_Leiden.jpg)
 
 
