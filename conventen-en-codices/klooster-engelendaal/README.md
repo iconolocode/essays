@@ -37,16 +37,16 @@ Hoewel Engelendaal ook boeken voor verkoop produceerde, was Brevier (Zomerdeel) 
 
 ## Bronnen
 
-‘Caerte van lant gelegen in den Ambacht van Leiderdorp’, Leiderdorps Weekblad, 9 april 2017, <https://www.leiderdorpsweekblad.nl/nieuws/historie/23232/caerte-van-lant-gelegen-in-den-ambacht-van-leiderdorp> (16 mei 2023).
+‘Caerte van lant gelegen in den Ambacht van Leiderdorp’, *Leiderdorps Weekblad*, 9 april 2017, <https://www.leiderdorpsweekblad.nl/nieuws/historie/23232/caerte-van-lant-gelegen-in-den-ambacht-van-leiderdorp> (16 mei 2023).
 
-‘Klooster Engelendaal’, Canon van Nederland,
+‘Klooster Engelendaal’,* Canon van Nederland*,
 <https://www.canonvannederland.nl/nl/page/193330/klooster-engelendaal> (16 mei 2023).
 
-‘Leiderdorp’, Erfgoedcentrum Nederlands Kloosterleven,
+‘Leiderdorp’, *Erfgoedcentrum Nederlands Kloosterleven*,
 <https://www.erfgoedkloosterleven.nl/zoeken/collecties-zoeken.php?mivast=1212&mizig=212&miadt=1212&miaet=14&micode=DOC-MON-ME&minr=1117232&milang=nl&misort=klo%7Cdesc&miview=ldt> (16 mei 2023).
 
 Lund, University Library (UB), Mh 29, 
 <https://www.alvin-portal.org/alvin/imageViewer.jsf?dsId=ATTACHMENT-0001&pid=alvin-record:14542> (31 maart 2023).
 
-Tettero, M., ‘Engelendal’, Marcel Tettero, z.j.,
+Tettero, M., ‘Engelendal’, *Marcel Tettero*, z.j.,
 <http://www.marceltettero.nl/home/Leiderdorp.html> (16 mei 2023).
