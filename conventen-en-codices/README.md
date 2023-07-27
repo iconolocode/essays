@@ -43,7 +43,7 @@
 ### Ondersteunende kennis {.cards}
 
 #### Orde van Augustinus {href=/conventen-en-codices/orde-augustinus}
-![]("https://iiif.juncture-digital.org/thumbnail/wc:Nuremberg_chronicles_-Augustine(CXXXVIr).jpg")
+![](https://iiif.juncture-digital.org/thumbnail/wc:Nuremberg_chronicles_-_Augustine_%28CXXXVIr%29.jpg)
 
 #### Middelnederlands en Latijn {href=/conventen-en-codices/middelnederlands-latijn}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
@@ -67,6 +67,6 @@
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
 #### Ondergang van de kloosters {href=/conventen-en-codices/einde}
-![]("https://iiif.juncture-digital.org/thumbnail/wc:Beeldenstorm,1566_De_Beeldestormery_in_den_Jaare_1568_in_Vlaenderen_en_Braband_begonnen_en_in_wynig_Tyds_door_gans_Nederland_verspreit(titel_op_object),_RP-P-1896-A-19368-50.jpg")
+![](https://iiif.juncture-digital.org/thumbnail/wc:Beeldenstorm%2C_1566_De_Beeldestormery_in_den_Jaare_1568_in_Vlaenderen_en_Braband_begonnen_en_in_wynig_Tyds_door_gans_Nederland_verspreit_%28titel_op_object%29%2C_RP-P-1896-A-19368-50.jpg/)
 
 
