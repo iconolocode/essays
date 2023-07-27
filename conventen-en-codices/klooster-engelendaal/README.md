@@ -35,7 +35,7 @@ Hoewel Engelendaal ook boeken voor verkoop produceerde, was Brevier (Zomerdeel) 
 .ve-iframe https://www.alvin-portal.org/alvin/attachment/document/alvin-record:14542/ATTACHMENT-0392.pdf height=600px width=90%
 
 
-## Bronnen
+## Bronnen:
 
 ‘Caerte van lant gelegen in den Ambacht van Leiderdorp’, *Leiderdorps Weekblad*, 9 april 2017, <https://www.leiderdorpsweekblad.nl/nieuws/historie/23232/caerte-van-lant-gelegen-in-den-ambacht-van-leiderdorp> (16 mei 2023).
 
