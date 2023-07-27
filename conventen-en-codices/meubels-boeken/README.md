@@ -46,6 +46,8 @@ Een ander voorbeeld van lessenaargebruik en het schrijven van brieven is te vind
 
 ## Bronnen:
 
+‘De verkondiging aan Maria, Tilman Riemenschneider, ca. 1485 - ca. 1487’, *Rijksmuseum*, BK-16986-B, <http://hdl.handle.net/10934/RM0001.COLLECT.25493> (26 mei 2023).
+
 Gelder, J.J. de., *Bartholomeus van der Helst* (Rotterdam: Brusse, 1921), pp. 86-88.
 
 Gent, J. van., *Bartholomeus van der Helst (ca. 1613-1670): een studie naar zijn leven en werk* (Zwolle: WBooks, 2011), p. 220.
