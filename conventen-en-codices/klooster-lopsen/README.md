@@ -40,10 +40,10 @@ Van veel boeken is niet bekend hoe ze gebonden zijn en van welk materiaal ze gem
 
 .ve-iframe https://www.erfgoedleiden.nl/collecties/archieven/archievenoverzicht/scans/NL-LdnRAL-0503/1.7.4.1/start/0/limit/10/highlight/1 full height=600px width=90%
 
-## Bronnen
+## Bronnen:
 
-As-Vijvers, A.M.W., ‘Manuscript production in the monastery of St Hieronymusdal in Lopsen near Leiden’, Oud Holland - Journal for Art of the Low Countries, 134 (2021).
+As-Vijvers, A.M.W., ‘Manuscript production in the monastery of St Hieronymusdal in Lopsen near Leiden’, *Oud Holland - Journal for Art of the Low Countries*, 134 (2021).
 
-‘Klooster Sint Hieronymusdal’, Erfgoedcentrum Nederlands Kloosterleven,
+‘Klooster Sint Hieronymusdal’, *Erfgoedcentrum Nederlands Kloosterleven*,
 <https://www.erfgoedkloosterleven.nl/zoeken/collecties-zoeken.php?mivast=1212&mizig=212&miadt=1212&miaet=14&micode=DOC-MON-ME&minr=1117231&milang=nl&misort=klo%7Cdesc&mif3=Leiden&miview=ldt> (23 maart 2023).
 
