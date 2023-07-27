@@ -35,7 +35,7 @@ Gelukkig zijn er nog twee boeken uit dit klooster over, beide bedoeld voor publi
 
 DeGregorio, S., ed., *The Cambridge Companion to Bede* (Cambridge: University Press, 		2010) <http://dx.doi.org.ezproxy.leidenuniv.nl:2048/10.1017/CCOL9780521514958>. 
 
-*Gent, Universiteitsbibliotheek,* UB 469, te vinden op BNM-I, ‘Gent, UB: 469’, 			<https://bnm-i.huygens.knaw.nl/tekstdragers /TDRA000000000115>.
+Gent, Universiteitsbibliotheek, UB 469, te vinden op BNM-I, ‘Gent, UB: 469’, 			<https://bnm-i.huygens.knaw.nl/tekstdragers /TDRA000000000115>.
 
 ‘Geschiedenis van het Nederlandse kloosterleven’, *Erfgoedcentrum Nederlands Kloosterleven*. <https://www.erfgoedkloosterleven.nl/kloosterleven/geschiedenis.html> (13 mei 2023). 
 
@@ -45,10 +45,10 @@ DeGregorio, S., ed., *The Cambridge Companion to Bede* (Cambridge: University Pr
 
 ‘Kloostergeloften’, *Wikipedia*, <https://nl.wikipedia.org/wiki/Kloostergeloften> (13 mei 		2023).
 
-*Leiden, Universitaire Bibliotheken Leiden* (UBL), LTK 336, digitaal te raadplegen op BNM-I, ‘Leiden, UB: LTK 336’,		<http://hdl.handle.net/11240/f6ae7196-6d47-42af-ab22-dd9c7884e49f> en op Digital Manuscripts in the Classroom, ‘The White Nuns of Leiden’, <https://digmanclass.universiteitleiden.nl/manuscripts/ltk-336/>. 
+Leiden, Universitaire Bibliotheken Leiden (UBL), LTK 336, digitaal te raadplegen op BNM-I, ‘Leiden, UB: LTK 336’,		<http://hdl.handle.net/11240/f6ae7196-6d47-42af-ab22-dd9c7884e49f> en op Digital Manuscripts in the Classroom, ‘The White Nuns of Leiden’, <https://digmanclass.universiteitleiden.nl/manuscripts/ltk-336/>. 
 
 Obreen, H.G.A., ‘Bijdragen tot de geschiedenis van het Witte-Nonnen-klooster der orde van 	St. Dominicus’, in *Leidsch Jaarboekje*, red. J.E. Heeres et al. (Leiden: A.W. Sijthoff, 	1905), pp. 1-13.
 
-*Visit Leiden*, ‘Academiegebouw’, 									<https://www.visitleiden.nl/nl/locaties/4116710871/academiegebouw> (28 april 		2023).
+Visit Leiden, ‘Academiegebouw’, 									<https://www.visitleiden.nl/nl/locaties/4116710871/academiegebouw> (28 april 		2023).
 
 
