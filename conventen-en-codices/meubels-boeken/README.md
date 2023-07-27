@@ -7,7 +7,7 @@ In het museum is ook een schrijfkast te vinden: de onderste helft is een normale
 
 Een ander voorbeeld van lessenaargebruik en het schrijven van brieven is te vinden in een portret van Petrus Scriverius, een geleerde die het grootste deel van zijn leven in Leiden woonde. Het portret is geschilderd door Bartholomeus van der Helst. De metalen lessenaar op het portret was geen groot meubelstuk. Het was klein van formaat en kon op een tafel worden gezet. Het afgebeelde boek is niet te identificeren en is op het portret meer bedoeld als verwijzing naar het beroep van Scriverius: hij was een oudheidkundige en uitgever van klassieke en humanistische literatuur. 
 
-## Bronnen
+## Bronnen:
 
 Gelder, J.J. de., *Bartholomeus van der Helst* (Rotterdam: Brusse, 1921), pp. 86-88.
 
