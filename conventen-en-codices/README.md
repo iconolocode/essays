@@ -60,10 +60,10 @@
 #### Boekverkoop {href=/conventen-en-codices/boekverkoop}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Mensen_en_twee_honden_in_een_boekenwinkel,_RP-T-1884-A-290.jpg)
 
-#### Meubels voor boeken {href=https://www.juncture-digital.org/iconolocode/essays/test/}
+#### Meubels voor boeken {href=/conventen-en-codices/meubels-boeken}
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Lessenaar_thumbnail-CC0.jpg)
 
-#### Boeken in kunst {href=/conventen-en-codices/}
+#### Boeken in kunst {href=/conventen-en-codices/boeken-kunst}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
 
 #### Ondergang van de kloosters {href=/conventen-en-codices/einde}
