@@ -13,8 +13,6 @@ Boeken werden ook wel eens afgebeeld in de beeldhouwkunst. Zo ook bij dit kleine
 
 ‘Beeld voorstellende vrouwelijke heilige met boek in de hand, 15de eeuw’, *Museum de Lakenhal*, 4270, <https://www.lakenhal.nl/nl/collectie/4270> (26 mei 2023).
 
-‘De verkondiging aan Maria, Tilman Riemenschneider, ca. 1485 - ca. 1487’, *Rijksmuseum*, BK-16986-B, <http://hdl.handle.net/10934/RM0001.COLLECT.25493> (26 mei 2023).
-
 ‘Zegelstempel van het klooster Lopsen of sint Hieronymusdal, ca. 1500’, *Museum de Lakenhal*, 921.1, <https://www.lakenhal.nl/nl/collectie/921-1> (26 mei 2023).
 
 ‘Zilveren munt, 16de eeuw’, *Museum de Lakenhal*, 3755.49, <https://www.lakenhal.nl/nl/collectie/3755-49> (26 mei 2023).
