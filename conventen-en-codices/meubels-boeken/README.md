@@ -34,7 +34,7 @@ Bij een eikenhouten lessenaar uit 1665 is het tafelblad bekleed met een doek, om
 
 In het museum is ook een schrijfkast te vinden: de onderste helft is een normale kast met deuren, maar bij de bovenste helft kan de plank naar voren geopend worden om een tafel te vormen. Dit type kast bestond al langer, en is te zien in een houtsnede uit 1494 waar de heilige Hiëronymus een boek aan het overschrijven is. 
 
-.ve-media wc:Heilige_Hieronymus_achter_een_lessenaar_Sant_Jeronimus_(titel_op_object),_RP-P-2015-26-837.jpg left height=80%
+.ve-media wc:Heilige_Hieronymus_achter_een_lessenaar_Sant_Jeronimus_(titel_op_object),_RP-P-2015-26-837.jpg left height=400px
 
 ---
 
