@@ -62,7 +62,7 @@
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Paper_production.jpg)
 
 #### Leids penwerk {href=/conventen-en-codices/penwerk}
-![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/penwerk-Korteweg-p68-InC.png )
+![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/penwerk-Korteweg-p69-InC.png )
 
 #### Boekverkoop {href=/conventen-en-codices/boekverkoop}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Mensen_en_twee_honden_in_een_boekenwinkel,_RP-T-1884-A-290.jpg)
