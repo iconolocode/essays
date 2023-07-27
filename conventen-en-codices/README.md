@@ -42,15 +42,8 @@
 
 ### Ondersteunende kennis {.cards}
 
-
-#### Meubels voor boeken {href=https://www.juncture-digital.org/iconolocode/essays/test/}
-![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Lessenaar_thumbnail-CC0.jpg)
-
-#### Boeken in kunst {href=/conventen-en-codices/}
-![](https://iiif.juncture-digital.org/thumbnail/wc:)
-
 #### Orde van Augustinus {href=/conventen-en-codices/orde-augustinus}
-![](https://iiif.juncture-digital.org/thumbnail/wc:Nuremberg_chronicles_-Augustine(CXXXVIr).jpg )
+![]("https://iiif.juncture-digital.org/thumbnail/wc:Nuremberg_chronicles_-Augustine(CXXXVIr).jpg")
 
 #### Middelnederlands en Latijn {href=/conventen-en-codices/middelnederlands-latijn}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:)
@@ -67,7 +60,13 @@
 #### Boekverkoop {href=/conventen-en-codices/boekverkoop}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Mensen_en_twee_honden_in_een_boekenwinkel,_RP-T-1884-A-290.jpg)
 
+#### Meubels voor boeken {href=https://www.juncture-digital.org/iconolocode/essays/test/}
+![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Lessenaar_thumbnail-CC0.jpg)
+
+#### Boeken in kunst {href=/conventen-en-codices/}
+![](https://iiif.juncture-digital.org/thumbnail/wc:)
+
 #### Ondergang van de kloosters {href=/conventen-en-codices/einde}
-![](https://iiif.juncture-digital.org/thumbnail/wc:Beeldenstorm,1566_De_Beeldestormery_in_den_Jaare_1568_in_Vlaenderen_en_Braband_begonnen_en_in_wynig_Tyds_door_gans_Nederland_verspreit(titel_op_object),_RP-P-1896-A-19368-50.jpg )
+![]("https://iiif.juncture-digital.org/thumbnail/wc:Beeldenstorm,1566_De_Beeldestormery_in_den_Jaare_1568_in_Vlaenderen_en_Braband_begonnen_en_in_wynig_Tyds_door_gans_Nederland_verspreit(titel_op_object),_RP-P-1896-A-19368-50.jpg")
 
 
