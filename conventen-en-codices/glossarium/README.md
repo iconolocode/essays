@@ -1,4 +1,3 @@
-    
 .ve-header "Conventen en Codices" logo=https://upload.wikimedia.org/wikipedia/commons/5/50/Home_icon_brown.png url=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices wc:Dou_1614_map_of_Leiden.jpg "Een literaire loop door Leiden" position=top sticky search-domain=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices 
     - [Index](/conventen-en-codices/)
     - [Route](/conventen-en-codices/route)
@@ -121,6 +120,7 @@ Een van de belangrijkste vrouwen uit het Nieuwe Testament. Volgeling van Jezus, 
 
 Het versieren van het boek met als doel de waarde van het boek te verhogen. Het wordt ook wel 'verlichten' of 'illumineren' genoemd vanwege het gebruik van bladgoud en andere schitterende kleuren.
 
+---
 
 ## Bronnen:
 
