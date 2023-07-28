@@ -24,8 +24,10 @@ De rondleiding door Leiden is 4,1 kilometer lang en begint bij het Academiegebou
 .ve-map Q43631 14 right sticky
     - Q2515805
     - Q2468128
-    - coords="52.155244,4.485286", description="Sint Annahofje"
+    - coords="52.155244,4.485286", label="Sint Annahofje"
     - Q15874971
+    - Q2520298
+    - Q17338250
     - Q2946957
     - Q2098586
     - allmaps=4f925913636c0527 layer="Dou Map"
@@ -89,7 +91,7 @@ Loop verder door de Zegersteeg en sla aan het einde, bij de Kaiserstraat, rechts
 ###
 
 Wandel een klein stukje door en sla vóór de brug en de gracht linksaf. Loop over het Vliet tot je weer aan het Rapenburg uitkomt en sla rechtsaf. Ga de eerste brug naar links over. Je staat nu bij het Kamerlingh Onnesgebouw. Sla rechtsaf en volg de Steenschuur tot je op nummer 19 bent.
-{enter=flyto:XXXX,17}
+{enter=flyto:Q2520298,17}
 
 ### Locatie 5: Heilige Lodewijkkerk, Steenschuur 19
 
@@ -102,6 +104,7 @@ We staan bij de rooms-katholieke Heilige Lodewijkkerk. De voorgevel hiervan stam
 
 Wandel een klein stukje door en sla vóór de brug en de gracht linksaf. Loop over het Vliet tot je weer aan het Rapenburg uitkomt en sla rechtsaf. Ga de eerste brug naar links over. Je staat nu bij het Kamerlingh Onnesgebouw. Sla rechtsaf en volg de Steenschuur tot je op nummer 19 bent.
 Volg de straat voor ongeveer 200 meter, alsmaar rechtdoor. Je kruist hierbij de Breestraat en de Botermarkt. Ga direct na de Karnemelksbrug over de Nieuwe Rijn naar rechts en stop bij nummer 57.
+{enter=flyto:Q17338250,17}
 
 ### Locatie 6: Terpen Tijn 4art, Nieuwe Rijn 57
 
