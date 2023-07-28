@@ -21,10 +21,11 @@ De rondleiding door Leiden is 4,1 kilometer lang en begint bij het Academiegebou
 # Inleiding {style="padding-right: 50%;"}
 *Door Boudewijn van Kaam*
 #
-.ve-map Q43631 14 right sticky
+.ve-map Q43631 14 right sticky marker=False
     - Q2515805
     - Q2468128
     - coords="52.155244, 4.485286", label="Sint Annahofje"
+    - Q18952718 disabled=True
     - coords="52.15436865100243, 4.487372719593945", label="Erfgoed Leiden en omstreken"
     - Q2520298
     - Q17338250
