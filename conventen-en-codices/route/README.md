@@ -73,7 +73,7 @@ Loop het grote hek naast de oude kloosterkapel door en ga tussen de twee gebouwe
 ###
 
 Sla bij het houten hek van de botanische tuin linksaf en volg de weg langs het P.J. Vethgebouw mee naar links. Je loopt onder het gebouw door en komt daarna op de 5e Binnenwestgracht langs het water uit. Sla na ongeveer 150 meter linksaf de Zegersteeg in. De locatie bevindt zich op nummer 14.
-{enter=flyto:coords="2.155244,4.485286",17}
+{enter=flyto:Q18952718,17}
 
 ### Locatie 3: Sint Annahofje, Zegersteeg 14
 
@@ -144,11 +144,11 @@ Als je door de Breestraat loopt, zie je veel boekhandels, waaronder de bekende B
 ###
 
 Nu volgt een langer stuk lopen. Steek de Breestraat over en volg die verder voor ongeveer 90 meter, tot je bij de Vrouwensteeg uitkomt. Ga die in, ga de brug over en loop de steeg door tot je op de Haarlemmerstraat uitkomt. Ga daar naar links. Sla na ongeveer 100 meter rechtsaf de Stevenshof in. Volg dit straatje en vervolgens de Lange Lijsbethsteeg (ongeveer rechtdoor). Ga de brug over en naar links, de Oude Singel op. Nu sta je voor Museum De Lakenhal.
+{enter=flyto:Q2098586,17}
 
 ### Locatie 9: Museum de Lakenhal, Oude Singel 32
 
 Informatie over middeleeuwse boeken en het gebruik ervan kun je niet alleen uit de boeken zelf afleiden, maar ook uit allerlei voorwerpen en kunstwerken die een museum als de Lakenhal in haar collectie heeft. Het is niet noodzakelijk om dit museum in te gaan, maar bij extra tijd is het wel de moeite waard.
-{enter=flyto:Q2098586,17}
 
 ### {.cards}
 #### Meubels voor boeken {href=/conventen-en-codices/meubels-boeken}
@@ -171,12 +171,11 @@ Loop verder over de Oude Singel en ga op het kruispunt rechtdoor de Beestenmarkt
 ###
 
 Ga aan de overkant van de Beestenmarkt de Narmstraat in en volg die tot het einde. Sla daarna linksaf naar de 1e Binnenvestgracht. Loop voorbij het speeltuintje en sta stil bij de molen.
-{enter=flyto:Q2274574,17}
+{enter=flyto:Q2176012,17}
 
 ### Locatie 11: Molen De Put, Park de Put 11
 
 We staan nu voor Molen De Put. Molens waren in de middeleeuwen essentieel voor het maken van papier. Deze specifieke molen is daar nooit voor gebruikt, maar komt wel het dichtst bij deze praktijk van de gebouwen in Leiden.
-{enter=flyto:Q2098586,17}
 
 ### {.cards}
 #### Papier {href=/conventen-en-codices/papier}
