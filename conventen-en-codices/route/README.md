@@ -24,7 +24,7 @@ De rondleiding door Leiden is 4,1 kilometer lang en begint bij het Academiegebou
 .ve-map Q43631 14 right sticky
     - Q2515805
     - Q2468128
-    - coords="52.155244, 4.485286"
+    - coords="52.155244,4.485286", description="Sint Annahofje"
     - Q15874971
     - Q2946957
     - Q2098586
@@ -44,7 +44,7 @@ In het volgende hoofdstuk is de looproute van de rondleiding te vinden. Bij het 
 ### Locatie 1: Academiegebouw, Rapenburg 73
 
 We staan aan het Rapenburg, bij het Academiegebouw van de Universiteit Leiden. Op deze plek stond vroeger een klooster. Hier zullen we het zo nog uitgebreider over hebben. Laten we beginnen met: wat is nu precies een klooster?
-{enter=flyto:Q2515805,17}
+{enter=flyto:Q2515805}
 
 ### {.cards}
 #### Kloosters in de middeleeuwen {href=/conventen-en-codices/kloosters-middeleeuwen}
@@ -57,7 +57,7 @@ We staan aan het Rapenburg, bij het Academiegebouw van de Universiteit Leiden. O
 ### 
 
 Loop het grote hek naast de oude kloosterkapel door en ga tussen de twee gebouwen door naar de Hortus Botanicus van de Universiteit Leiden. Het is voor deze rondleiding niet relevant om een kaartje te kopen, maar bij voldoende tijd is het wel een mooi uitstapje.
-{enter=flyto:Q2468128,17}
+{enter=flyto:Q2468128}
 
 ### Locatie 2: Hortus Botanicus, Rapenburg 73
 
@@ -67,7 +67,7 @@ Loop het grote hek naast de oude kloosterkapel door en ga tussen de twee gebouwe
 ###
 
 Sla bij het houten hek van de botanische tuin linksaf en volg de weg langs het P.J. Vethgebouw mee naar links. Je loopt onder het gebouw door en komt daarna op de 5e Binnenwestgracht langs het water uit. Sla na ongeveer 150 meter linksaf de Zegersteeg in. De locatie bevindt zich op nummer 14.
-{enter=flyto:2.155244,4.485286,17}
+{enter=flyto:2.155244,4.485286}
 
 ### Locatie 3: Sint Annahofje, Zegersteeg 14
 
@@ -79,7 +79,7 @@ We bevinden ons nu in het Sint Annahofje. Dit hofje is in 1503 gesticht en was d
 ###
 
 Loop verder door de Zegersteeg en sla aan het einde, bij de Kaiserstraat, rechtsaf. Ga vóór de gracht naar links, de Boisotkade op, en volg deze tot nummer 2A.
-{enter=flyto:Q15874971,17}
+{enter=flyto:Q15874971}
 
 ### Locatie 4: Erfgoed Leiden en Omstreken, Boisotkade 2A
 
@@ -89,7 +89,7 @@ Loop verder door de Zegersteeg en sla aan het einde, bij de Kaiserstraat, rechts
 ###
 
 Wandel een klein stukje door en sla vóór de brug en de gracht linksaf. Loop over het Vliet tot je weer aan het Rapenburg uitkomt en sla rechtsaf. Ga de eerste brug naar links over. Je staat nu bij het Kamerlingh Onnesgebouw. Sla rechtsaf en volg de Steenschuur tot je op nummer 19 bent.
-{enter=flyto:XXXX,17}
+{enter=flyto:XXXX}
 
 ### Locatie 5: Heilige Lodewijkkerk, Steenschuur 19
 
