@@ -54,6 +54,7 @@ We staan aan het Rapenburg, bij het Academiegebouw van de Universiteit Leiden. O
 ### 
 
 Loop het grote hek naast de oude kloosterkapel door en ga tussen de twee gebouwen door naar de Hortus Botanicus van de Universiteit Leiden. Het is voor deze rondleiding niet relevant om een kaartje te kopen, maar bij voldoende tijd is het wel een mooi uitstapje.
+{enter=flyto:Q2468128,17}
 
 ### Locatie 2: Hortus Botanicus, Rapenburg 73
 
@@ -63,6 +64,7 @@ Loop het grote hek naast de oude kloosterkapel door en ga tussen de twee gebouwe
 ###
 
 Sla bij het houten hek van de botanische tuin linksaf en volg de weg langs het P.J. Vethgebouw mee naar links. Je loopt onder het gebouw door en komt daarna op de 5e Binnenwestgracht langs het water uit. Sla na ongeveer 150 meter linksaf de Zegersteeg in. De locatie bevindt zich op nummer 14.
+{enter=flyto:Q2282688,17}
 
 ### Locatie 3: Sint Annahofje, Zegersteeg 14
 
@@ -74,6 +76,7 @@ We bevinden ons nu in het Sint Annahofje. Dit hofje is in 1503 gesticht en was d
 ###
 
 Loop verder door de Zegersteeg en sla aan het einde, bij de Kaiserstraat, rechtsaf. Ga vóór de gracht naar links, de Boisotkade op, en volg deze tot nummer 2A.
+{enter=flyto:XXXX,17}
 
 ### Locatie 4: Erfgoed Leiden en Omstreken, Boisotkade 2A
 
@@ -83,6 +86,7 @@ Loop verder door de Zegersteeg en sla aan het einde, bij de Kaiserstraat, rechts
 ###
 
 Wandel een klein stukje door en sla vóór de brug en de gracht linksaf. Loop over het Vliet tot je weer aan het Rapenburg uitkomt en sla rechtsaf. Ga de eerste brug naar links over. Je staat nu bij het Kamerlingh Onnesgebouw. Sla rechtsaf en volg de Steenschuur tot je op nummer 19 bent.
+{enter=flyto:XXXX,17}
 
 ### Locatie 5: Heilige Lodewijkkerk, Steenschuur 19
 
@@ -166,6 +170,7 @@ We staan nu voor Molen De Put. Molens waren in de middeleeuwen essentieel voor h
 ###
 
 Ga de Rembrandtbrug over de Rijn over en sla direct daarna rechtsaf. Loop door het Rembrandtpark naar het Noordeindeplein en steek de weg via het zebrapad over. Sla opnieuw rechtsaf en ga na de gracht naar links, de Witte Singel op. Steek de Witte Singel over en volg die voor ongeveer 300 meter tot je voor de ingang van de Universiteitsbibliotheek (nummer 27) staat.
+{enter=flyto:XXXX,17}
 
 ### Locatie 12: Universiteitsbibliotheek Leiden, Witte Singel 27
 
@@ -180,6 +185,7 @@ Ga de gracht over via een van de twee bruggetjes en loop naar het Rapenburg. Je 
 2. Loop een stukje terug over de Witte Singel en ga de Reuvensbrug over. Ga aan het einde van de weg rechtsaf en sla daarna linksaf de Doelensteeg in. Volg die tot je aan het Rapenburg uitkomt.
 
 Als je eenmaal bij het Rapenburg bent, loop je naar rechts tot je op het startpunt van onze route, het Academiegebouw, bent aangekomen. Ga daar de Nonnenbrug over en loop rechtdoor de Kloksteeg in. Zo kom je bij de laatste locatie: de Pieterskerk.
+{enter=flyto:XXXX,17}
 
 ### Locatie 13: Pieterskerk, Kloksteeg 16
 
