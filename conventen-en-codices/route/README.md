@@ -23,8 +23,6 @@ De rondleiding door Leiden is 4,1 kilometer lang en begint bij het Academiegebou
 #
 .ve-map Q43631 14 right sticky
     - allmaps=4f925913636c0527 layer="Dou Map"
-    - Q2098586
-    - Q2946957
     - Q2515805
     - Q2468128
     - Q2282688
