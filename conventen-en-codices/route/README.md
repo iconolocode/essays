@@ -36,9 +36,13 @@ We staan aan het Rapenburg, bij het Academiegebouw van de Universiteit Leiden. O
 
 ### {.cards}
 A) Kloosters in de middeleeuwen
+#### Kloosters in de middeleeuwen {href=/conventen-en-codices/kloosters-middeleeuwen}
+![](https://iiif.juncture-digital.org/thumbnail/wc:Barthe_Klostergrundriss_msu.jpg)
+###
 
 [B) Sint Maria Magdalenaklooster, de Witte Nonnen: algemene informatie](/conventen-en-codices/maria-magdalenaklooster)
 
+### {.cards}
 [C) Boekproductie door de Witte Nonnen](/conventen-en-codices/maria-magdalenaklooster)
 #### Sint Maria Magdalenaklooster {href=/conventen-en-codices/maria-magdalenaklooster}
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/LTK_336-CC-BY.jpg)
@@ -62,7 +66,11 @@ Sla bij het houten hek van de botanische tuin linksaf en volg de weg langs het P
 
 We bevinden ons nu in het Sint Annahofje. Dit hofje is in 1503 gesticht en was destijds bedoeld als woonplaats voor dertien weduwen of maagden boven de veertig. Hoewel er aan dit hofje leken woonden, en geen kloosterbroeders of -zusters, kunnen we hier toch nog iets terugzien van het gemeenschapsleven dat de kloosterorde van Augustinus stimuleerde. Men woonde hier dicht bij elkaar en had elkaar ook nodig om een goed leven te kunnen leiden.
 
+### {.cards}
 A) De Orde van Augustinus
+#### Orde van Augustinus {href=/conventen-en-codices/orde-augustinus}
+![](https://iiif.juncture-digital.org/thumbnail/wc:Nuremberg_chronicles_-_Augustine_%28CXXXVIr%29.jpg)
+###
 
 Loop verder door de Zegersteeg en sla aan het einde, bij de Kaiserstraat, rechtsaf. Ga vóór de gracht naar links, de Boisotkade op, en volg deze tot nummer 2A.
 
@@ -80,7 +88,11 @@ Wandel een klein stukje door en sla vóór de brug en de gracht linksaf. Loop ov
 
 We staan bij de rooms-katholieke Heilige Lodewijkkerk. De voorgevel hiervan stamt uit 1538 en de toren uit 1594, dus het is een goed voorbeeld van de architectuur uit de tijd waar we over spreken. Dat is echter niet de reden dat we hier staan. In deze kerk worden nog missen in het Latijn gehouden. Dit is daardoor een van de weinige plekken in Leiden waar je met een beetje moeite nog Latijn kan horen.
 
+### {.cards}
 A) Middelnederlands en Latijn in kloosterteksten
+#### Middelnederlands en Latijn {href=/conventen-en-codices/middelnederlands-latijn}
+![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Leiden_University_LTK_336_f30v--CC-BY.png)
+###
 
 Wandel een klein stukje door en sla vóór de brug en de gracht linksaf. Loop over het Vliet tot je weer aan het Rapenburg uitkomt en sla rechtsaf. Ga de eerste brug naar links over. Je staat nu bij het Kamerlingh Onnesgebouw. Sla rechtsaf en volg de Steenschuur tot je op nummer 19 bent.
 Volg de straat voor ongeveer 200 meter, alsmaar rechtdoor. Je kruist hierbij de Breestraat en de Botermarkt. Ga direct na de Karnemelksbrug over de Nieuwe Rijn naar rechts en stop bij nummer 57.
@@ -89,7 +101,11 @@ Volg de straat voor ongeveer 200 meter, alsmaar rechtdoor. Je kruist hierbij de 
 
 Je staat voor een winkeltje voor kunstbenodigdheden, waarmee je allerlei dingen kunt maken en versieren. Dit is van alle tijden: de middeleeuwse boeken die in de kloosters gemaakt werden, waren vaak ook al versierd.
 
+### {.cards}
 A) Leids penwerk
+#### Leids penwerk {href=/conventen-en-codices/penwerk}
+![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/penwerk-Korteweg-p69-InC.png )
+###
 
 Keer om, passeer de brug en loop met de Nieuwe Rijn aan je linkerhand naar de volgende brug. Ga die over, sla rechtsaf en meteen weer linksaf, de Choorlammersteeg in. Steek de Breestraat over naar de Plaatsteeg, loop die door en sla rechtsaf, de straat genaamd Langebrug in. De volgende locatie bevindt zich ongeveer op de hoek van de volgende steeg aan je rechterhand, de Ketelboetersteeg, nummer 27. 
 
@@ -97,7 +113,11 @@ Keer om, passeer de brug en loop met de Nieuwe Rijn aan je linkerhand naar de vo
 
 Op deze plaats heeft ooit een perkamentmaker genaamd Jan Coenenzoon zijn pand gehad.
 
+### {.cards}
 A) Perkament
+#### Perkament {href=/conventen-en-codices/perkament}
+![](https://iiif.juncture-digital.org/thumbnail/wc:Mendel_I_034_v.jpg)
+###
 
 Volg de Langebrug voor ongeveer 130 meter en ga dan rechtsaf de Pieterskerk-Choorsteeg in. Je komt nu weer op de Breestraat uit. Sla linksaf en loop zo’n 100 meter naar Boekhandel De Slegte.
 
@@ -105,7 +125,11 @@ Volg de Langebrug voor ongeveer 130 meter en ga dan rechtsaf de Pieterskerk-Choo
 
 Als je door de Breestraat loopt, zie je veel boekhandels, waaronder de bekende Boekhandel De Slegte en de Mayflower Bookshop. Maar hoe zat het eigenlijk met de boekverkoop in de middeleeuwen?
 
+### {.cards}
 A) De boekverkoper in de middeleeuwen 
+#### Boekverkoop {href=/conventen-en-codices/boekverkoop}
+![](https://iiif.juncture-digital.org/thumbnail/wc:Mensen_en_twee_honden_in_een_boekenwinkel,_RP-T-1884-A-290.jpg)
+###
 
 Nu volgt een langer stuk lopen. Steek de Breestraat over en volg die verder voor ongeveer 90 meter, tot je bij de Vrouwensteeg uitkomt. Ga die in, ga de brug over en loop de steeg door tot je op de Haarlemmerstraat uitkomt. Ga daar naar links. Sla na ongeveer 100 meter rechtsaf de Stevenshof in. Volg dit straatje en vervolgens de Lange Lijsbethsteeg (ongeveer rechtdoor). Ga de brug over en naar links, de Oude Singel op. Nu sta je voor Museum De Lakenhal.
 
@@ -115,10 +139,15 @@ Informatie over middeleeuwse boeken en het gebruik ervan kun je niet alleen uit 
 
 ### {.cards}
 A) Meubels voor boeken
-#### Meubels voor boeken {href=https://www.juncture-digital.org/iconolocode/essays/test/}
+#### Meubels voor boeken {href=/conventen-en-codices/meubels-boeken}
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Lessenaar_thumbnail-CC0.jpg)
 ###
+
+### {.cards}
 B) Boeken verbeeld in kunst
+#### Boeken in kunst {href=/conventen-en-codices/boeken-kunst}
+![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Beeld_voorstelle_de_vrouwelijke_heilige_met_boek_in_de_hand--CC0.jpg)
+###
 
 Loop verder over de Oude Singel en ga op het kruispunt rechtdoor de Beestenmarkt op.
 
@@ -139,7 +168,11 @@ Ga aan de overkant van de Beestenmarkt de Narmstraat in en volg die tot het eind
 
 We staan nu voor Molen De Put. Molens waren in de middeleeuwen essentieel voor het maken van papier. Deze specifieke molen is daar nooit voor gebruikt, maar komt wel het dichtst bij deze praktijk van de gebouwen in Leiden.
 
+### {.cards}
 A) Papier 
+#### Papier {href=/conventen-en-codices/papier}
+![](https://iiif.juncture-digital.org/thumbnail/wc:Paper_production.jpg)
+###
 
 Ga de Rembrandtbrug over de Rijn over en sla direct daarna rechtsaf. Loop door het Rembrandtpark naar het Noordeindeplein en steek de weg via het zebrapad over. Sla opnieuw rechtsaf en ga na de gracht naar links, de Witte Singel op. Steek de Witte Singel over en volg die voor ongeveer 300 meter tot je voor de ingang van de Universiteitsbibliotheek (nummer 27) staat.
 
@@ -164,4 +197,8 @@ Als je eenmaal bij het Rapenburg bent, loop je naar rechts tot je op het startpu
 
 De Pieterskerk is in 1566 hard getroffen door de Beeldenstorm. Het altaarstuk van Lucas van Leyden kon nog net worden gered. Een replica daarvan is nog in de kerk te bewonderen. Deze kerk is niet het enige gebouw dat door de Beeldenstorm overhoop is gehaald.
 
+### {.cards}
 A) Het einde van een tijdperk: de ondergang van de kloosters 
+#### Ondergang van de kloosters {href=/conventen-en-codices/einde}
+![](https://iiif.juncture-digital.org/thumbnail/wc:Uitval_op_de_Boshuyser_schans_-_Beleg_van_Leiden.jpg)
+###
