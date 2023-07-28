@@ -22,10 +22,11 @@ De rondleiding door Leiden is 4,1 kilometer lang en begint bij het Academiegebou
 *Door Boudewijn van Kaam*
 #
 .ve-map Q43631 14 right sticky
-    - allmaps=4f925913636c0527 layer="Dou Map"
     - Q2515805
     - Q2468128
-    - Q2282688
+    - Q2946957
+    - Q2098586
+    - allmaps=4f925913636c0527 layer="Dou Map"
 
 In de middeleeuwen zag Leiden er drastisch anders uit dan nu: de stad was kleiner, op een andere manier opgebouwd en er heerste een andere cultuur. Wie tegenwoordig in Leiden komt denkt bij de stad al snel aan een paar dingen: het ontzet van Leiden in 1574, de aanwezigheid van de Universiteit van Leiden, de geboortestad van Rembrandt van Rijn of mogelijk musea zoals het Rijksmuseum van Oudheden. In de middeleeuwen was dit er allemaal nog niet. In deze rondleiding van middeleeuws Leiden wordt er een link gelegd tussen de huidige plaatsen en gebouwen in Leiden en gebouwen uit de middeleeuwen. Hiermee hopen we je een ander beeld van Leiden te geven zodat je kan zien hoe Leiden in de loop der tijd is veranderd.
 
@@ -130,6 +131,7 @@ Als je door de Breestraat loopt, zie je veel boekhandels, waaronder de bekende B
 #### Boekverkoop {href=/conventen-en-codices/boekverkoop}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Mensen_en_twee_honden_in_een_boekenwinkel,_RP-T-1884-A-290.jpg)
 ###
+{enter=flyto:Q2946957,17}
 
 Nu volgt een langer stuk lopen. Steek de Breestraat over en volg die verder voor ongeveer 90 meter, tot je bij de Vrouwensteeg uitkomt. Ga die in, ga de brug over en loop de steeg door tot je op de Haarlemmerstraat uitkomt. Ga daar naar links. Sla na ongeveer 100 meter rechtsaf de Stevenshof in. Volg dit straatje en vervolgens de Lange Lijsbethsteeg (ongeveer rechtdoor). Ga de brug over en naar links, de Oude Singel op. Nu sta je voor Museum De Lakenhal.
 
