@@ -24,9 +24,10 @@ De rondleiding door Leiden is 4,1 kilometer lang en begint bij het Academiegebou
 .ve-map Q43631 14 right sticky
     - Q2515805
     - Q2468128
+    - 52.155244, 4.485286
+    - Q15874971
     - Q2946957
     - Q2098586
-    - 52.155244, 4.485286
     - allmaps=4f925913636c0527 layer="Dou Map"
 
 In de middeleeuwen zag Leiden er drastisch anders uit dan nu: de stad was kleiner, op een andere manier opgebouwd en er heerste een andere cultuur. Wie tegenwoordig in Leiden komt denkt bij de stad al snel aan een paar dingen: het ontzet van Leiden in 1574, de aanwezigheid van de Universiteit van Leiden, de geboortestad van Rembrandt van Rijn of mogelijk musea zoals het Rijksmuseum van Oudheden. In de middeleeuwen was dit er allemaal nog niet. In deze rondleiding van middeleeuws Leiden wordt er een link gelegd tussen de huidige plaatsen en gebouwen in Leiden en gebouwen uit de middeleeuwen. Hiermee hopen we je een ander beeld van Leiden te geven zodat je kan zien hoe Leiden in de loop der tijd is veranderd.
@@ -66,7 +67,7 @@ Loop het grote hek naast de oude kloosterkapel door en ga tussen de twee gebouwe
 ###
 
 Sla bij het houten hek van de botanische tuin linksaf en volg de weg langs het P.J. Vethgebouw mee naar links. Je loopt onder het gebouw door en komt daarna op de 5e Binnenwestgracht langs het water uit. Sla na ongeveer 150 meter linksaf de Zegersteeg in. De locatie bevindt zich op nummer 14.
-{enter=flyto:"52.155244, 4.485286",17}
+{enter=flyto:52.155244, 4.485286,17}
 
 ### Locatie 3: Sint Annahofje, Zegersteeg 14
 
@@ -78,7 +79,7 @@ We bevinden ons nu in het Sint Annahofje. Dit hofje is in 1503 gesticht en was d
 ###
 
 Loop verder door de Zegersteeg en sla aan het einde, bij de Kaiserstraat, rechtsaf. Ga vóór de gracht naar links, de Boisotkade op, en volg deze tot nummer 2A.
-{enter=flyto:XXXX,17}
+{enter=flyto:Q15874971,17}
 
 ### Locatie 4: Erfgoed Leiden en Omstreken, Boisotkade 2A
 
