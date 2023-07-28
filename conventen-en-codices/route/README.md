@@ -67,7 +67,7 @@ Loop het grote hek naast de oude kloosterkapel door en ga tussen de twee gebouwe
 ###
 
 Sla bij het houten hek van de botanische tuin linksaf en volg de weg langs het P.J. Vethgebouw mee naar links. Je loopt onder het gebouw door en komt daarna op de 5e Binnenwestgracht langs het water uit. Sla na ongeveer 150 meter linksaf de Zegersteeg in. De locatie bevindt zich op nummer 14.
-{enter=flyto:coords="52.155244, 4.485286",17}
+{enter=flyto:2.155244,4.485286,17}
 
 ### Locatie 3: Sint Annahofje, Zegersteeg 14
 
