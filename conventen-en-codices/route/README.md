@@ -1,5 +1,4 @@
 <style>
-    #juncture p { padding-right: 50%; }
     #juncture div { background-color: transparent; }
 </style>
 
@@ -22,20 +21,20 @@ De rondleiding door Leiden is 4,1 kilometer lang en begint bij het Academiegebou
 
 .ve-iframe https://www.google.com/maps/embed?pb=!1m84!1m8!1m3!1d9790.813309753294!2d4.4819609!3d52.1579048!3m2!1i1024!2i768!4f13.1!4m73!3e2!4m3!3m2!1d52.1569842!2d4.485676799999999!4m3!3m2!1d52.157117799999995!2d4.4849177!4m5!1s0x47c5c6f3bcecf72d%3A0xc60539fa09f1a0db!2sSint%20Annahof%20Of%20Joostenpoort!3m2!1d52.155436699999996!2d4.4851662!4m5!1s0x47c5c6f366949b73%3A0xf2e2a0e631f8896e!2sErfgoed%20Leiden%20en%20omstreken!3m2!1d52.154296599999995!2d4.4873299!4m5!1s0x47c5c68ce0e72bc7%3A0x6027bb878ae253b7!2sSteenschuur%2019%2C%202311%20ES%20Leiden!3m2!1d52.1560339!2d4.4913864!4m5!1s0x47c5c68db65188df%3A0x9a7675af61a2dbbb!2sTerpen%20Tijn%204art!3m2!1d52.156701899999995!2d4.494413199999999!4m5!1s0x47c5c68d31b3ef9f%3A0x7eb694b31d0ed24d!2sKetelboetersteeg%2027%2C%202311%20TN%20Leiden!3m2!1d52.1571569!2d4.4903445!4m5!1s0x47c5c6f2a77da737%3A0xb1d279fe13a8f8cb!2sBoekhandel%20De%20Slegte%20Leiden!3m2!1d52.1590676!2d4.4890022!4m5!1s0x47c5c6ec5ec8e867%3A0xb64d67c1c6e77359!2sMuseum%20De%20Lakenhal!3m2!1d52.162897799999996!2d4.4875112999999995!4m5!1s0x47c5c6ec3be88d75%3A0x556ff3d5011af946!2sBeestenmarkt%2C%202312%20CH%20Leiden!3m2!1d52.1628213!2d4.4851369!4m5!1s0x47c5c6ee5c3fffff%3A0x8efee914cf4bebe!2sMolen%20De%20Put!3m2!1d52.1613282!2d4.4819311!4m5!1s0x47c5c6f1a2e77ed1%3A0xa6094185eb1dc2e4!2sUniversiteitsbibliotheek%20Leiden!3m2!1d52.157305!2d4.481427!4m3!3m2!1d52.1573304!2d4.4869768!5e0!3m2!1sen!2snl!4v1685538955993!5m2!1sen!2snl full height=600px width=90%
 
-# Inleiding
+
+# Inleiding {style="padding-right: 50%;"}
 *Door Boudewijn van Kaam*
-<br><br>
+#
+.ve-map Q43631 14 right sticky
+    - allmaps=4f925913636c0527 layer="Dou Map"
 
 In de middeleeuwen zag Leiden er drastisch anders uit dan nu: de stad was kleiner, op een andere manier opgebouwd en er heerste een andere cultuur. Wie tegenwoordig in Leiden komt denkt bij de stad al snel aan een paar dingen: het ontzet van Leiden in 1574, de aanwezigheid van de Universiteit van Leiden, de geboortestad van Rembrandt van Rijn of mogelijk musea zoals het Rijksmuseum van Oudheden. In de middeleeuwen was dit er allemaal nog niet. In deze rondleiding van middeleeuws Leiden wordt er een link gelegd tussen de huidige plaatsen en gebouwen in Leiden en gebouwen uit de middeleeuwen. Hiermee hopen we je een ander beeld van Leiden te geven zodat je kan zien hoe Leiden in de loop der tijd is veranderd.
 
-.ve-map Q43631 14 right sticky
-    - allmaps=4f925913636c0527 layer="Dou Map"
-    
 Het belangrijkste verschil tussen Leiden in de middeleeuwen en het hedendaagse Leiden qua gebouwen is de hoge aanwezigheid van kerken en kloosters die er vroeger waren. Deze waren katholiek, aangezien de protestantse en hervormde geloofsstromingen toen nog niet bestonden. De rondleiding richt zich hier dan ook vooral op, je wordt langs verschillende plekken geleid in de stad waar vroeger kloosters stonden. Het tweede onderdeel waar we in de rondleiding op focussen, is de productie en verspreiding van boeken. Zo komt u langs plekken waar vroeger boekproductie plaatsvond en waar boeken verkocht werden, maar u komt ook langs plekken waar dat tegenwoordig gebeurt. We bestuderen kerken, kloosters en de productie van boeken tegelijkertijd, omdat boeken vooral gebruikt en geproduceerd werden door geestelijken. Kloosters waren vaak de bron van boekproductie in de middeleeuwse stad. Een samengenomen rondleiding van kerken, kloosters, boekproductie en -verspreiding is dus een logische combinatie. Kortom, deze rondleiding verbindt het heden met het verleden om je een kijkje te geven in de veranderingen en gelijkenissen tussen middeleeuws en hedendaags Leiden.
 
 In het volgende hoofdstuk is de looproute van de rondleiding te vinden. Bij het volgen van deze route is het belangrijk om twee dingen in de gaten te houden: ten eerste is het belangrijk om rekening te houden met de openingstijden van enkele publieke plaatsen zoals de Hortus Botanicus en het Sint Annahofje. Deze plekken zijn helaas niet vierentwintig uur per dag open. Wij raden je aan om deze rondleiding overdag te volgen, anders loop je het risico dat je enkele plekken niet kunt betreden. Ten tweede is er in de rondleiding rekening gehouden met de momenteel (mei 2023) afgesloten Paterbrug. De rondleiding volgt hiervoor een omleiding. Het kan echter zijn dat andere plaatsen van de rondleiding ook afgesloten zijn op het moment dat je de rondleiding volgt. Wij raden je aan om voor vertrek te controleren of de route ergens belemmerd is en zo nodig de looproute aan te passen.
 
-## Route beschrijving
+## Route beschrijving {style="padding-right: 50%;"}
 *Door Annelise Marck*
 <br><br>
 
