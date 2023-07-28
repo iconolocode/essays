@@ -46,7 +46,7 @@
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Nuremberg_chronicles_-_Augustine_%28CXXXVIr%29.jpg)
 
 #### Middelnederlands en Latijn {href=/conventen-en-codices/middelnederlands-latijn}
-![](https://iiif.juncture-digital.org/thumbnail/gh:Leiden_University_LTK_336_f30v--CC-BY.png)
+![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Leiden_University_LTK_336_f30v--CC-BY.png)
 
 #### Meubels voor boeken {href=/conventen-en-codices/meubels-boeken}
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Lessenaar_thumbnail-CC0.jpg)
