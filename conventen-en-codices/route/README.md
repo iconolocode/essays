@@ -28,8 +28,12 @@ De rondleiding door Leiden is 4,1 kilometer lang en begint bij het Academiegebou
     - Q7475384
     - Q2520298
     - Q17338250
+    - Q19299353
     - Q2946957
     - Q2098586
+    - Q2274574
+    - Q638395
+    - Q1537972
     - allmaps=4f925913636c0527 layer="Dou Map"
 
 In de middeleeuwen zag Leiden er drastisch anders uit dan nu: de stad was kleiner, op een andere manier opgebouwd en er heerste een andere cultuur. Wie tegenwoordig in Leiden komt denkt bij de stad al snel aan een paar dingen: het ontzet van Leiden in 1574, de aanwezigheid van de Universiteit van Leiden, de geboortestad van Rembrandt van Rijn of mogelijk musea zoals het Rijksmuseum van Oudheden. In de middeleeuwen was dit er allemaal nog niet. In deze rondleiding van middeleeuws Leiden wordt er een link gelegd tussen de huidige plaatsen en gebouwen in Leiden en gebouwen uit de middeleeuwen. Hiermee hopen we je een ander beeld van Leiden te geven zodat je kan zien hoe Leiden in de loop der tijd is veranderd.
@@ -116,6 +120,7 @@ Je staat voor een winkeltje voor kunstbenodigdheden, waarmee je allerlei dingen 
 ###
 
 Keer om, passeer de brug en loop met de Nieuwe Rijn aan je linkerhand naar de volgende brug. Ga die over, sla rechtsaf en meteen weer linksaf, de Choorlammersteeg in. Steek de Breestraat over naar de Plaatsteeg, loop die door en sla rechtsaf, de straat genaamd Langebrug in. De volgende locatie bevindt zich ongeveer op de hoek van de volgende steeg aan je rechterhand, de Ketelboetersteeg, nummer 27. 
+{enter=flyto:Q19299353,17}
 
 ### Locatie 7: Ketelboetersteeg 27
 
@@ -127,6 +132,7 @@ Op deze plaats heeft ooit een perkamentmaker genaamd Jan Coenenzoon zijn pand ge
 ###
 
 Volg de Langebrug voor ongeveer 130 meter en ga dan rechtsaf de Pieterskerk-Choorsteeg in. Je komt nu weer op de Breestraat uit. Sla linksaf en loop zo’n 100 meter naar Boekhandel De Slegte.
+{enter=flyto:Q2946957,17}
 
 ### Locatie 8: Breestraat t.h.v. nr. 73 (Boekhandel De Slegte/Mayflower Bookshop)
 
@@ -136,7 +142,6 @@ Als je door de Breestraat loopt, zie je veel boekhandels, waaronder de bekende B
 #### Boekverkoop {href=/conventen-en-codices/boekverkoop}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Mensen_en_twee_honden_in_een_boekenwinkel,_RP-T-1884-A-290.jpg)
 ###
-{enter=flyto:Q2946957,17}
 
 Nu volgt een langer stuk lopen. Steek de Breestraat over en volg die verder voor ongeveer 90 meter, tot je bij de Vrouwensteeg uitkomt. Ga die in, ga de brug over en loop de steeg door tot je op de Haarlemmerstraat uitkomt. Ga daar naar links. Sla na ongeveer 100 meter rechtsaf de Stevenshof in. Volg dit straatje en vervolgens de Lange Lijsbethsteeg (ongeveer rechtdoor). Ga de brug over en naar links, de Oude Singel op. Nu sta je voor Museum De Lakenhal.
 
@@ -156,6 +161,7 @@ Informatie over middeleeuwse boeken en het gebruik ervan kun je niet alleen uit 
 ###
 
 Loop verder over de Oude Singel en ga op het kruispunt rechtdoor de Beestenmarkt op.
+{enter=flyto:Q2274574,17}
 
 ### Locatie 10: Beestenmarkt
 
@@ -165,6 +171,7 @@ Loop verder over de Oude Singel en ga op het kruispunt rechtdoor de Beestenmarkt
 ###
 
 Ga aan de overkant van de Beestenmarkt de Narmstraat in en volg die tot het einde. Sla daarna linksaf naar de 1e Binnenvestgracht. Loop voorbij het speeltuintje en sta stil bij de molen.
+{enter=flyto:Q2274574,17}
 
 ### Locatie 11: Molen De Put, Park de Put 11
 
@@ -177,7 +184,7 @@ We staan nu voor Molen De Put. Molens waren in de middeleeuwen essentieel voor h
 ###
 
 Ga de Rembrandtbrug over de Rijn over en sla direct daarna rechtsaf. Loop door het Rembrandtpark naar het Noordeindeplein en steek de weg via het zebrapad over. Sla opnieuw rechtsaf en ga na de gracht naar links, de Witte Singel op. Steek de Witte Singel over en volg die voor ongeveer 300 meter tot je voor de ingang van de Universiteitsbibliotheek (nummer 27) staat.
-{enter=flyto:XXXX,17}
+{enter=flyto:Q638395,17}
 
 ### Locatie 12: Universiteitsbibliotheek Leiden, Witte Singel 27
 
@@ -192,7 +199,7 @@ Ga de gracht over via een van de twee bruggetjes en loop naar het Rapenburg. Je 
 2. Loop een stukje terug over de Witte Singel en ga de Reuvensbrug over. Ga aan het einde van de weg rechtsaf en sla daarna linksaf de Doelensteeg in. Volg die tot je aan het Rapenburg uitkomt.
 
 Als je eenmaal bij het Rapenburg bent, loop je naar rechts tot je op het startpunt van onze route, het Academiegebouw, bent aangekomen. Ga daar de Nonnenbrug over en loop rechtdoor de Kloksteeg in. Zo kom je bij de laatste locatie: de Pieterskerk.
-{enter=flyto:XXXX,17}
+{enter=flyto:Q1537972,17}
 
 ### Locatie 13: Pieterskerk, Kloksteeg 16
 
