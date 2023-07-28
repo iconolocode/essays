@@ -13,7 +13,7 @@
 
 # Route
 
-De rondleiding door Leiden is 4,1 kilometer lang en begint bij het Academiegebouw aan het Rapenburg. De rondleiding zal je langs dertien plekken leiden die in de middeleeuwen te maken hadden met boekproductie en -verspreiding in Leiden. Een plattegrond van de route is op de afbeelding hieronder te zien (afbeelding 1). De route is ook terug te vinden en te gebruiken via Google Maps: https://goo.gl/maps/ZTwSG6Jpr1ru1QuRA. In dit document staan ook routeaanwijzingen, dus het is ook mogelijk om dit document te printen en zonder Google Maps op pad te gaan.
+De rondleiding door Leiden is 4,1 kilometer lang en begint bij het Academiegebouw aan het Rapenburg. De rondleiding zal je langs dertien plekken leiden die in de middeleeuwen te maken hadden met boekproductie en -verspreiding in Leiden. Een plattegrond van de route is op de afbeelding hieronder te zien (afbeelding 1). De route is ook terug te vinden en te gebruiken via Google Maps: [https://goo.gl/maps/ZTwSG6Jpr1ru1QuRA](https://goo.gl/maps/ZTwSG6Jpr1ru1QuRA). In dit document staan ook routeaanwijzingen, dus het is ook mogelijk om dit document te printen en zonder Google Maps op pad te gaan.
 
 .ve-iframe https://www.google.com/maps/embed?pb=!1m84!1m8!1m3!1d9790.813309753294!2d4.4819609!3d52.1579048!3m2!1i1024!2i768!4f13.1!4m73!3e2!4m3!3m2!1d52.1569842!2d4.485676799999999!4m3!3m2!1d52.157117799999995!2d4.4849177!4m5!1s0x47c5c6f3bcecf72d%3A0xc60539fa09f1a0db!2sSint%20Annahof%20Of%20Joostenpoort!3m2!1d52.155436699999996!2d4.4851662!4m5!1s0x47c5c6f366949b73%3A0xf2e2a0e631f8896e!2sErfgoed%20Leiden%20en%20omstreken!3m2!1d52.154296599999995!2d4.4873299!4m5!1s0x47c5c68ce0e72bc7%3A0x6027bb878ae253b7!2sSteenschuur%2019%2C%202311%20ES%20Leiden!3m2!1d52.1560339!2d4.4913864!4m5!1s0x47c5c68db65188df%3A0x9a7675af61a2dbbb!2sTerpen%20Tijn%204art!3m2!1d52.156701899999995!2d4.494413199999999!4m5!1s0x47c5c68d31b3ef9f%3A0x7eb694b31d0ed24d!2sKetelboetersteeg%2027%2C%202311%20TN%20Leiden!3m2!1d52.1571569!2d4.4903445!4m5!1s0x47c5c6f2a77da737%3A0xb1d279fe13a8f8cb!2sBoekhandel%20De%20Slegte%20Leiden!3m2!1d52.1590676!2d4.4890022!4m5!1s0x47c5c6ec5ec8e867%3A0xb64d67c1c6e77359!2sMuseum%20De%20Lakenhal!3m2!1d52.162897799999996!2d4.4875112999999995!4m5!1s0x47c5c6ec3be88d75%3A0x556ff3d5011af946!2sBeestenmarkt%2C%202312%20CH%20Leiden!3m2!1d52.1628213!2d4.4851369!4m5!1s0x47c5c6ee5c3fffff%3A0x8efee914cf4bebe!2sMolen%20De%20Put!3m2!1d52.1613282!2d4.4819311!4m5!1s0x47c5c6f1a2e77ed1%3A0xa6094185eb1dc2e4!2sUniversiteitsbibliotheek%20Leiden!3m2!1d52.157305!2d4.481427!4m3!3m2!1d52.1573304!2d4.4869768!5e0!3m2!1sen!2snl!4v1685538955993!5m2!1sen!2snl full height=600px width=90%
 
@@ -22,7 +22,12 @@ De rondleiding door Leiden is 4,1 kilometer lang en begint bij het Academiegebou
 *Door Boudewijn van Kaam*
 #
 .ve-map Q43631 14 right sticky
-    - 52.155244, 4.485286
+    - Q2515805
+    - Q2468128
+    - coords="52.155244, 4.485286"
+    - Q15874971
+    - Q2946957
+    - Q2098586
     - allmaps=4f925913636c0527 layer="Dou Map"
 
 In de middeleeuwen zag Leiden er drastisch anders uit dan nu: de stad was kleiner, op een andere manier opgebouwd en er heerste een andere cultuur. Wie tegenwoordig in Leiden komt denkt bij de stad al snel aan een paar dingen: het ontzet van Leiden in 1574, de aanwezigheid van de Universiteit van Leiden, de geboortestad van Rembrandt van Rijn of mogelijk musea zoals het Rijksmuseum van Oudheden. In de middeleeuwen was dit er allemaal nog niet. In deze rondleiding van middeleeuws Leiden wordt er een link gelegd tussen de huidige plaatsen en gebouwen in Leiden en gebouwen uit de middeleeuwen. Hiermee hopen we je een ander beeld van Leiden te geven zodat je kan zien hoe Leiden in de loop der tijd is veranderd.
@@ -62,7 +67,7 @@ Loop het grote hek naast de oude kloosterkapel door en ga tussen de twee gebouwe
 ###
 
 Sla bij het houten hek van de botanische tuin linksaf en volg de weg langs het P.J. Vethgebouw mee naar links. Je loopt onder het gebouw door en komt daarna op de 5e Binnenwestgracht langs het water uit. Sla na ongeveer 150 meter linksaf de Zegersteeg in. De locatie bevindt zich op nummer 14.
-{enter=flyto:52.155244, 4.485286,17}
+{enter=flyto:coords="52.155244, 4.485286",17}
 
 ### Locatie 3: Sint Annahofje, Zegersteeg 14
 
