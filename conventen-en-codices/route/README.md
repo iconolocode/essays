@@ -24,9 +24,8 @@ De rondleiding door Leiden is 4,1 kilometer lang en begint bij het Academiegebou
 .ve-map Q43631 14 right sticky marker=False
     - Q2515805
     - Q2468128
-    - coords="52.155244, 4.485286", label="Sint Annahofje"
-    - Q18952718 disabled=True
-    - coords="52.15436865100243, 4.487372719593945", label="Erfgoed Leiden en omstreken"
+    - Q18952718
+    - Q7475384
     - Q2520298
     - Q17338250
     - Q2946957
@@ -82,7 +81,7 @@ We bevinden ons nu in het Sint Annahofje. Dit hofje is in 1503 gesticht en was d
 ###
 
 Loop verder door de Zegersteeg en sla aan het einde, bij de Kaiserstraat, rechtsaf. Ga vóór de gracht naar links, de Boisotkade op, en volg deze tot nummer 2A.
-{enter=flyto:Q18952718,17}
+{enter=flyto:Q7475384,17}
 
 ### Locatie 4: Erfgoed Leiden en Omstreken, Boisotkade 2A
 
