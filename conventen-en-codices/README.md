@@ -52,7 +52,7 @@
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Lessenaar_thumbnail-CC0.jpg)
 
 #### Boeken in kunst {href=/conventen-en-codices/boeken-kunst}
-![](https://iiif.juncture-digital.org/thumbnail/wc:)
+![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Zilveren_munt--CC0.jpg)
 
 #### Perkament {href=/conventen-en-codices/perkament}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Mendel_I_034_v.jpg)
