@@ -5,8 +5,8 @@
 
 Niet alle boeken die in de middeleeuwen geproduceerd zijn, bestonden echt. Er zijn ook ‘nepboeken’, die alleen als afbeelding in de kunst bestaan. Door middel van deze kunst kunnen we indirect een beeld krijgen van de productie en het gebruik van boeken in Leiden.
 
-.ve-media gh:iconolocode/media/Zegelstempel_van_het_klooster_Lopsen--CC0.jpg full width=40%
-.ve-media gh:iconolocode/media/Zilveren_munt--CC0.jpg full width=60%
+.ve-media gh:iconolocode/media/Zegelstempel_van_het_klooster_Lopsen--CC0.jpg left width=40% fit=cover
+.ve-media gh:iconolocode/media/Zilveren_munt--CC0.jpg right width=60% fit=cover
 
 Een voorbeeld van een boek dat verbeeld wordt op een object is te vinden op het zegelstempel van klooster Lopsen. Kloosters in Leiden gebruikten perkament en papier niet alleen voor het produceren van boeken, maar ook voor hun correspondentie. Op deze stempel van klooster Lopsen staat een plaatje van de heilige Hiëronymus met een boek in zijn hand. Een zegel of blason is net als een logo; hiermee wordt getoond dat boeken een centrale rol spelen in klooster Lopsen.
 
@@ -14,8 +14,8 @@ Een vergelijkbare afbeelding is te vinden op een munt uit de zestiende eeuw die 
 
 Boeken werden ook wel eens afgebeeld in de beeldhouwkunst. Zo ook bij dit kleine vrouwelijke beeldje van eikenhout uit de vijftiende eeuw. Het is niet meer te achterhalen welke heilige hier precies afgebeeld is.
 
-.ve-media gh:iconolocode/media/Beeld_voorstelle_de_vrouwelijke_heilige_met_boek_in_de_hand--CC0.jpg full width=40%
-.ve-media gh:iconolocode/media/Beeld_uit_De_Leidse_Vierschaar_De_Griffier--CC0.jpg full width=60%
+.ve-media gh:iconolocode/media/Beeld_voorstelle_de_vrouwelijke_heilige_met_boek_in_de_hand--CC0.jpg left width=40% fit=cover
+.ve-media gh:iconolocode/media/Beeld_uit_De_Leidse_Vierschaar_De_Griffier--CC0.jpg right width=60% fit=cover
 
 Ook bij dit beeldje dat afgebeeld is in een rechtszaal is een boek te vinden. Deze keer is het dus niet in een religieuze context. Pieter Xavery heeft tijdens zijn studie in Leiden een serie van beeldjes uit terracotta vervaardigd. Samen vormen ze een rechtspraak. Dit beeldje uit 1673, de Griffier, laat een gerechtsschrijver zien die werkt aan een tafeltje met een lessenaar en een stapel wetboeken erop.
 
