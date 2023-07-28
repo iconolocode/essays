@@ -81,7 +81,7 @@ We bevinden ons nu in het Sint Annahofje. Dit hofje is in 1503 gesticht en was d
 ###
 
 Loop verder door de Zegersteeg en sla aan het einde, bij de Kaiserstraat, rechtsaf. Ga vóór de gracht naar links, de Boisotkade op, en volg deze tot nummer 2A.
-{enter=flyto:Q15874971,17}
+{enter=flyto:Q18952718,17}
 
 ### Locatie 4: Erfgoed Leiden en Omstreken, Boisotkade 2A
 
