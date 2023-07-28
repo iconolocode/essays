@@ -24,7 +24,7 @@ De rondleiding door Leiden is 4,1 kilometer lang en begint bij het Academiegebou
 .ve-map Q43631 14 right sticky
     - Q2515805
     - Q2468128
-    - coords="52.155244,4.485286", label="Sint Annahofje"
+    - Q2282688
     - Q15874971
     - Q2520298
     - Q17338250
@@ -69,7 +69,7 @@ Loop het grote hek naast de oude kloosterkapel door en ga tussen de twee gebouwe
 ###
 
 Sla bij het houten hek van de botanische tuin linksaf en volg de weg langs het P.J. Vethgebouw mee naar links. Je loopt onder het gebouw door en komt daarna op de 5e Binnenwestgracht langs het water uit. Sla na ongeveer 150 meter linksaf de Zegersteeg in. De locatie bevindt zich op nummer 14.
-{enter=flyto:coords="2.155244,4.485286",17}
+{enter=flyto:Q2282688}
 
 ### Locatie 3: Sint Annahofje, Zegersteeg 14
 
