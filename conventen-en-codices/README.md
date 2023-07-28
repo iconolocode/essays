@@ -1,10 +1,8 @@
 .ve-header "Conventen en Codices" logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Font_Awesome_5_solid_home_white.svg/270px-Font_Awesome_5_solid_home_white.svg.png url=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices wc:Dou_1614_map_of_Leiden.jpg "Een literaire loop door Leiden" position=top sticky search-domain=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices 
     - [Index](/conventen-en-codices/)
     - [Route](/conventen-en-codices/route)
-    - [Sint Maria Magdalenaklooster](/conventen-en-codices/maria-magdalenaklooster)
-    - [Sint-Catharinaklooster](/conventen-en-codices/catharinaklooster)
-    - [Klooster Lopsen](/conventen-en-codices/klooster-lopsen)
-    - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
+    - [Glossarium](/conventen-en-codices/glossarium)
+    - [Over ons](/conventen-en-codices/over-ons)
 
 ### {.cards}
 
