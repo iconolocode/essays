@@ -12,7 +12,7 @@
 *Door Annelise Marck*
 <br><br>
 
-Hier aan het ==Rapenburg=={Q2597656} stond vroeger het vrouwenklooster van Sint Maria Magdalena. Dit klooster werd gesticht rond 1447 en bood onderdak aan volgers van de Orde van Dominicus en de Tweede Orde van Augustinus. Deze zusters werden ook wel de ‘Witte Nonnen’ genoemd, omdat ze witte kleding droegen. De meeste zusters waren niet van adel en het klooster was dan ook eerder arm dan rijk. Dat betekende waarschijnlijk ook dat sommige van hen niet konden lezen en schrijven, zeker niet in het Latijn, dat destijds de meest gebruikte taal voor boeken was. 
+Hier aan het ==Rapenburg=={Q2597656} stond vroeger het vrouwenklooster van ==Sint Maria Magdalena=={description="Een van de belangrijkste vrouwen uit het Nieuwe Testament. Volgeling van Jezus, die door de eeuwen heen een grote rol heeft gespeeld in de kerkgeschiedenis."}. Dit klooster werd gesticht rond 1447 en bood onderdak aan volgers van de ==Orde van Dominicus=={description="Een katholieke religieuze orde, die gerekend werd tot de zogeheten bedelordes. De orde werd gesticht door de Spaanse priester Domingo de Guzmán Garcés. Het doel van de orde was het bestrijden van ketterijen door middel van prediken. "} en de [Tweede Orde van Augustinus](). Deze zusters werden ook wel de ‘Witte Nonnen’ genoemd, omdat ze witte kleding droegen. De meeste zusters waren niet van adel en het klooster was dan ook eerder arm dan rijk. Dat betekende waarschijnlijk ook dat sommige van hen niet konden lezen en schrijven, zeker niet in het Latijn, dat destijds de meest gebruikte taal voor boeken was. 
 
 .ve-media wc:Leiden_-_Academiegebouw_met_op_de_voorgrond_Nonnenbrug.jpg right
 
