@@ -1,3 +1,10 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Cardo&family=Caudex&family=Marck+Script&display=swap');
+    #juncture a:link { color: brown; text-decoration: underline; }
+    #juncture h1 {font-family: 'Caudex'}
+    #juncture h2 {font-family: 'Caudex'}
+</style>
 .ve-header "Conventen en Codices" logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Font_Awesome_5_solid_home_white.svg/270px-Font_Awesome_5_solid_home_white.svg.png url=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices wc:Dou_1614_map_of_Leiden.jpg "Een literaire loop door Leiden" position=top sticky search-domain=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices 
     - [Index](/conventen-en-codices/)
     - [Route](/conventen-en-codices/route)
