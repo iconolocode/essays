@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Cardo&family=Caudex&family=Marck+Script&display=swap');
-    #juncture a:link { color: darkgoldenrod; text-decoration: underline; text-underline-offset: 5px; }
+    #juncture a:link { color: darkgoldenrod; text-decoration: underline; }
     #juncture h1 {font-family: 'Caudex'}
     #juncture h2 {font-family: 'Caudex'}
     #juncture h3 {font-family: 'Caudex'}
