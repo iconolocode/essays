@@ -16,6 +16,12 @@
     - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
 
 # Glossarium *Verklarende woordenlijst*
+.ve-meta title="Glossarium Verklarende woordenlijst" description="Betekenis van brevier, codex, colophon, diets, folio, getijdenboek, initiaal, lombarde, folio, kannunik, kapttel, verluchting"
+
+### {.right .sticky .clear}
+
+.ve-entities
+###
 
 #### Beda Venerabilis 
 
