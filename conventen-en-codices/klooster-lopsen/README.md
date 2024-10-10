@@ -38,6 +38,7 @@ Het genre van boeken dat in Lopsen met name vervaardigd werd, was het genre boek
 In het klooster Lopsen werden ook boeken verlucht, maar hier hadden de kloosterlingen geen eigen stijl voor. De gebruikte methode van verluchting is vergelijkbaar met de verluchting van andere kloosters in Leiden, wat erop duidt dat de verluchters van verschillende kloosters in Leiden contact met elkaar hadden over de manier van verluchting. Opvallend is wel dat veel van de werken van Lopsen geen illustraties bevatten, maar enkel randversieringen hebben.
 
 .ve-media gh:iconolocode/media/Contuale_van_het_klooster_Lopsen_of_St._Hiëronymusdal--UND.jpg full height=600px width=90%
+e bladeren via: <https://www.erfgoedleiden.nl/collecties/bibliotheek/zoeken-in-bibliotheek/detail/d3f03706-8741-11e3-8d9a-5f03cfadb7b4/media/c95a47d7-ead1-3cd6-e975-b82c95cd586c>
 
 ## De catalogus van klooster Lopsen
 *Door Boudewijn van Kaam*
@@ -48,7 +49,7 @@ In het gebouw van Erfgoed Leiden en Omstreken worden allerlei historische docume
 Van veel boeken is niet bekend hoe ze gebonden zijn en van welk materiaal ze gemaakt zijn. De reden hiervoor is dat veel boeken verloren zijn gegaan, of dat het boek sindsdien opnieuw gebonden is. Wel wordt er bij sommige boeken geschreven over het materiaal, zo is er bekend dat er in Lopsen twee evangeliën geproduceerd zijn, waarvan er één van [papier](https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices/papier) was en waarvan de andere een luxe editie was. 
 
 .ve-media gh:iconolocode/media/Catalogus_van_de_bibliotheek_van_Lopsen_voor_1497__208A_NL-LdnRAL_AR_503_208A_001--UND.jpg full height=600px width=90%
-Te bladeren via: <https://www.erfgoedleiden.nl/collecties/bibliotheek/zoeken-in-bibliotheek/detail/d3f03706-8741-11e3-8d9a-5f03cfadb7b4/media/c95a47d7-ead1-3cd6-e975-b82c95cd586c>
+
 
 ## Bronnen:
 
