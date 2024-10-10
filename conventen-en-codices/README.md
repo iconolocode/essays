@@ -61,7 +61,7 @@ Zo komt u langs plekken waar vroeger boekproductie plaatsvond en waar boeken ver
 ##
 ---
 
-### Ondersteunende kennis {.cards}
+### Ondersteunende onderwerpen {.cards}
 
 #### Orde van Augustinus {href=/conventen-en-codices/orde-augustinus}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Nuremberg_chronicles_-_Augustine_%28CXXXVIr%29.jpg)
