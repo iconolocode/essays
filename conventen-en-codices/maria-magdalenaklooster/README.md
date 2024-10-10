@@ -15,6 +15,7 @@
     - [Klooster Lopsen](/conventen-en-codices/klooster-lopsen)
     - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
 
+.ve-meta title="Sint Maria Magdalenaklooster, de Witte Nonnen en boekproductie"
 # Sint Maria Magdalenaklooster
 
 ## De Witte Nonnen: algemene informatie
