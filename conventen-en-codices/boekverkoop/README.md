@@ -15,6 +15,7 @@
     - [Klooster Lopsen](/conventen-en-codices/klooster-lopsen)
     - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
     
+.ve-meta title="De boekverkoper in de middeleeuwen"
 # De boekverkoper in de middeleeuwen 
 *Door Ghislaine Bros*
 
