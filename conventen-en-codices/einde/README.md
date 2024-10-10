@@ -54,3 +54,9 @@ Obreen, H.G.A., ‘Bijdragen tot de geschiedenis van het Witte-Nonnen-klooster d
 Tettero, M., ‘Engelendaal’, *Marcel Tettero*, onbekende publicatiedatum,
 <http://www.marceltettero.nl/home/Leiderdorp.html> (16 mei 2023).
 
+**Afbeeldingen**:
+
+Het Beleg van Leiden. Bron: Anoniem, ‘Uitval op de Boshuyser Schans, eerste helft 17de eeuw’, *Museum de Lakenhal*, S 172, <https://www.lakenhal.nl/nl/collectie/s-172> (26 mei 2023).
+
+De Beeldenstorm. Bron: Luyken, J., ‘De Beeldestormery in den Jaare 1568 in Vlaenderen en Braband begonnen en in wynig Tyds door gans Nederland verspreit’, *Rijksmuseum*, RP-P-1896-A-19368-50, <https://www.rijksmuseum.nl/nl/mijn/verzamelingen/1894224--rosemaryn-komen/beeldenstorm-1566/objecten#/RP-P-1896-A-19368-50,16 (26 mei 2023).
+
