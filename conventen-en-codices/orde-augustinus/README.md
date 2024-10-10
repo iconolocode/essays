@@ -43,4 +43,4 @@ Driessen, G.L., ‘De Leidse Hofjes’, in *Leids jaarboekje 1948*, red. E. Peni
 
 Wylin, W., ‘De Geschiedenis En Huidige Structuur van de Orde Der Augustijnen’, 		*Tenbunderen.be*, 2014, <https://www.tenbunderen.be/geschiedenis.html> (28 april 		2023).
 
-**Afbeelding**: Sint Augustinus in de Kroniek van Neurenberg. Bron: ‘Saint Augustine in the Nuremberg Chronicle’, Wikimedia Commons, <https://commons.wikimedia.org/wiki/File:Nuremberg_chronicles_-_Augustine_(CXXXVIr).jpg> (23 mei 2023). 
+**Afbeelding**: Sint Augustinus in de Kroniek van Neurenberg. Bron: ‘Saint Augustine in the Nuremberg Chronicle’, *Wikimedia Commons*, <https://commons.wikimedia.org/wiki/File:Nuremberg_chronicles_-_Augustine_(CXXXVIr).jpg> (23 mei 2023). 
