@@ -30,3 +30,5 @@ De uitvinding van ==Gutenbergs=={description="Duitse uitvinder en ambachtsman, d
 
 Thomas, J.D. ‘The Book Trade in the Middle Ages’, *Accessible Archives*, 3 maart 2014. 
 <https://www.accessible-archives.com/2014/03/book-trade-middle-ages/> (25 mei 2023).
+
+**Afbeelding**: Boekhandel circa 1628. Bron: Bray, D. de & Bray, S. de, ‘Mensen En Twee Honden in Een Boekenwinkel’, Rijksmuseum, RP-T-1884-A-290, 1628, <http://hdl.handle.net/10934/RM0001.COLLECT.29795> (25 mei 2023).
