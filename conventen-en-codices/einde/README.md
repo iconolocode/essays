@@ -15,6 +15,7 @@
     - [Klooster Lopsen](/conventen-en-codices/klooster-lopsen)
     - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
 
+.ve-meta title="Het einde van een tijdperk: de ondergang van de kloosters"
 # Het einde van een tijdperk: de ondergang van de kloosters 
 *Door Ghislaine Bros, Boudewijn van Kaam, Annelise Marck en Anneruth van Oostveen. Samengevoegd door Ghislaine Bros.*
 <br><br>
