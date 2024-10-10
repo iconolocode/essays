@@ -47,7 +47,7 @@ De tekst, die in het [Latijn](https://www.juncture-digital.org/iconolocode/essay
     
 Hoewel Engelendaal ook boeken voor verkoop produceerde, was *Brevier (Zomerdeel)* bestemd voor gebruik in het klooster. Het boek wisselde echter al snel van hand, waardoor deze uiteindelijk aan de Universiteitsbibliotheek van Lund werd gedoneerd.
 
-Te bladeren via: <https://www.alvin-portal.org/alvin/imageViewer.jsf?dswid=4514> of via: https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A14542
+*Te bladeren via: <https://www.alvin-portal.org/alvin/imageViewer.jsf?dswid=4514> of via: https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record%3A14542*
 
 
 ## Bronnen:
