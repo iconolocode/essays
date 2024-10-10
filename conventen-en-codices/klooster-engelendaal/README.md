@@ -21,7 +21,7 @@
 *Door Ghislaine Bros*
 <br><br>
 
-.ve-media gh:https://github.com/iconolocode/media/blob/main/klooster_Engelendaal--UND.jpg right
+.ve-media gh:iconolocode/media/blob/main/klooster_Engelendaal--UND.jpg right
 
 Voor je bevindt zich de Universiteitsbibliotheek van Leiden waar talloze boeken worden bewaard, waarvan sommige al meerdere eeuwen oud zijn. Je rug staat momenteel gekeerd naar de locatie van het volgende [klooster](https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices/kloosters-middeleeuwen). Als je in de oostelijke richting een ietwat rechte lijn zou lopen, zou je uiteindelijk aankomen op de plek waar tegenwoordig Verpleeghuis Leythenrode staat, aan de Hoogmadeseweg in Leiderdorp. Honderden jaren geleden, in de middeleeuwen, stond hier een klooster dat behoorde tot de Reguliere ==Kanunniken==(description="Geestelijke die onderdeel uitmaakt van een kapittel of van een groep geestelijken, die leven volgens de regels van een bepaalde kloosterorde.") van ==Sint Augustinus=={description="Kerkvader, theoloog en bisschop van Hippo (Noord-Afrika) die leefde van 354 tot 430. Hij schreef veel invloedrijke werken. Hij is ook wel bekend van de ‘Regel van Augustinus’."}. De eerste naamsvermelding van het klooster stamt uit 1396 toen het werd omgebouwd van een eenvoudig huis tot een groot kloostercomplex. Vanaf 1401 behoorde het klooster tot het ==Kapittel=={description="Het bestuurscollege van een klooster. Zo genoemd vanwege het hoofdstuk (kapittel) uit de leefregels van het klooster dat vaak tijdens vergaderingen werd voorgedragen."} van Windesheim en werd de naam veranderd van Sint Maria naar Engelendaal.
 
@@ -35,7 +35,7 @@ Engelendaal stond bekend als een centrum voor boekproductie. Boeken werden hier 
 
 In het klooster Engelendaal werden dus boeken geproduceerd. Een van de boeken die hiervan nog bewaard gebleven zijn, is *==Brevier=={description="Een liturgisch boek dat in het christendom gebruikt werd door geestelijken. Het bevat gebeden die op vaste tijden gedurende de dag gebeden dienden te worden. "} (Zomerdeel)*. Dit boek, dat ook wel Breviarium Leydesdorpense wordt genoemd, werd in de tweede helft van de vijftiende eeuw geschreven en verlucht door een van de bewoners van het klooster, Arnoldus Dilphi de Leidis.
 
-.ve-media gh:https://github.com/iconolocode/media/blob/main/Breviary_summer_part_Folio_f_1r_0015.--NoC.jpeg right
+.ve-media gh:iconolocode/media/blob/main/Breviary_summer_part_Folio_f_1r_0015.--NoC.jpeg right
 
 Het boek is gebonden aan een stevige band van kalfsleer die vroeger dicht gehouden werd door middel van twee metalen haaksluitingen. De band zelf is versierd met een paneelstempel waarop Maria en Jezus te zien zijn. Zij worden omringd door lijnen en bloemen die ook door middel van een stempel zijn aangebracht.
     
