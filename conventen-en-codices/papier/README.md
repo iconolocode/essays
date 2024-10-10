@@ -31,3 +31,5 @@ Er is weinig bekend over de papierproductie en -handel in Nederland in de middel
 ‘Het eerste papier “made in France”’, *NL - Troyes La Champagne Tourisme*, <https://nl.troyeslachampagne.com/ontdek/made-in-troyes/de-stad-van-de-roman/het-eerste-papier-made-in-france/> (4 mei 2023).
 
 Thienen, G. van, ‘Papier’, *Bibliopolis*, <https://www.bibliopolis.nl/handboek/search/recordIdentifier/HBB%3A1.1.3/maximumRecords/1/termenkaart/gepolijst> (4 mei 2023).
+
+**Afbeelding**: Het zeven van de pulp in een met water aangedreven papiermolen. Bron: ‘Der Papyrer’, *Wikimedia Commons*, <https://commons.wikimedia.org/wiki/File:Paper_production.jpg> (25 mei 2023).
