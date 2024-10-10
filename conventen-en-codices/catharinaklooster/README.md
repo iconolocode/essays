@@ -15,6 +15,7 @@
     - [Klooster Lopsen](/conventen-en-codices/klooster-lopsen)
     - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
     
+.ve-meta title="Sint-Catharinaklooster aan het Rapenburg en Boekproductie"
 # Catharinaklooster
 
 ## Sint-Catharinaklooster aan het Rapenburg: algemene informatie
