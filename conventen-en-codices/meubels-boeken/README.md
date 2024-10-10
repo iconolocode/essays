@@ -78,3 +78,12 @@ Gent, J. van., *Bartholomeus van der Helst (ca. 1613-1670): een studie naar zijn
 ‘Portret van Petrus Scriverius, 1651’, *Museum de Lakenhal*, S 1445, <https://www.lakenhal.nl/nl/collectie/s-1445> (26 mei 2023).
 
 ‘Schrijfkast met schrijfklep en eronder twee deuren, eerste helft 17de eeuw’, *Museum de Lakenhal*, 4123, <https://www.lakenhal.nl/nl/collectie/4123> (26 mei 2023).
+
+**Afbeeldingen**
+
+Lessenaar op onderstel met groen laken op de klep. Bron: *Museum de Lakenhal*, ca. 1665. <https://www.lakenhal.nl/nl/collectie/2666> (26 mei 2023).
+
+Heilige Hiëronymus achter een lessenaar. Bron: Wolgemut, M., *Rijksmuseum, RP-P-2015-26-837*, 1494. <http://hdl.handle.net/10934/RM0001.COLLECT.608697> (26 mei 2023).
+
+Portret van Petrus Scriverius. Bron: Helst, B. van der, *Museum de Lakenhal, S 1445*, 1651.
+<https://www.lakenhal.nl/nl/collectie/s-1445> (26 mei 2023).
