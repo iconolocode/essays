@@ -60,3 +60,5 @@ Leiden, Universitaire Bibliotheken Leiden (UBL), LTK 336, digitaal te raadplegen
 Obreen, H.G.A., ‘Bijdragen tot de geschiedenis van het Witte-Nonnen-klooster der orde van 	St. Dominicus’, in *Leidsch Jaarboekje, *red. J.E. Heeres et al. (Leiden: A.W. Sijthoff, 	1905), pp. 1-13.
 
 Visit Leiden, ‘Academiegebouw’, <https://www.visitleiden.nl/nl/locaties/4116710871/academiegebouw> (28 april 		2023).
+
+**Afbeelding**: Tekening van het Sint-Catharinaklooster. Bron: Oerle, H.A. van, Leiden binnen en buiten de stadsvesten: *de geschiedenis van de stedebouwkundige ontwikkeling binnen het Leidse rechtsgebied tot aan het einde van de Gouden Eeuw* (Leiden: E.J. Brill, 1975) deel I, p. 203 afb. 201.
