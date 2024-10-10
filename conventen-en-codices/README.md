@@ -27,7 +27,7 @@
 #### Glossarium {href=/conventen-en-codices/glossarium}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Glossary_from_%27Poems%27_by_David_Sillar_1789.jpg)
 
-#### Over ons {href=/conventen-en-codices/glossarium}
+#### Over dit project {href=/conventen-en-codices/over-ons}
 ![]()
 
 ##
