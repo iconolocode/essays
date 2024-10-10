@@ -1,3 +1,19 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Cardo&family=Caudex&family=Marck+Script&display=swap');
+    #juncture ve-header {font-family: 'Caudex'}
+    #juncture h1 {font-family: 'Caudex'}
+    #juncture h2 {font-family: 'Caudex'}
+    #juncture h3 {font-family: 'Caudex'}
+</style>
+.ve-header "Conventen en Codices" logo=https://upload.wikimedia.org/wikipedia/commons/5/50/Home_icon_brown.png url=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices wc:Dou_1614_map_of_Leiden.jpg "Een literaire loop door Leiden" position=top sticky search-domain=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices 
+    - [Index](/conventen-en-codices/)
+    - [Route](/conventen-en-codices/route)
+    - [Sint Maria Magdalenaklooster](/conventen-en-codices/maria-magdalenaklooster)
+    - [Sint-Catharinaklooster](/conventen-en-codices/catharinaklooster)
+    - [Klooster Lopsen](/conventen-en-codices/klooster-lopsen)
+    - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
+
 # Middelnederlands en Latijn in kloosterteksten
 *Door Annelise Marck*
 <br><br>
