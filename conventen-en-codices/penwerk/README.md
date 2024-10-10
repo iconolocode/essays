@@ -36,3 +36,9 @@ Het penwerk van middeleeuwse manuscripten is een ontzettend interessant onderwer
 Korteweg, A.S., ‘Zuid-Holland’ in *Kriezels, Aubergines en Takkenbossen: Randversiering in 	Noordnederlandse Handschriften Uit De Vijftiende Eeuw*, red. A.S. Korteweg en J. 	Gerritsen (Zutphen: Walburg Pers, 1992), pp. 68-83.
 
 ‘Penwerk’, in *Algemeen Letterkundig Lexicon, DBNL*,				<https://www.dbnl.org/tekst/dela012alge01_01/dela012alge01_01_01541.php> (14 mei 2023).
+
+**Afbeeldingen:**
+
+Radijsjes. Bron: Korteweg, A.S., ‘Zuid-Holland’ in *Kriezels, Aubergines en Takkenbossen: Randversiering in Noordnederlandse Handschriften Uit De Vijftiende Eeuw*, red. A.S. Korteweg en J. Gerritsen (Zutphen: Walburg Pers, 1992), p. 68.
+
+Aubergines met kleine radijsjes. Bron: Korteweg, A.S., ‘Zuid-Holland’ in *Kriezels, Aubergines en Takkenbossen: Randversiering in Noordnederlandse Handschriften Uit De Vijftiende Eeuw*, red. A.S. Korteweg en J. Gerritsen (Zutphen: Walburg Pers, 1992), p. 69. 
