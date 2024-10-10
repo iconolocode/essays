@@ -15,6 +15,7 @@
     - [Klooster Lopsen](/conventen-en-codices/klooster-lopsen)
     - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
 
+.ve-meta title="Meubels voor boeken" description="lessenaar, boekstand, secretaire"
 # Meubels voor boeken
 *Door Sophie Granger*
 <br><br>
