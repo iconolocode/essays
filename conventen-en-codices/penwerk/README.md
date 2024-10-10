@@ -15,7 +15,7 @@
     - [Klooster Lopsen](/conventen-en-codices/klooster-lopsen)
     - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
 
-.ve-meta title="penwerk" description="In de middeleeuwen bestonden er verschillende vormen van verluchting, het versieren van het boek met als doel de waarde van het boek te verhogen. Het wordt ook wel ‘verlichten’ of ‘illumineren’ genoemd vanwege het gebruik van bladgoud en andere schitterende kleuren. De simpelste vorm van verluchting was het veranderen van de inktkleur van het standaard zwart naar rood of zelfs groen of blauw. Een andere vorm van verluchting was het toevoegen van natuurlijke motieven of afbeeldingen aan de tekst. Deze gestileerde afbeeldingen werden vaak toegevoegd aan een initiaal of lombarde."
+.ve-meta title="Penwerk" description="In de middeleeuwen bestonden er verschillende vormen van verluchting, het versieren van het boek met als doel de waarde van het boek te verhogen. Het wordt ook wel ‘verlichten’ of ‘illumineren’ genoemd vanwege het gebruik van bladgoud en andere schitterende kleuren. De simpelste vorm van verluchting was het veranderen van de inktkleur van het standaard zwart naar rood of zelfs groen of blauw. Een andere vorm van verluchting was het toevoegen van natuurlijke motieven of afbeeldingen aan de tekst. Deze gestileerde afbeeldingen werden vaak toegevoegd aan een initiaal of lombarde."
 # Leids penwerk
 *Door Felix Fischer*
 <br><br>
