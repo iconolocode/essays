@@ -18,13 +18,12 @@
 # Over dit project
 
 Eindopdracht (rondleiding)
-Vak: Boekwetenschap in de Praktijk 5620MBBWP
+Vak: Boekwetenschap in de Praktijk
 Info: https://studiegids.universiteitleiden.nl/courses/111844/boekwetenschap-in-de-praktijk
 Academisch jaar: 2022-2023, semester II
 Minor: Boek, boekhandel en uitgeverij
 Programma: Universiteit Leiden
 Docent: Dr. I. O’Daly
-
 
 ## Team:
 
