@@ -14,7 +14,7 @@
     - [Glossarium](/conventen-en-codices/glossarium)
     - [Over ons](/conventen-en-codices/over-ons)
     
-
+.ve-meta title="Over dit project"
 # Over dit project
 
 Eindopdracht (rondleiding)
