@@ -37,3 +37,5 @@ Uytfanghe, M. van, ‘De “vadertaal” Latijn in de dertiende eeuw’,* Handel
 
 Wackers, P., ‘Latinitas en Middelnederlandse letterkunde. Ter inleiding’, in *Verraders en 		bruggenbouwers. Verkenningen naar de relatie tussen Latinitas en de 			Middelnederlandse letterkunde*, red. P. Wackers et al. (Amsterdam: Prometheus, 		1996), pp. 9-42.
 
+**Afbeelding**: Middelnederlandse tekst. Bron: LTK 336, f.30v, ‘The White Nuns of Leiden’, *Digital Manuscripts in the Classroom*, <https://digmanclass.universiteitleiden.nl/manuscripts/ltk-336/>. 
+
