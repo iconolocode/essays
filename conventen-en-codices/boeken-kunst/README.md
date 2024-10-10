@@ -15,6 +15,7 @@
     - [Klooster Lopsen](/conventen-en-codices/klooster-lopsen)
     - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
     
+.ve-meta title="Boeken verbeeld in kunst" description="Boeken in kunst zoals stanbeelden, munten en zegels,"
  # Boeken verbeeld in kunst
 *Door Sophie Granger*
 <br><br>
