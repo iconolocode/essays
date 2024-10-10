@@ -15,7 +15,7 @@
     - [Klooster Lopsen](/conventen-en-codices/klooster-lopsen)
     - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
 
-.ve-metatitle="Kloosters in de middeleeuwen" description="In deze rondleiding wordt veel informatie gedeeld over kloosters in Leiden in de middeleeuwen. Om een beter beeld te krijgen van deze kloosters is het handig om wat meer te weten over kloosters in het algemeen."
+.ve-meta title="Kloosters in de middeleeuwen" description="In deze rondleiding wordt veel informatie gedeeld over kloosters in Leiden in de middeleeuwen. Om een beter beeld te krijgen van deze kloosters is het handig om wat meer te weten over kloosters in het algemeen."
 # Kloosters in de middeleeuwen
 *Door Anneruth van Oostveen*
 <br><br>
