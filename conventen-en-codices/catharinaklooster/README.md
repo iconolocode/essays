@@ -1,3 +1,4 @@
+.ve-meta title="Sint-Catharinaklooster aan het Rapenburg en Boekproductie"
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Cardo&family=Caudex&family=Marck+Script&display=swap');
@@ -15,7 +16,6 @@
     - [Klooster Lopsen](/conventen-en-codices/klooster-lopsen)
     - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
     
-.ve-meta title="Sint-Catharinaklooster aan het Rapenburg en Boekproductie"
 # Catharinaklooster
 
 ## Sint-Catharinaklooster aan het Rapenburg: algemene informatie
