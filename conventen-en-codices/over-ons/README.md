@@ -17,7 +17,7 @@
 
 # Over dit project
 
-Opdracht: Eindproduct (rondleiding)
+Eindopdracht (rondleiding)
 Vak: Boekwetenschap in de Praktijk 5620MBBWP
 Info: https://studiegids.universiteitleiden.nl/courses/111844/boekwetenschap-in-de-praktijk
 Academisch jaar: 2022-2023, semester II
