@@ -33,13 +33,15 @@ Engelendaal stond bekend als een centrum voor boekproductie. Boeken werden hier 
 *Door Ghislaine Bros*
 <br><br>
 
-In het klooster Engelendaal werden dus boeken geproduceerd. Een van de boeken die hiervan nog bewaard gebleven zijn, is *==Brevier=={description="Een liturgisch boek dat in het christendom gebruikt werd door geestelijken. Het bevat gebeden die op vaste tijden gedurende de dag gebeden dienden te worden. "} (Zomerdeel)*. Dit boek, dat ook wel Breviarium Leydesdorpense wordt genoemd, werd in de tweede helft van de vijftiende eeuw geschreven en verlucht door een van de bewoners van het klooster, Arnoldus Dilphi de Leidis.
+.ve-media gh:iconolocode/media/Breviary_summer_part_cover_0001.--NoC.jpeg right width:60%
 
-.ve-media gh:iconolocode/media/Breviary_summer_part_Folio_f_1r_0015.--NoC.jpeg right
+In het klooster Engelendaal werden dus boeken geproduceerd. Een van de boeken die hiervan nog bewaard gebleven zijn, is *==Brevier=={description="Een liturgisch boek dat in het christendom gebruikt werd door geestelijken. Het bevat gebeden die op vaste tijden gedurende de dag gebeden dienden te worden. "} (Zomerdeel)*. Dit boek, dat ook wel Breviarium Leydesdorpense wordt genoemd, werd in de tweede helft van de vijftiende eeuw geschreven en verlucht door een van de bewoners van het klooster, Arnoldus Dilphi de Leidis.
 
 Het boek is gebonden aan een stevige band van kalfsleer die vroeger dicht gehouden werd door middel van twee metalen haaksluitingen. De band zelf is versierd met een paneelstempel waarop Maria en Jezus te zien zijn. Zij worden omringd door lijnen en bloemen die ook door middel van een stempel zijn aangebracht.
     
 Verder is het boek geschreven op zowel [perkament](https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices/perkament) als [papier](https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices/papier). Zelfs in de papieren katernen zitten verschillen, zo is er papier gebruikt zonder een watermerk, maar ook papier met een watermerk – twee verschillende soorten zelfs! Er is papier met een watermerk van een eenhoorn en er is papier met een watermerk van de letter P met een gespleten voet en een vierpas. Hieruit kunnen we afleiden dat het klooster Engelendaal hun papier bij meerdere papierproducenten haalde.
+
+.ve-media gh:iconolocode/media/Breviary_summer_part_Folio_f_1r_0015.--NoC.jpeg right width:60%
     
 De tekst, die in het [Latijn](https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices/middelnederlands-latijn) is geschreven, wordt versierd met rode [lombarden](Versimpeld initiaal. Werd vaak gebruikt aan het begin van een nieuw tekstgedeelte, zoals een nieuwe paragraaf. Was in veel gevallen minder mooi versierd dan een initiaal. ) die in grootte verschillen. Zo nu en dan verschijnt er een grotere lombarde in blauwe inkt die extra versierd is in rode inkt. Deze versieringen zijn meestal lijnen met krullen en andere franjes.
     
