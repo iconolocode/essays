@@ -16,15 +16,6 @@
     - [Klooster Lopsen](/conventen-en-codices/klooster-lopsen)
     - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
 
-.ve-header "Conventen en Codices" logo=https://upload.wikimedia.org/wikipedia/commons/5/50/Home_icon_brown.png url=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices wc:Dou_1614_map_of_Leiden.jpg "Een literaire loop door Leiden" position=top sticky search-domain=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices 
-    - [Index](/conventen-en-codices/)
-    - [Route](/conventen-en-codices/route)
-    - [Sint Maria Magdalenaklooster](/conventen-en-codices/maria-magdalenaklooster)
-    - [Sint-Catharinaklooster](/conventen-en-codices/catharinaklooster)
-    - [Klooster Lopsen](/conventen-en-codices/klooster-lopsen)
-    - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
-
-
 # Route
 
 De rondleiding door Leiden is 4,1 kilometer lang en begint bij het Academiegebouw aan het Rapenburg. De rondleiding zal je langs dertien plekken leiden die in de middeleeuwen te maken hadden met boekproductie en -verspreiding in Leiden. Een plattegrond van de route is op de afbeelding hieronder te zien (afbeelding 1). De route is ook terug te vinden en te gebruiken via Google Maps: [https://goo.gl/maps/ZTwSG6Jpr1ru1QuRA](https://goo.gl/maps/ZTwSG6Jpr1ru1QuRA). In dit document staan ook routeaanwijzingen, dus het is ook mogelijk om dit document te printen en zonder Google Maps op pad te gaan.
