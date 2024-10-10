@@ -60,4 +60,8 @@ Lund, University Library (UB), Mh 29,
 Tettero, M., ‘Engelendal’, *Marcel Tettero*, z.j.,
 <http://www.marceltettero.nl/home/Leiderdorp.html> (16 mei 2023).
 
-*Afbeelding*: Tekening van klooster Engelendaal, 1730. Bron: ‘Klooster Engelendaal’, *Canon van Nederland*, <https://www.canonvannederland.nl/nl/page/193330/klooster-engelendaal> (16 mei 2023).
+*Afbeeldingen*:
+
+Tekening van klooster Engelendaal, 1730. Bron: ‘Klooster Engelendaal’, *Canon van Nederland*, <https://www.canonvannederland.nl/nl/page/193330/klooster-engelendaal> (16 mei 2023).
+
+Lombarden in zowel rode als blauwe inkt in Brevier (Zomerdeel) op folio 1r. Bron: ‘Breviary, summer part’, Alvin, <https://www.alvin-portal.org/alvin/imageViewer.jsf?dsId=ATTACHMENT-0015&pid=alvin-record:14542> (18 mei 2023).
