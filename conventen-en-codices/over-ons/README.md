@@ -21,7 +21,7 @@ Eindopdracht (rondleiding)
 
 Vak: Boekwetenschap in de Praktijk
 
-Info: https://studiegids.universiteitleiden.nl/courses/111844/boekwetenschap-in-de-praktijk
+Info: <https://studiegids.universiteitleiden.nl/courses/111844/boekwetenschap-in-de-praktijk>
 
 Academisch jaar: 2022-2023, semester II
 
@@ -31,7 +31,7 @@ Programma: Universiteit Leiden
 
 Docent: Dr. I. O’Daly
 
-PDF: https://github.com/iconolocode/essays/blob/main/Conventen-en-Codices_Bros_Fischer_Granger_VanKaam_Marck_VanOostveen_BidP_Rondleiding.pdf
+PDF: <https://github.com/iconolocode/essays/blob/main/Conventen-en-Codices_Bros_Fischer_Granger_VanKaam_Marck_VanOostveen_BidP_Rondleiding.pdf>
 
 ## Team:
 
