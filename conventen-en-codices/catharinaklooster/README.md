@@ -38,6 +38,7 @@ De andere overgebleven tekst is een preek uit het klooster. Deze is halverwege d
 
 .ve-iframe https://uv-v4.netlify.app/uv.html#?manifest=https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00093201/manifest full height=600px width=90%
 
+
 ## Bronnen:
 
 ‘Academiegebouw (Leiden)’, *Wikipedia*, 								<https://nl.wikipedia.org/wiki/Academiegebouw_(Leiden)> (21 april 2023).
