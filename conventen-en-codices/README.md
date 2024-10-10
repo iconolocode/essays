@@ -43,13 +43,13 @@
 #### Sint Maria Magdalenaklooster en de Witte Nonnen {href=/conventen-en-codices/maria-magdalenaklooster}
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/LTK_336-CC-BY.jpg)
 
-#### Sint-Catharinaklooster {href=/conventen-en-codices/catharinaklooster}
+#### Sint-Catharinaklooster en verluchting {href=/conventen-en-codices/catharinaklooster}
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Csg_135-CC-BY-NC-SA.jpg)
 
 #### Klooster Lopsen en catalogus {href=/conventen-en-codices/klooster-lopsen}
 ![](https://images.memorix.nl/lei/thumb/fullsize/e5ac43e8-3b5e-8528-a82b-62fee58d0836.jpg)
 
-#### Klooster Engelendaal {href=/conventen-en-codices/klooster-engelendaal}
+#### Klooster Engelendaal en een brevier {href=/conventen-en-codices/klooster-engelendaal}
 ![](https://www.alvin-portal.org/alvin/attachment/record/alvin-record:14542/ATTACHMENT-0015)
 
 ##
