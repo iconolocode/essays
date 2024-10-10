@@ -24,7 +24,7 @@ Papier werd in de middeleeuwen met de hand vervaardigd van lompen textiel. Het t
 
 Wanneer de pulp klaar was, werd het mengsel met een zeef of een schepvorm geschept en werd het door middel van een wiegende beweging gelijkmatig verdeeld over de vorm. Veel papierproducenten voegden in deze stap een watermerk toe. Dit was een verhoging van de schepvorm waar uiteindelijk bij het gedroogde papier een doorschijnend figuur te zien was. Vervolgens werden de natte vezels overgebracht op een droogrek om tot papier te drogen. Bij duurder papier werd het papier hierna nog gelijmd om de kwaliteit te verbeteren. Aan het eind van dit proces werd het papier gepolijst om de ruwe vezels van het gedroogde papier glad te strijken.
 
-Er is weinig bekend over de papierproductie en -handel in Nederland in de middeleeuwen, al wordt ervan uitgegaan dat deze niet bestond tot ongeveer 1585. Daarom moest papier voor de productie van handschriften en gedrukte boeken uit het buitenland worden geïmporteerd. Het centrum voor de papierindustrie lag in die tijd in Noord-Frankrijk met als epicentrum de stad Troyes.
+Er is weinig bekend over de papierproductie en -handel in Nederland in de middeleeuwen, al wordt ervan uitgegaan dat deze niet bestond tot ongeveer 1585. Daarom moest papier voor de productie van ==handschriften=={description="Elk met de hand op flexibel materiaal geschreven boek. "} en gedrukte boeken uit het buitenland worden geïmporteerd. Het centrum voor de papierindustrie lag in die tijd in Noord-Frankrijk met als epicentrum de stad Troyes.
 
 ## Bronnen:
 
