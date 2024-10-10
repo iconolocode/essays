@@ -58,6 +58,5 @@ Leiden, Universitaire Bibliotheken Leiden (UBL), LTK 336, digitaal te raadplegen
 
 Obreen, H.G.A., ‘Bijdragen tot de geschiedenis van het Witte-Nonnen-klooster der orde van 	St. Dominicus’, in *Leidsch Jaarboekje*, red. J.E. Heeres et al. (Leiden: A.W. Sijthoff, 	1905), pp. 1-13.
 
-Visit Leiden, ‘Academiegebouw’, 									<https://www.visitleiden.nl/nl/locaties/4116710871/academiegebouw> (28 april 		2023).
-
+**Afbeelding**: Het huidige Academiegebouw, met op de voorgrond de Nonnenbrug. Bron: ‘Academiegebouw’, FrDr, 2020, *Wikimedia Commons* <https://commons.wikimedia.org/wiki/File:Leiden_-_Academiegebouw_met_op_de_voorgrond_Nonnenbrug.jpg> (28 april 2023).
 
