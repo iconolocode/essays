@@ -49,7 +49,7 @@ Zo komt u langs plekken waar vroeger boekproductie plaatsvond en waar boeken ver
 #### Sint Maria Magdalenaklooster en de Witte Nonnen {href=/conventen-en-codices/maria-magdalenaklooster}
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/LTK_336-CC-BY.jpg)
 
-#### Sint-Catharinaklooster en verluchting {href=/conventen-en-codices/catharinaklooster}
+#### Sint Catharinaklooster en verluchting {href=/conventen-en-codices/catharinaklooster}
 ![](https://iiif.juncture-digital.org/thumbnail/gh:iconolocode/media/Csg_135-CC-BY-NC-SA.jpg)
 
 #### Klooster Lopsen en catalogus {href=/conventen-en-codices/klooster-lopsen}
