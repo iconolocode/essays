@@ -15,6 +15,7 @@
     - [Klooster Lopsen](/conventen-en-codices/klooster-lopsen)
     - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
     
+ .ve-meta title="Klooster Engelendaal, boekproductie en brevier"
 # Klooster Engelendaal
 
 ## Klooster Engelendaal: Algemene informatie
