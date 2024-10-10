@@ -29,7 +29,7 @@ Bij het gebruiken van boeken hoort speciaal boekenmeubilair. Er zijn niet alleen
 
 .ve-media wc:De_verkondiging_aan_Maria_Maria_uit_een_Annunciatie-groep,_BK-16986-B.jpg height=300px left
 
-Er zijn maar weinig meubels uit de middeleeuwen overgebleven, maar vanwege illustraties weten we soms wel hoe ze eruitzagen. Zo zien we een vroeg gebruik van een lessenaar in  een Mariabeeldje uit 1485. Latere lessenaars waren vergelijkbaar in vorm, maar de stijl van versiering verschilde wel. Een aantal lessenaars is nu in Museum de Lakenhal te vinden.
+Er zijn maar weinig meubels uit de middeleeuwen [overgebleven](https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices/einde), maar vanwege illustraties weten we soms wel hoe ze eruitzagen. Zo zien we een vroeg gebruik van een lessenaar in  een Mariabeeldje uit 1485. Latere lessenaars waren vergelijkbaar in vorm, maar de stijl van versiering verschilde wel. Een aantal lessenaars is nu in Museum de Lakenhal te vinden.
 
 ---
 
@@ -49,7 +49,7 @@ Bij een eikenhouten lessenaar uit 1665 is het tafelblad bekleed met een doek, om
     - gh:iconolocode/media/Schrijfkast_(open)-CC0.jpg
 
 
-In het museum is ook een schrijfkast te vinden: de onderste helft is een normale kast met deuren, maar bij de bovenste helft kan de plank naar voren geopend worden om een tafel te vormen. Dit type kast bestond al langer, en is te zien in een houtsnede uit 1494 waar de heilige Hiëronymus een boek aan het overschrijven is. 
+In het museum is ook een schrijfkast te vinden: de onderste helft is een normale kast met deuren, maar bij de bovenste helft kan de plank naar voren geopend worden om een tafel te vormen. Dit type kast bestond al langer, en is te zien in een houtsnede uit 1494 waar de ==heilige Hiëronymus=={Kerkvader uit de vierde eeuw, het bekendst door zijn Latijnse vertaling van de Bijbel, de Vulgaat.} een boek aan het overschrijven is. 
 
 .ve-media wc:Heilige_Hieronymus_achter_een_lessenaar_Sant_Jeronimus_(titel_op_object),_RP-P-2015-26-837.jpg left height=300px
 
