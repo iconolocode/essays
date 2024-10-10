@@ -15,6 +15,7 @@
     - [Klooster Lopsen](/conventen-en-codices/klooster-lopsen)
     - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
 
+.ve-meta title="Papier" description="Papier werd in de middeleeuwen met de hand vervaardigd van lompen textiel. Het textiel werd met water vermengd tot een pulp. Voor dit proces waren papiermolens essentieel. Eerst brachten deze molens schoon water bij de lompen. Vervolgens werd de kracht van de molen gebruikt om stampers aan te drijven, die de vezels lossloegen om vervolgens tot pulp gemaakt te worden. Wanneer de pulp klaar was, werd het mengsel met een zeef of een schepvorm geschept en werd het door middel van een wiegende beweging gelijkmatig verdeeld over de vorm. Veel papierproducenten voegden in deze stap een watermerk toe."
 # Papier
 *Door Felix Fischer*
 <br><br>
