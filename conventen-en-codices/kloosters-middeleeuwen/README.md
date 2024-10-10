@@ -41,3 +41,5 @@ Doorgaans waren conventen erg arm, omdat de kloosterlingen het meestal zelf niet
 ‘Klooster (gebouw)’, *Wikipedia*, <https://nl.wikipedia.org/wiki/Klooster_(gebouw)> (13 mei 	2023). 
 
 ‘Kloostergeloften’, *Wikipedia*, <https://nl.wikipedia.org/wiki/Kloostergeloften> (13 mei 		2023).
+
+**Afbeelding**: Een typische kloosterplattegrond. Bron: ‘Barthe Klostergrundriss msu’, Matthias Süßen, 2010 *Wikipedia Commons*, <https://commons.wikimedia.org/wiki/File:Barthe_Klostergrundriss_msu.jpg> (13 mei 2023). 
