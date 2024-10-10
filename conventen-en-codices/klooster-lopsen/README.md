@@ -47,7 +47,7 @@ In het gebouw van Erfgoed Leiden en Omstreken worden allerlei historische docume
 
 Van veel boeken is niet bekend hoe ze gebonden zijn en van welk materiaal ze gemaakt zijn. De reden hiervoor is dat veel boeken verloren zijn gegaan, of dat het boek sindsdien opnieuw gebonden is. Wel wordt er bij sommige boeken geschreven over het materiaal, zo is er bekend dat er in Lopsen twee evangeliën geproduceerd zijn, waarvan er één van [papier](https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices/papier) was en waarvan de andere een luxe editie was. 
 
-.ve-iframe https://www.erfgoedleiden.nl/collecties/archieven/archievenoverzicht/scans/NL-LdnRAL-0503/1.7.4.1/start/0/limit/10/highlight/1 full height=600px width=90%
+.ve-iframe https://www.erfgoedleiden.nl/collecties/archieven/archievenoverzicht/scans/0503/1.7.4.1/start/0/limit/10/highlight/1 full height=600px width=90%
 
 ## Bronnen:
 
