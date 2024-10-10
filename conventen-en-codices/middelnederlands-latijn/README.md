@@ -15,6 +15,7 @@
     - [Klooster Lopsen](/conventen-en-codices/klooster-lopsen)
     - [Klooster Engelendaal](/conventen-en-codices/klooster-engelendaal)
 
+.ve-meta title="Middelnederlands en Latijn in kloosterteksten"
 # Middelnederlands en Latijn in kloosterteksten
 *Door Annelise Marck*
 <br><br>
