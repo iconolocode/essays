@@ -42,7 +42,7 @@ De andere overgebleven tekst is een preek uit het klooster. Deze is halverwege d
 
 ‘Academiegebouw (Leiden)’, *Wikipedia*, 								<https://nl.wikipedia.org/wiki/Academiegebouw_(Leiden)> (21 april 2023).
 
-DeGregorio, S., ed., *The Cambridge Companion to Bede* (Cambridge: University Press, 		2010) <http://dx.doi.org.ezproxy.leidenuniv.nl:2048/10.1017/CCOL9780521514958>. 
+DeGregorio, S., ed., *The Cambridge Companion to Bede* (Cambridge: University Press, 2010) <http://dx.doi.org.ezproxy.leidenuniv.nl:2048/10.1017/CCOL9780521514958>. 
 
 Gent, Universiteitsbibliotheek, UB 469, te vinden op BNM-I, ‘Gent, UB: 469’, 			<https://bnm-i.huygens.knaw.nl/tekstdragers /TDRA000000000115>.
 
