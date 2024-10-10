@@ -6,8 +6,6 @@
     #juncture h1 {font-family: 'Caudex'}
     #juncture h2 {font-family: 'Caudex'}
     #juncture h3 {font-family: 'Caudex'}
-    #juncture a:card-title {font-family: 'Caudex'}
-    #juncture card-title {font-family: 'Caudex'}
     #juncture .card-title {font-family: 'Caudex'}
 
     
