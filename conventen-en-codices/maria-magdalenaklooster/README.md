@@ -2,7 +2,6 @@
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Cardo&family=Caudex&family=Marck+Script&display=swap');
     #juncture ve-header {font-family: 'Caudex'}
-    #juncture body {background-color: 'black'}
     #juncture h1 {font-family: 'Caudex'}
     #juncture h2 {font-family: 'Caudex'}
     #juncture h3 {font-family: 'Caudex'}
