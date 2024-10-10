@@ -38,7 +38,7 @@ Het genre van boeken dat in Lopsen met name vervaardigd werd, was het genre boek
 In het klooster Lopsen werden ook boeken verlucht, maar hier hadden de kloosterlingen geen eigen stijl voor. De gebruikte methode van verluchting is vergelijkbaar met de verluchting van andere kloosters in Leiden, wat erop duidt dat de verluchters van verschillende kloosters in Leiden contact met elkaar hadden over de manier van verluchting. Opvallend is wel dat veel van de werken van Lopsen geen illustraties bevatten, maar enkel randversieringen hebben.
 
 .ve-media gh:iconolocode/media/Contuale_van_het_klooster_Lopsen_of_St._Hiëronymusdal--UND.jpg full height=600px width=90%
-e bladeren via: <https://www.erfgoedleiden.nl/collecties/bibliotheek/zoeken-in-bibliotheek/detail/d3f03706-8741-11e3-8d9a-5f03cfadb7b4/media/c95a47d7-ead1-3cd6-e975-b82c95cd586c>
+Te bladeren via: <https://www.erfgoedleiden.nl/collecties/bibliotheek/zoeken-in-bibliotheek/detail/d3f03706-8741-11e3-8d9a-5f03cfadb7b4/media/c95a47d7-ead1-3cd6-e975-b82c95cd586c>
 
 ## De catalogus van klooster Lopsen
 *Door Boudewijn van Kaam*
