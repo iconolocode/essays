@@ -20,9 +20,9 @@
 ## Klooster Lopsen: algemene informatie
 *Door Boudewijn van Kaam*
 
-.ve-media wc:Klooster_Lopsen.jpg right
-
 Hier op de Beestenmarkt, aan de andere kant van de Steenstraat, stond vroeger het [klooster](https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices/kloosters-middeleeuwen) Lopsen. Dit klooster is enkele keren van naam veranderd in zijn bestaanstijd: aanvankelijk heette het Sint Hieronymushuis waarna het later, om verwarring met een ander klooster in Leiden te voorkomen, over is gegaan op de naam Hieronymusdal. In de volksmond is dit klooster bekend geworden onder de naam Lopsen. Het is onbekend wanneer het klooster precies opgericht is. Wel is bekend dat het klooster in het jaar 1404, bij de oudst bewaard gebleven vermelding, al een tijdje bestond. Tijdens het bestaan van klooster Lopsen hebben de monniken tot verschillende kloosterordes behoord. De eerste kloosterorde is onbekend. In 1429 hebben de monniken de Derde Orde van Franciscus aangenomen en zijn ze tot het ==Kapittel=={description="Het bestuurscollege van een klooster. Zo genoemd vanwege het hoofdstuk (kapittel) uit de leefregels van het klooster dat vaak tijdens vergaderingen werd voorgedragen."} van Utrecht gaan behoren. In 1456 zijn de monniken overgegaan op de Derde [Orde van Sint Augustinus](https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices/orde-augustinus) en kwam het klooster onder het Kapittel van Windesheim. 
+
+.ve-media wc:Klooster_Lopsen.jpg
 
 Tegenwoordig is er van de gebouwen niets meer te zien, maar het is zeker dat de verschillende gebouwen van het klooster tussen de Steenstraat, Morsstraat en de 1e Binnenvestgracht hebben gelegen.
 
@@ -55,4 +55,6 @@ As-Vijvers, A.M.W., ‘Manuscript production in the monastery of St Hieronymusda
 
 ‘Klooster Sint Hieronymusdal’, *Erfgoedcentrum Nederlands Kloosterleven*,
 <https://www.erfgoedkloosterleven.nl/zoeken/collecties-zoeken.php?mivast=1212&mizig=212&miadt=1212&miaet=14&micode=DOC-MON-ME&minr=1117231&milang=nl&misort=klo%7Cdesc&mif3=Leiden&miview=ldt> (23 maart 2023).
+
+**Afbeelding**: Klooster Lopsen, naar fantasie getekend door Cornelis Brouwer. Bron: ‘Het klooster St. Hieronymusdal of Lopsen te Leyden’, *Wikimedia Commons*, <https://commons.wikimedia.org/wiki/File:Klooster_Lopsen.jpg> (25 mei 2023).
 
