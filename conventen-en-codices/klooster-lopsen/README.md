@@ -56,5 +56,9 @@ As-Vijvers, A.M.W., ‘Manuscript production in the monastery of St Hieronymusda
 ‘Klooster Sint Hieronymusdal’, *Erfgoedcentrum Nederlands Kloosterleven*,
 <https://www.erfgoedkloosterleven.nl/zoeken/collecties-zoeken.php?mivast=1212&mizig=212&miadt=1212&miaet=14&micode=DOC-MON-ME&minr=1117231&milang=nl&misort=klo%7Cdesc&mif3=Leiden&miview=ldt> (23 maart 2023).
 
-**Afbeelding**: Klooster Lopsen, naar fantasie getekend door Cornelis Brouwer. Bron: ‘Het klooster St. Hieronymusdal of Lopsen te Leyden’, *Wikimedia Commons*, <https://commons.wikimedia.org/wiki/File:Klooster_Lopsen.jpg> (25 mei 2023).
+**Afbeeldingen**:
+
+Klooster Lopsen, naar fantasie getekend door Cornelis Brouwer. Bron: ‘Het klooster St. Hieronymusdal of Lopsen te Leyden’, *Wikimedia Commons*, <https://commons.wikimedia.org/wiki/File:Klooster_Lopsen.jpg> (25 mei 2023).
+
+Afbeelding 22: Muziekboek vervaardigd in klooster Lopsen. Bron: ‘LB 65052-7’, *Erfgoed Leiden en Omstreken*, <https://www.erfgoedleiden.nl/collecties/bibliotheek/zoeken-in-bibliotheek/detail/d3f03706-8741-11e3-8d9a-5f03cfadb7b4/media/c95a47d7-ead1-3cd6-e975-b82c95cd586c?mode=detail&view=table&q=919%20L%20547-XII&rows=1&page=1> (25 mei 2023).
 
