@@ -40,3 +40,5 @@ Kwakkel, E., *Books Before Print* (Leeds: Arc Humanities Press, 2018), p. 7.
 Oosten, R. van, en Muurling, S.T.D., ‘Smelly business: De clustering en concentratie van vieze en stinkende beroepen in Leiden in 1581’,* Holland. Historisch tijdschrift* vol. 51-3 (2019), pp. 128-132.
 
 ‘Personen’ (Database; ‘Beroep: fransijnmaker’), *Historisch Leiden in Kaart*, <https://www.historischleideninkaart.nl/personen/?BeroepId=517&Beroepsgroep=fransijnmaker> (16 mei 2023).
+
+**Afbeelding:** Een perkamentmaker. Bron: Hausbuch der Mendelschen Zwölfbrüderstiftung, Band 1. Nürnberg 1426-1549. Stadsbibliothek Nürnberg, Amb. 317.2° f.34v, van ‘Mendel I 034 v’, *Wikimedia Commons*, <https://commons.wikimedia.org/wiki/File:Mendel_I_034_v.jpg> (25 mei 2023).
