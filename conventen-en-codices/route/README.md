@@ -7,6 +7,8 @@
     #juncture h3 {font-family: 'Caudex'}
     #juncture a:link { color: brown; text-decoration: underline; }
     #juncture div { background-color: transparent; }
+    #juncture .card-title {font-family: 'Caudex'; margin-bottom: 10px; text-align: center;}
+    #juncture .card {background-color: white; margin: 10px;}
 </style>
 .ve-header "Conventen en Codices" logo=https://upload.wikimedia.org/wikipedia/commons/5/50/Home_icon_brown.png url=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices wc:Dou_1614_map_of_Leiden.jpg "Een literaire loop door Leiden" position=top sticky search-domain=https://www.juncture-digital.org/iconolocode/essays/conventen-en-codices 
     - [Index](/conventen-en-codices/)
