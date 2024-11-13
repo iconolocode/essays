@@ -37,7 +37,7 @@
 
 ##
 ---
-<p style="padding-left: 200px; padding-right: 20%">
+<p style="color: red;">
 Het belangrijkste verschil tussen Leiden in de middeleeuwen en het hedendaagse Leiden qua gebouwen is de hoge aanwezigheid van kerken en kloosters die er vroeger waren. Deze waren katholiek, aangezien de protestantse en hervormde geloofsstromingen toen nog niet bestonden. De rondleiding richt zich hier dan ook vooral op, je wordt langs verschillende plekken geleid in de stad waar vroeger kloosters stonden. Het tweede onderdeel waar we in de rondleiding op focussen, is de productie en verspreiding van boeken.
 
 Zo komt u langs plekken waar vroeger boekproductie plaatsvond en waar boeken verkocht werden, maar u komt ook langs plekken waar dat tegenwoordig gebeurt. We bestuderen kerken, kloosters, de stijl, de productie en de verspreiding van boeken tegelijkertijd, omdat boeken vooral gebruikt en geproduceerd werden door geestelijken. Kortom, deze rondleiding verbindt het heden met het verleden om je een kijkje te geven in de veranderingen en gelijkenissen tussen middeleeuws en hedendaags Leiden.
