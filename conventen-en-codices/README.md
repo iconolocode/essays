@@ -7,7 +7,7 @@
     #juncture h2 {font-family: 'Caudex'}
     #juncture h3 {font-family: 'Caudex'}
     #juncture .card-title {font-family: 'Caudex'; margin-bottom: 10px; text-align: center;}
-    #juncture .card {background-color: white; margin: 10px;}
+    #juncture .card {background-color: white; margin: 15px;}
     #juncture {background-color: hsl(27, 24%, 93%)}
 
 
