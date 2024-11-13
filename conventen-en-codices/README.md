@@ -23,8 +23,10 @@
 
 ### {.cards}
 
-#### <p style="font-size: 50px;">Inleiding en route beschrijving</p> {href=/conventen-en-codices/route}
+<p style="font-size: 50px;">
+#### Inleiding en route beschrijving {href=/conventen-en-codices/route}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Dou_1614_map_of_Leiden.jpg)
+</p>
 
 #### Kloosters in de middeleeuwen {href=/conventen-en-codices/kloosters-middeleeuwen}
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Barthe_Klostergrundriss_msu.jpg)
